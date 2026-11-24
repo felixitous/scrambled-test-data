@@ -17,7 +17,7 @@ case "${1:-run}" in
   run)
     exec python3 -m http.server $PORT --bind 127.0.0.1
     ;;
-es)
+  *)
     echo "usage: ./serve.sh [start|stop]" >&2
     exit 1
     ;;
