@@ -1,0 +1,118 @@
+[nds-2018 | NDS-2018.pdf | pdf page 38 | printed page 26]
+
+26 SAWN LUMBER
+
+4.1 General
+
+4.1.1 Scope
+
+Chapter 4 applies to engineering design with sawn
+lumber. Design procedures, reference design values,
+and other information herein apply only to lumber
+complying with the requirements specified below.
+
+4.1.2 Identification of Lumber
+
+4.1.2.1 When the reference design values specified
+herein are used, the lumber, including end-jointed or
+edge-glued lumber, shall be identified by the grade
+mark of, or certificate of inspection issued by, a lumber
+grading or inspection bureau or agency recognized as
+being competent (see Reference 31). A distinct grade
+mark of a recognized lumber grading or inspection bu-
+reau or agency, indicating that joint integrity is subject
+to qualification and quality control, shall be applied to
+glued lumber products.
+
+4.1.2.2 Lumber shall be specified by commercial
+species and grade names, or by required levels of de-
+sign values as listed in Tables 4A, 4B, 4C, 4D, 4E, and
+4F (published in the Supplement to this Specification).
+
+4.1.3 Definitions
+
+4.1.3.1 Structural sawn lumber consists of lumber
+classifications known as “Dimension,” “Beams and
+Stringers,” “Posts and Timbers,” and “Decking,” with
+design values assigned to each grade.
+
+4.1.3.2 “Dimension” refers to lumber from 2" to 4"
+(nominal) thick, and 2" (nominal) or more in width.
+Dimension lumber is further classified as Structural
+Light Framing, Light Framing, Studs, and Joists and
+Planks (see References 42, 43, 45, 46, 47, and 49 for
+additional information).
+
+4.1.3.3 “Beams and Stringers” refers to lumber of
+rectangular cross section, 5" (nominal) or more thick,
+with width more than 2" greater than thickness, graded
+with respect to its strength in bending when loaded on
+the narrow face.
+
+4.1.3.4 “Posts and Timbers” refers to lumber of
+square or approximately square cross section, 5" x 5"
+(nominal) and larger, with width not more than 2"
+greater than thickness, graded primarily for use as posts
+or columns carrying longitudinal load.
+
+4.1.3.5 “Decking” refers to lumber from 2" to 4"
+(nominal) thick, tongued and grooved, or grooved for
+spline on the narrow face, and intended for use as a
+roof, floor, or wall membrane. Decking is graded for
+
+application in the flatwise direction, with the wide face
+of the decking in contact with the supporting members,
+as normally installed.
+
+4.1.4 Moisture Service Condition of Lumber
+
+The reference design values for lumber specified
+herein are applicable to lumber that will be used under
+dry service conditions such as in most covered struc-
+tures, where the moisture content in use will be a maxi-
+mum of 19%, regardless of the moisture content at the
+time of manufacture. For lumber used under conditions
+where the moisture content of the wood in service will
+exceed 19% for an extended period of time, the design
+values shall be multiplied by the wet service factors, CM,
+specified in Tables 4A, 4B, 4C, 4D, 4E, and 4F.
+
+4.1.5 Lumber Sizes
+
+4.1.5.1 Lumber sizes referred to in this Specifica-
+tion are nominal sizes. Computations to determine the
+required sizes of members shall be based on the net
+dimensions (actual sizes) and not the nominal sizes.
+The dressed sizes specified in Reference 31 shall be
+accepted as the minimum net sizes associated with
+nominal dimensions (see Table 1A in the Supplement
+to this Specification).
+
+4.1.5.2 For 4" (nominal) or thinner lumber, the net
+DRY dressed sizes shall be used in all computations of
+structural capacity regardless of the moisture content at
+the time of manufacture or use.
+
+4.1.5.3 For 5" (nominal) and thicker lumber, the net
+GREEN dressed sizes shall be used in computations of
+structural capacity regardless of the moisture content at
+the time of manufacture or use.
+
+4.1.5.4 Where a design is based on rough sizes or
+special sizes, the applicable moisture content and size
+used in design shall be clearly indicated in plans or
+specifications.
+
+4.1.6 End-Jointed or Edge-Glued Lumber
+
+Reference design values for sawn lumber are appli-
+cable to structural end-jointed or edge-glued lumber of
+the same species and grade. Such use shall include, but
+not be limited to light framing, studs, joists, planks, and
+decking. When finger jointed lumber is marked “STUD
+USE ONLY” or “VERTICAL USE ONLY” such lum-
+ber shall be limited to use where any bending or tension
+stresses are of short duration.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

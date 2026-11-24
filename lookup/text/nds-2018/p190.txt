@@ -1,0 +1,22 @@
+[nds-2018 | NDS-2018.pdf | pdf page 190 | printed page 178]
+
+178 APPENDIX
+
+Figure J1 Solution of Hankinson Formula
+
+Figure J2
+Connection Loaded at an Angle
+
+to Grain
+
+Sample Solution for Split Ring or Shear Plate Con-
+nection:
+Assume that P' = 5,030 lbs, Q' = 2,620 lbs, and θ = 35°
+in Figure J2. On line A-B in Figure J1, locate 5,030 lbs
+at point n. On the same line A-B, locate 2,620 lbs and
+project to point m on line A-C. Where line m-n inter-
+sects the radial line for 35°, project to line A-B and
+read the ASD adjusted design value, N' = 3,870 lbs.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

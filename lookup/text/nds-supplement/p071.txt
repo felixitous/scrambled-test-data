@@ -1,0 +1,67 @@
+[nds-supplement | NDS_supplement.pdf | pdf page 71 | printed page 63]
+
+DESIGN VALUES FOR WOOD CONSTRUCTION – NDS SUPPLEMENT 63
+REFERENCE DESIGN VALUES
+4
+
+Table 5A
+Reference Design Values for Structural Glued Laminated Softwood Timber
+
+(Members stressed primarily in bending) (Tabulated design values are for normal load duration and dry service conditions. See NDS
+
+                    5.3 for a comprehensive description of design value adjustment factors.)
+                                                                             Use with Table 5A Adjustment Factors
+                                                 Bending About X-X Axis                                                   Bending About Y-Y Axis                         Axially Loaded     Fasteners
+                                                 Loaded Perpendicular to Wide                                                Loaded Parallel to Wide
+                                                     Faces of Laminations                                                     Faces of Laminations
+                              Extreme Fiber in       Compression   Shear              Modulus             Extreme  Compression    Shear              Modulus            Tension Compression Specific Gravity
+                                 Bending             Perpendicular Parallel              of                Fiber in Perpendicular Parallel             of               Parallel to Parallel to  for
+                                                       to Grain   to Grain            Elasticity          Bending    to Grain    to Grain            Elasticity          Grain     Grain    Fastener Design
+                      Bottom of Beam   Top of Beam                                 For             For                                           For             For
+                         Stressed        Stressed                                Deflection      Stability                                     Deflection      Stability
+                         in Tension     in Tension                             Calculations (11) Calculations                                Calculations (11) Calculations
+                      (Positive Bending) (Negative Bending)
+ Stress Class             Fbx+          Fbx- (1)        Fc⊥x      Fvx (4)   Ex true   Ex app     Ex min    Fby        Fc⊥y     Fvy  (4)(5) Ey true  Ey app     Ey min     Ft        Fc           G
+                          (psi)           (psi)         (psi)      (psi)    (106 psi) (106 psi) (106 psi)  (psi)      (psi)       (psi)   (106 psi) (106 psi) (106 psi)  (psi)     (psi)
+ 16F-1.3E                 1600             925           315        195       1.4       1.3       0.69      800        315        170       1.2       1.1       0.58      675       925         0.41
+ 20F-1.5E                 2000            1100           425      195 (6)     1.6       1.5       0.79      800        315        170       1.3       1.2       0.63      725       925         0.41
+ 24F-1.7E                 2400            1450           500      210 (6)     1.8       1.7       0.90     1050        315        185       1.4       1.3       0.69      775      1000         0.42
+ 24F-1.8E                 2400           1450 (2)        650      265 (3)     1.9       1.8       0.95     1450        560       230(3)     1.7       1.6       0.85     1100      1600       0.50 (10)
+ 26F-1.9E (7)             2600            1950           650      265 (3)     2.0       1.9       1.00     1600        560       230 (3)    1.7       1.6       0.85     1150      1600       0.50 (10)
+ 28F-2.1E SP (7)          2800            2300           805        300      2.2 (9)   2.1 (9)  1.09 (9)   1600        650        260       1.8       1.7       0.90     1250      1750         0.55
+ 30F-2.1E SP (7)(8)       3000            2400           805        300      2.2 (9)   2.1 (9)  1.09 (9)   1750        650        260       1.8       1.7       0.90     1250      1750         0.55
+1.  For balanced layups, Fbx- shall be equal to Fbx+ for the stress class. Designer shall specify when balanced layup is required.
+    design values are required.
+
+2. The negative reference bending design value, Fbx
+-, is permitted to be increased to 1850 psi for Douglas Fir and to 1950 psi for Southern Pine for specific combinations. Designer shall specify when these increased
+
+3. For structural glued laminated timber of Southern Pine, the reference shear design values, Fvx and Fvy, are permitted to be increased to 300 psi, and 260 psi, respectively.
+4. The reference design values for shear, Fvx and Fvy, shall be multiplied by the shear reduction factor, Cvr, for the conditions defined in NDS 5.3.10.
+5. Reference design values are for timbers with laminations made from a single piece of lumber across the width or multiple pieces that have been edge bonded. For timbers manufactured from multiple piece
+laminations (across width) that are not edge bonded, the reference design value shall be multiplied by 0.4 for members with 5, 7, or 9 laminations or by 0.5 for all other members. This reduction shall be cu-
+
+mulative with the adjustment in footnote (4).
+
+6. Certain Southern Pine combinations may contain lumber with wane. If lumber with wane is used, the reference design value for shear parallel to grain, Fvx, shall be multiplied by 0.67 if wane is allowed on
+both sides. If wane is limited to one side, Fvx shall be multiplied by 0.83. This reduction shall be cumulative with the adjustment in footnote (4).
+
+7. 26F, 28F, and 30F beams are not produced by all manufacturers, therefore, availability may be limited. Contact supplier or manufacturer for details.
+8. 30F combinations are restricted to a maximum 6 in. nominal width unless the manufacturer has qualified for wider widths based on full-scale tests subject to approval by an accredited inspection agency.
+9. For 28F and 30F members with more than 15 laminations, Ex true = 2.1 x 106 psi, Ex app = 2.0 x 106 psi, and Ex min = 1.06 x 106 psi.
+10. For structural glued laminated timber of Southern Pine, specific gravity for fastener design is permitted to be increased to 0.55.
+11. Notations:
+Ex app, Ey app = Apparent moduli of elasticity in the X-X and Y-Y directions, respectively, for use in beam deflection calculations. Ex app and Ey app correspond to reference moduli of elasticity Ex and Ey, respectively,
+
+as defined in NDS 5.2.7.
+
+Ex true, Ey true = Shear-free moduli of elasticity in the X-X and Y-Y directions, respectively, for use in beam deflection calculations when shear deflection is required to be considered separately from bending
+
+deflection, such as when the span-to-depth ratio of the beam is small.
+
+Stress classes represent groups of similar glued laminated timber combinations. Values for individual combinations are included in Table 5A - Expanded. Reference design values are for members
+
+with 4 or more laminations. For 2 and 3 lamination members, see Table 5B. Some stress classes are not available in all species. Contact manufacturer for availability.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

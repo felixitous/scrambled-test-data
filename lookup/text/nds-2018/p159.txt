@@ -1,0 +1,122 @@
+[nds-2018 | NDS-2018.pdf | pdf page 159 | printed page 147]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 147
+SPECIAL LOADING CONDITIONS
+15
+
+Figure 15A
+Spaced Column Joined by Split
+Ring or Shear Plate Connectors
+
+Condition "a": end distance ≤
+
+ℓ1/20
+
+ℓ1 and
+
+ℓ2 = distances between points of lateral support in planes 1 and 2,
+measured from center to center of lateral supports for continuous spaced
+columns, and measured from end to end for simple spaced columns, inch-
+es.
+
+ℓ3 = Distance from center of spacer block to centroid of the group of split
+ring or shear plate connectors in end blocks, inches.
+d1 and d2 = cross-sectional dimensions of individual rectangular compres-
+
+sion members in planes of lateral support, inches.
+Condition "b":
+
+ℓ1/20 < end distance ≤
+
+ℓ1/10
+
+15.2.2 Spacer and End Block Provisions
+
+15.2.2.1 Spaced columns shall be classified as to
+end fixity either as condition “a” or condition “b” (see
+Figure 15A), as follows:
+
+(a) For condition “a”, the centroid of the split ring
+
+or shear plate connector, or the group of con-
+nectors, in the end block shall be within
+
+ℓ1/20
+from the column end.
+(b) For condition “b”, the centroid of the split ring
+
+or shear plate connector, or the group of con-
+nectors, in the end block shall be between
+
+ℓ1/20
+and
+
+ℓ1/10 from the column end.
+15.2.2.2 Where a single spacer block is located
+within the middle 1/10 of the column length,
+
+ℓ1, split
+ring or shear plate connectors shall not be required for
+this block. If there are two or more spacer blocks, split
+ring or shear plate connectors shall be required and the
+distance between two adjacent blocks shall not exceed
+
+½ the distance between centers of split ring or shear
+plate connectors in the end blocks.
+
+15.2.2.3 For spaced columns used as compression
+members of a truss, a panel point which is stayed later-
+ally shall be considered as the end of the spaced col-
+umn, and the portion of the web members, between the
+individual pieces making up a spaced column, shall be
+permitted to be considered as the end blocks.
+
+15.2.2.4 Thickness of spacer and end blocks shall
+not be less than that of individual members of the
+spaced column nor shall thickness, width, and length of
+spacer and end blocks be less than required for split
+ring or shear plate connectors of a size and number ca-
+pable of carrying the load computed in 15.2.2.5.
+
+15.2.2.5 To obtain spaced column action the split
+ring or shear plate connectors in each mutually contact-
+ing surface of end block and individual member at each
+end of a spaced column shall be of a size and number to
+provide a load capacity in pounds equal to the required
+cross-sectional area in square inches of one of the indi-
+vidual members times the appropriate end spacer block
+constant, KS, determined from the following equations:
+
+Species Group      End Spacer Block Constant, KS
+       A              KS = 9.55 (ℓ1/d1 – 11) ≤ 468
+       B              KS = 8.14 (ℓ1/d1 – 11) ≤ 399
+       C              KS = 6.73 (ℓ1/d1 – 11) ≤ 330
+       D              KS = 5.32 (ℓ1/d1 – 11) ≤ 261
+
+If spaced columns are a part of a truss system or
+other similar framing, the split ring or shear plate con-
+nectors required by the connection provisions in Chap-
+ter 13 of this Specification shall be checked against the
+end spacer block constants, KS, specified above.
+
+15.2.3 Column Stability Factor, CP
+
+15.2.3.1 The effective column length,
+
+ℓe, for a
+spaced column shall be determined in accordance with
+principles of engineering mechanics. One method for
+determining effective column length, when end-fixity
+conditions are known, is to multiply actual column
+length by the appropriate effective length factor speci-
+fied in Appendix G,
+
+                     ℓe = (K e)(ℓ), except that the effec-
+tive column length, ℓe, shall not be less than the actual
+column length, ℓ.
+    15.2.3.2 For individual members of a spaced col-
+umn (see Figure 15A):
+    (a) ℓ1/d1 shall not exceed 80, where  ℓ1 is the dis-
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

@@ -1,0 +1,117 @@
+[nds-2018 | NDS-2018.pdf | pdf page 133 | printed page 121]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 121
+SPLIT RING AND SHEAR PLATE CONNECTORS
+13
+
+the edge extending at right angles to the
+face of the plate and projecting from one
+face only, the plate portion having a central
+bolt hole with an integral hub extending
+from the same face as the flange (see Fig-
+ure 13C).
+13.1.3.2 Dimensions for typical split ring and shear
+plate connectors are provided in Appendix K. Dimen-
+sional tolerances of split ring and shear plate connectors
+shall not be greater than those conforming to standard
+practices for the machine operations involved in manu-
+facturing the connectors.
+
+13.1.3.3 Bolts used with split ring and shear plate
+connectors shall conform to 12.1.3. The bolt shall have
+an unreduced nominal or shank (body) diameter in ac-
+cordance with ANSI/ASME Standard B18.2.1 (Refer-
+ence 7).
+
+13.1.3.4 Where lag screws are used in place of
+bolts, the lag screws shall conform to 12.1.3 and the
+shank of the lag screw shall have the same diameter as
+the bolt specified for the split ring or shear plate con-
+nector (see Tables 13.2A and 13.2B). The lag screw
+shall have an unreduced nominal or shank (body) diam-
+eter and threads in accordance with ANSI/ASME
+Standard B18.2.1 (see Reference 7).
+
+13.1.4 Fabrication and Assembly
+
+13.1.4.1 The grooves, daps, and bolt holes specified
+in Appendix K shall be accurately cut or bored and
+shall be oriented in contacting faces. Since split ring
+and shear plate connectors from different manufacturers
+differ slightly in shape and cross section, cutter heads
+
+shall be designed to produce daps and grooves con-
+forming accurately to the dimensions and shape of the
+particular split ring or shear plate connectors used.
+
+13.1.4.2 Where lag screws are used in place of
+bolts, the hole for the unthreaded shank shall be the
+same diameter as the shank. The diameter of the hole
+for the threaded portion of the lag screw shall be ap-
+proximately 70% of the shank diameter, or as specified
+in 12.1.4.2.
+
+13.1.4.3 In installation of split ring or shear plate
+connectors and bolts or lag screws, a nut shall be placed
+on each bolt, and washers, not smaller than the size
+specified in Appendix K, shall be placed between the
+outside wood member and the bolt or lag screw head
+and between the outside wood member and nut. Where
+an outside member of a shear plate connection is a steel
+strap or shape, the washer is not required, except where
+a longer bolt or lag screw is used, in which case, the
+washer prevents the metal plate or shape from bearing
+on the threaded portion of the bolt or lag screw.
+
+13.1.4.4 Reference design values for split ring and
+shear plate connectors are based on the assumption that
+the faces of the members are brought into contact when
+the connector units are installed, and allow for seasonal
+variations after the wood has reached the moisture con-
+tent normal to the conditions of service. Where split
+ring or shear plate connectors are installed in wood
+which is not seasoned to the moisture content normal to
+the conditions of service, the connections shall be tight-
+ened by turning down the nuts periodically until mois-
+ture equilibrium is reached.
+
+13.2 Reference Design Values
+
+13.2.1 Reference Design Values
+
+13.2.1.1 Tables 13.2A and 13.2B contain reference
+design values for a single split ring or shear plate con-
+nector unit with bolt in single shear, installed in the side
+grain of two wood members (Table 13A) with suffi-
+cient member thicknesses, edge distances, end distanc-
+es, and spacing to develop reference design values.
+Reference design values (P, Q) shall be multiplied by
+all applicable adjustment factors (see Table 11.3.1) to
+obtain adjusted design values (P', Q').
+
+13.2.1.2 Adjusted design values (P', Q') for shear
+plate connectors shall not exceed the limiting reference
+design values specified in Footnote 2 of Table 13.2B.
+
+The limiting reference design values in Footnote 2 of
+Table 13.2B shall not be multiplied by adjustment fac-
+tors in this Specification since they are based on strength
+of metal rather than strength of wood (see 11.2.3).
+
+Table 13A
+Species Groups for Split Ring and
+Shear Plate Connectors
+
+Species Group
+Specific Gravity, G
+A
+G ≥ 0.60
+B
+0.49 ≤ G < 0.60
+C
+0.42 ≤ G < 0.49
+D
+G < 0.42
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

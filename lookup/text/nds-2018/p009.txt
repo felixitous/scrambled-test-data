@@ -1,0 +1,187 @@
+[nds-2018 | NDS-2018.pdf | pdf page 9 | printed page vii]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION vii
+
+LIST OF TABLES FOR THE NDS
+
+2.3.2
+Frequently Used Load Duration
+Factors, CD .................................................. 11
+
+2.3.3
+Temperature Factor, Ct ............................... 11
+
+2.3.5
+Format Conversion Factor, KF
+(LRFD Only)............................................... 12
+
+2.3.6
+Resistance Factor, φ (LRFD Only).............. 12
+
+3.3.3
+Effective Length, ℓe, for Bending
+Members...................................................... 16
+
+3.10.4
+Bearing Area Factors, Cb ............................ 24
+
+4.3.1
+Applicability of Adjustment Factors for
+Sawn Lumber.............................................. 29
+
+4.3.8
+Incising Factors, Ci ..................................... 30
+
+5.1.3
+Net Finished Widths of Structural Glued
+Laminated Timbers..................................... 34
+
+5.2.8
+Radial Tension Design Factors, Frt, for
+Curved Members......................................... 36
+
+5.3.1
+Applicability of Adjustment Factors for
+Structural Glued Laminated Timber........... 37
+
+6.3.1
+Applicability of Adjustment Factors for
+Round Timber Poles and Piles.................... 45
+
+6.3.5
+Condition Treatment Factor, Ct .................. 45
+
+6.3.11
+Load Sharing Factor, Cls, per ASTM
+D 2899......................................................... 46
+
+7.3.1
+Applicability of Adjustment Factors for
+Prefabricated Wood I-Joists........................ 49
+
+8.3.1
+Applicability of Adjustment Factors for
+Structural Composite Lumber..................... 53
+
+9.3.1
+Applicability of Adjustment Factors for
+Wood Structural Panels............................... 57
+
+9.3.4
+Panel Size Factor, Cs .................................. 58
+
+10.3.1
+Applicability of Adjustment Factors for
+Cross-Laminated Timber............................. 61
+
+10.4.1.1
+Shear Deformation Adjustment
+Factors, Ks................................................... 62
+
+11.3.1
+Applicability of Adjustment Factors for
+Connections................................................. 66
+
+11.3.3
+Wet Service Factors, CM, for Connections.. 67
+
+11.3.4
+Temperature Factors, Ct, for Connections... 67
+
+11.3.6A
+Group Action Factors, Cg, for Bolt or
+Lag Screw Connections with Wood Side
+Members...................................................... 70
+
+11.3.6B
+Group Action Factors, Cg, for 4” Split Ring
+or Shear Plate Connectors with Wood Side
+Members...................................................... 70
+
+11.3.6C
+Group Action Factors, Cg, for Bolt or Lag
+Screw Connections with Steel Side Plates.. 71
+
+11.3.6D
+Group Action Factors, Cg, for 4” Shear
+Plate Connectors with Steel Side Plates...... 72
+
+12.2A
+Lag Screw Reference Withdrawal Design
+Values, W.................................................... 77
+
+12.2B
+Cut Thread or Rolled Thread Wood Screw
+Reference Withdrawal Design Values, W... 78
+
+12.2C-E Nail and Spike Reference Design Values.... 79
+
+12.2F
+Head Pull Through, WH............................... 82
+
+12.3.1A
+Yield Limit Equations................................. 83
+
+12.3.1B
+Reduction Term, Rd ..................................... 84
+
+12.3.3
+Dowel Bearing Strengths, Fe, for
+Dowel-Type Fasteners in Wood Members.. 86
+
+12.3.3A
+Assigned Specific Gravities........................ 87
+
+12.3.3B
+Dowel Bearing Strengths for Wood
+Structural Panels......................................... 88
+
+12.5.1A
+End Distance Requirements........................ 90
+
+12.5.1B
+Spacing Requirements for Fasteners in
+a Row.......................................................... 90
+
+12.5.1C
+Edge Distance Requirements...................... 91
+
+12.5.1D
+Spacing Requirements Between Rows....... 91
+
+12.5.1E
+Edge and End Distance and Spacing
+Requirements.............................................. 91
+
+12.5.1F
+Perpendicular to Grain Distance
+Requirements.............................................. 91
+
+12.5.1G
+End Distance, Edge Distance, and
+Fastener Spacing......................................... 92
+
+12A-I
+BOLTS: Reference Lateral Design Values.. 94
+
+12J-K
+LAG SCREWS: Reference Lateral
+Design Values ........................................... 106
+
+12L-M
+WOOD SCREWS: Reference Lateral
+Design Values ........................................... 109
+
+12N-T
+NAILS: Reference Lateral Values .............111
+
+13A
+Species Groups for Split Ring and Shear
+Plate Connectors....................................... 119
+
+13.2A
+Split Ring Connector Unit Reference
+Design Values............................................ 122
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

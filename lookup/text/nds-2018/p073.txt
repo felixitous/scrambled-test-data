@@ -1,0 +1,71 @@
+[nds-2018 | NDS-2018.pdf | pdf page 73 | printed page 61]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 61
+CROSS-LAMINATED TIMBER
+10
+
+Table 10.3.1  Applicability of Adjustment Factors for Cross-Laminated
+              Timber
+                                ASD                          LRFD
+                                        ASD and LRFD
+                                only                          only
+
+Fb(Seff)′ = Fb(Seff)              x CD CM Ct CL         -    -    2.54 0.85 λ
+Ft(Aparallel)′ = Ft(Aparallel)    x CD CM Ct        -   -    -    2.70 0.80 λ
+Fv(tv)′ = Fv(tv)                  x CD CM Ct        -   -    -    2.88 0.75 λ
+Fs(Ib/Q)eff′ = Fs(Ib/Q)eff        x   -   CM Ct     -   -    -    2.00 0.75 -
+Fc(Aparallel)′ = Fc(Aparallel)    x CD CM Ct        -  CP    -    2.40 0.90 λ
+Fc⊥(A)′ = Fc⊥(A)                  x   -   CM Ct     -   -   Cb    1.67 0.90 -
+(EI)app′ = (EI)app                x   -   CM Ct     -   -    -      -     -   -
+(EI)app-min′ = (EI)app-min        x   -   CM Ct     -   -    -    1.76 0.85 -
+
+10.3.3 Wet Service Factor, CM
+
+Reference design values for cross-laminated timber
+are applicable to dry service conditions as specified in
+10.1.5 where CM = 1.0. When the service conditions
+differ from the specified conditions, adjustments for
+high moisture shall be in accordance with information
+provided by the cross-laminated timber manufacturer.
+
+10.3.4 Temperature Factor, Ct
+
+When structural members will experience sustained
+exposure to elevated temperatures up to 150°F (see Ap-
+pendix C), reference design values shall be multiplied
+by the temperature factors, Ct, specified in 2.3.3.
+
+10.3.5 Curvature Factor, Cc
+
+The design of curved cross-laminated timber is be-
+yond the scope of this standard.
+
+10.3.6 Beam Stability Factor, CL
+
+Reference bending design values, Fb(Seff), shall be
+multiplied by the beam stability factor, CL, specified in
+3.3.3.
+
+10.3.7 Column Stability Factor, CP
+
+For cross-laminated timber loaded in-plane as a
+compression member, reference compression design
+values parallel to grain, Fc(Aparallel), shall be multiplied
+by the column stability factor, CP, specified in 3.7.
+
+10.3.8 Bearing Area Factor, Cb
+
+Reference compression design values perpendicular
+to grain, Fc⊥(A), shall be permitted to be multiplied by
+the bearing area factor, Cb, as specified in 3.10.4.
+
+10.3.9 Pressure-Preservative Treatment
+
+Reference design values apply to cross-laminated
+timber treated by an approved process and preservative
+(see Reference 30). Load duration factors greater than
+
+[text in another orientation] Load Duration Factor | Wet Service Factor | Temperature Factor | Beam Stability Factor | Column Stability Factor | Bearing Area Factor | Format Conversion Factor | Resistance Factor | Time Effect Factor
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

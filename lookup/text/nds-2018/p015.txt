@@ -1,0 +1,97 @@
+[nds-2018 | NDS-2018.pdf | pdf page 15 | printed page 3]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 3
+GENERAL REQUIREMENTS FOR STRUCTURAL DESIGN
+1
+
+1.4.2 Governed by Codes
+
+Minimum design loads shall be in accordance with
+the building code under which the structure is designed,
+or where applicable, other recognized minimum design
+load standards.
+
+1.4.3 Loads Included
+
+Design loads include any or all of the following
+loads or forces: dead, live, snow, wind, earthquake,
+erection, and other static and dynamic forces.
+
+1.4.4 Load Combinations
+
+Combinations of design loads and forces, and load
+combination factors, shall be in accordance with the
+building code under which the structure is designed, or
+where applicable, other recognized minimum design
+load standards (see Reference 5 for additional infor-
+mation). The governing building code shall be permit-
+ted to be consulted for load combination factors. Load
+combinations and associated time effect factors, λ, for
+use in LRFD are provided in Appendix N.
+
+1.5 Specifications and Plans
+
+1.5.1 Sizes
+
+The plans or specifications, or both, shall indicate
+whether wood products sizes are stated in terms of
+standard nominal, standard net or special sizes, as spec-
+ified for the respective wood products in Chapters 4, 5,
+6, 7, 8, 9 and 10.
+
+1.6 Notation
+
+Except where otherwise noted, the symbols used in
+this Specification have the following meanings:
+
+      A  = area of cross section, in.2
+  Acritical = minimum shear area for any fastener in a
+           row, in.2
+    Aeff = effective cross-sectional area of a cross-
+           laminated timber section, in.2/ft of panel
+           width
+Agroup-net = critical group net section area between
+           first and last row of fasteners, in.2
+     Am = gross cross-sectional area of main mem-
+           ber(s), in.2
+     An = cross-sectional area of notched member,
+           in.2
+    Anet = net section area, in.2
+ Aparallel = area of cross section of cross-laminated
+
+timber layers with fibers parallel to the
+load direction, in.2/ft of panel width
+
+As = sum of gross cross-sectional areas of side
+
+member(s), in.2
+
+CD = load duration factor
+
+CF = size factor for sawn lumber
+
+ CI = stress interaction factor for tapered glued
+      laminated timbers
+ CL = beam stability factor
+CM = wet service factor
+ CP = column stability factor
+ CT = buckling stiffness factor for dimension
+      lumber
+ CV = volume factor for structural glued laminat-
+      ed timber or structural composite lumber
+ Cb = bearing area factor
+ Cc = curvature factor for structural glued
+      laminated timber
+Ccs = critical section factor for round timber
+      piles
+Cct = condition treatment factor for timber poles
+      and piles
+ Cd = penetration depth factor for connections
+Cdi = diaphragm factor for nailed connections
+Cdt = empirical constant derived from relation-
+
+ship of equations for deflection of tapered
+straight beams and prismatic beams
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

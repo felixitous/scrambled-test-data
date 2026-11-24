@@ -1,0 +1,60 @@
+[nds-supplement | NDS_supplement.pdf | pdf page 12 | printed page 4]
+
+4 SPECIES COMBINATIONS
+
+2.1     List of Sawn Lumber Species Combinations
+ Species or Species                  Species That May Be               Grading             Design Values
+   Combination                     Included in Combination          Rules Agencies       Provided in Tables
+ Alaska Cedar                                                           WCLIB             4A
+ Alaska Hemlock                                                         WWPA              4A
+ Alaska Spruce                      Alaska Sitka Spruce                 WWPA              4A
+                                    Alaska White Spruce
+ Alaska Yellow Cedar                                                    WCLIB, WWPA       4A
+ Aspen                              Big Tooth Aspen                     NELMA             4A
+                                    Quaking Aspen                       WWPA
+ Baldcypress                                                            SPIB              4A, 4D
+ Balsam Fir                                                             NELMA             4D, 4E
+ Beech-Birch-Hickory                American Beech                      NELMA             4A, 4D
+                                    Bitternut Hickory
+                                    Mockernut Hickory
+                                    Nutmeg Hickory
+                                    Pecan Hickory
+                                    Pignut Hickory
+                                    Shagbark Hickory
+                                    Shellbark Hickory
+                                    Sweet Birch
+                                    Water Hickory
+                                    Yellow Birch
+ Coast Sitka Spruce                                                     NLGA              4A, 4D, 4E
+ Coast Species                      Amabilis Fir                        NLGA              4E
+                                    Coast Sitka Spruce
+                                    Douglas Fir
+                                    Western Hemlock
+                                    Western Larch
+ Cottonwood                                                             NELMA             4A
+ Douglas Fir-Larch                  Douglas Fir                         WCLIB             4A, 4C, 4D, 4E
+                                    Western Larch                       WWPA
+ Douglas Fir-Larch (North)          Douglas Fir                         NLGA              4A, 4C, 4D, 4E
+                                    Western Larch
+ Douglas Fir-South                                                      WWPA              4A, 4C, 4D, 4E
+ Eastern Hemlock                                                        NELMA             4D
+ Eastern Hemlock-Balsam Fir         Balsam Fir                          NELMA             4A
+                                    Eastern Hemlock
+                                    Tamarack
+ Eastern Hemlock-Tamarack           Eastern Hemlock                     NELMA             4A, 4D, 4E
+                                    Tamarack
+ Eastern Hemlock-Tamarack (North)   Eastern Hemlock                     NLGA              4D, 4E
+                                    Tamarack
+ Eastern Softwoods                  Balsam Fir                          NELMA             4A
+                                    Black Spruce
+                                    Eastern Hemlock
+                                    Eastern White Pine
+                                    Jack Pine
+                                    Norway (Red) Pine
+                                    Pitch Pine
+                                    Red Spruce
+                                    Tamarack
+                                    White Spruce
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

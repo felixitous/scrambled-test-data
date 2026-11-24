@@ -1,0 +1,116 @@
+[nds-supplement | NDS_supplement.pdf | pdf page 5 | printed page iii]
+
+DESIGN DESIGN VALUES VALUES FOR FOR WOOD WOOD CONSTRUCTION CONSTRUCTION – – NDS NDS SUPPLEMENT SUPPLEMENT iii
+
+Introduction
+
+This Supplement is a compendium of reference de-
+sign values for structural sawn lumber, structural glued
+laminated timber, and round timber piles and poles. It is
+good practice to check sources for availability of sizes,
+species and grades of products specified in this Supple-
+ment. These reference design values have been obtained
+from the organizations responsible for establishing design
+values for these products. Reference design values in this
+Supplement are provided as a courtesy for use with the
+design provisions of the National Design Specification®
+(NDS®) for Wood Construction, 2018 Edition.
+
+Lumber
+Reference design values for lumber in this Supple-
+ment are obtained from grading rules published by seven
+agencies: National Lumber Grades Authority (a Canadian
+agency), Northeastern Lumber Manufacturers Association,
+Northern Softwood Lumber Bureau, Redwood Inspection
+Service, Southern Pine Inspection Bureau, West Coast
+Lumber Inspection Bureau, and Western Wood Products
+Association. Grading rules promulgated by these agencies,
+including reference design values therein, have been ap-
+proved by the Board of Review of the American Lumber
+Standard Committee and certified for conformance with
+U.S. Department of Commerce Voluntary Product Stan-
+dard PS 20-15 (American Softwood Lumber Standard).
+
+Reference design values for most species and grades of
+visually graded dimension lumber are based on provisions
+of ASTM Standard D 1990-16 (Establishing Allowable
+Properties for Visually Graded Dimension Lumber from
+In-Grade Tests of Full-Size Specimens). Reference design
+values for visually graded timbers, decking, and some
+species and grades of dimension lumber are based on pro-
+visions of ASTM Standard D 245-06 (2011) (Establishing
+Structural Grades and Related Allowable Properties for
+Visually Graded Lumber). Methods in ASTM Standard
+D 245 involve adjusting strength properties of small clear
+specimens of wood, as given in ASTM Standard D 2555-
+16 (Establishing Clear Wood Strength Values), for effects
+of knots, slope of grain, splits, checks, size, duration of
+load, moisture content, and other influencing factors, to
+obtain reference design values applicable to normal condi-
+tions of service. Lumber structures designed on the basis
+of working stresses derived from ASTM Standard D 245
+procedures and standard design criteria have a long history
+of satisfactory performance.
+
+Reference design values for machine stress rated
+(MSR) lumber and machine evaluated lumber (MEL) are
+based on nondestructive testing of individual pieces. Cer-
+tain visual grade requirements also apply to such lumber.
+
+The stress rating system used for MSR and MEL lumber
+is regularly checked by the responsible grading agency
+for conformance to established certification and quality
+control procedures.
+
+For additional information on development and appli-
+cability of lumber reference design values, grading rules
+published by individual agencies and referenced ASTM
+Standards should be consulted.
+
+Structural Glued Laminated Timber
+Reference design values in this Supplement for struc-
+tural glued laminated timber are developed and published
+by the American Institute of Timber Construction (AITC)
+and APA–The Engineered Wood Association (APA) in
+accordance with principles originally established by the
+U.S. Forest Products Laboratory in the early 1950s. These
+principles involve adjusting strength properties of clear
+straight grained lumber to account for knots, slope of grain,
+density, size of member, number of laminations, and other
+factors unique to laminated timber.
+
+Specific methods used to establish reference design
+values have been periodically revised and improved to
+reflect results of tests of large structural glued laminated
+timber members conducted by the U.S. Forest Products
+Laboratory and other accredited testing agencies. The
+performance history of structures made with structural
+glued laminated timber conforming to AITC or APA speci-
+fications and manufactured in accordance with American
+National Standard ANSI A190.1-2017 (Structural Glued
+Laminated Timber) has demonstrated the validity of meth-
+ods used to establish structural glued laminated timber
+reference design values.
+
+Round Timber Piles and Poles
+Reference design values in this Supplement for round
+timber piles and poles are developed by the Timber Piling
+Council of the Southern Pressure Treaters’ Association in
+accordance with principles originally established by the
+U.S. Forest Products Laboratory in the early 1950s and
+contained in ASTM D 2899-12 (Standard Practice for
+Establishing Allowable Stresses for Round Timber Piles)
+and ASTM D 3200-74 (2012) (Standard Practice for Estab-
+lishing Allowable Stresses for Round Timber Construction
+Poles), respectively. These principles involve adjusting
+strength properties of clear straight grained poles to ac-
+count for knots, slope of grain, density, size of member,
+and other factors unique to timber poles.
+
+Specific methods used to establish reference design
+values are contained in D 2899 and are used by D 3200.
+These methods have been revised to reflect results of full-
+size tests of timber piles.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

@@ -1,0 +1,27 @@
+[nds-2018 | NDS-2018.pdf | pdf page 24 | printed page 12]
+
+12 DESIGN VALUES FOR STRUCTURAL MEMBERS
+
+Table 2.3.5
+Format Conversion Factor, KF (LRFD Only)
+
+Application                  Property                             KF
+Member                       Fb                                  2.54
+                             Ft                                  2.70
+                             Fv, Frt, Fs                         2.88
+                             Fc                                  2.40
+                             Fc⊥                                 1.67
+                             Emin                                1.76
+All Connections              (all design values)                 3.32
+
+Table 2.3.6      Resistance Factor, φ (LRFD Only)
+ Application               Property                Symbol          Value
+ Member                    Fb                         φb            0.85
+                           Ft                         φt            0.80
+                           Fv, Frt, Fs                φv            0.75
+                           Fc, Fc⊥                    φc            0.90
+                           Emin                       φs            0.85
+ All Connections           (all design values)        φz            0.65
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

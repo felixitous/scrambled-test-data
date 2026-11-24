@@ -1,0 +1,101 @@
+[nds-2018 | NDS-2018.pdf | pdf page 56 | printed page 44]
+
+44 ROUND TIMBER POLES AND PILES
+
+6.1 General
+
+6.1.1 Scope
+
+6.1.1.1 Chapter 6 applies to engineering design
+with round timber poles and piles. Design procedures
+and reference design values herein pertain to the load
+carrying capacity of poles and piles as structural wood
+members.
+
+6.1.1.2 This Specification does not apply to the
+load supporting capacity of the soil.
+
+6.1.2 Specifications
+
+6.1.2.1 The procedures and reference design values
+herein apply only to timber piles conforming to appli-
+cable provisions of ASTM Standard D 25 and only to
+poles conforming to applicable provisions of ASTM
+Standard D 3200.
+
+6.1.2.2 Specifications for round timber poles and
+piles shall include the standard for preservative treat-
+ment, pile length, and nominal tip circumference or
+nominal circumference 3 feet from the butt. Specifica-
+tions for piles shall state whether piles are to be used as
+foundation piles, land and fresh water piles, or marine
+piles.
+
+6.1.3 Standard Sizes
+
+6.1.3.1 Standard sizes for round timber piles are
+given in ASTM Standard D 25.
+
+6.1.3.2 Standard sizes for round timber poles are
+given in ASTM Standard D 3200.
+
+6.1.4 Preservative Treatment
+
+6.1.4.1 Reference design values apply to untreated,
+air dried timber poles and piles, and shall be adjusted in
+accordance with 6.3.5 when conditioned and treated by
+an approved process (see Reference 30). Load duration
+factors greater than 1.6 shall not apply to structural
+members pressure-treated with water-borne preserva-
+tives.
+
+6.1.4.2 Untreated, timber poles and piles shall not
+be used unless the cutoff is below the lowest ground
+water level expected during the life of the structure, but
+in no case less than 3 feet below the existing ground
+water level unless approved by the authority having
+jurisdiction.
+
+6.2 Reference Design Values
+
+6.2.1 Reference Design Values
+
+6.2.1.1 Reference design values for round timber
+piles are specified in Table 6A (published in the Sup-
+plement to this Specification). Reference design values
+in Table 6A are based on the provisions of ASTM
+Standard D 2899.
+
+6.2.1.2 Reference design values for round timber
+poles are specified in Table 6B (published in the Sup-
+plement to this Specification). Reference design values
+
+in Table 6B are based on provisions of ASTM Standard
+D 3200.
+
+6.2.2 Other Species or Grades
+
+Reference design values for piles of other species
+or grades shall be determined in accordance with
+ASTM Standard D 2899.
+
+6.3 Adjustment of Reference Design Values
+
+6.3.1 General
+
+Reference design values (Fc, Fb, Fv, Fc⊥, E, Emin)
+from Table 6A and 6B shall be multiplied by the ad-
+justment factors specified in Table 6.3.1 to determine
+adjusted design values (Fc', Fb', Fv', Fc⊥', E', Emin').
+
+6.3.2 Load Duration Factor, CD (ASD Only)
+
+All reference design values except modulus of elas-
+ticity, E, modulus of elasticity for column stability,
+Emin, and compression perpendicular to grain, Fc⊥, shall
+be multiplied by load duration factors, CD, as specified
+in 2.3.2. Load duration factors greater than 1.6 shall not
+apply to timber poles or piles pressure-treated with wa-
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

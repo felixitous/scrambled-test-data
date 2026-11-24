@@ -1,0 +1,60 @@
+[nds-supplement | NDS_supplement.pdf | pdf page 81 | printed page 73]
+
+DESIGN VALUES FOR WOOD CONSTRUCTION – NDS SUPPLEMENT 73
+REFERENCE DESIGN VALUES
+4
+
+Table 5D
+Reference Design Values for Structural Glued Laminated Hardwood Timber
+
+(Members stressed primarily in axial tension or compression) (Tabulated design values are for normal load duration and dry
+
+service conditions. See NDS 5.3 for a comprehensive description of design value adjustment factors.)
+
+                                                                  Use with Table 5D Adjustment Factors
+                                    All Loading                 Axially Loaded             Bending about Y-Y Axis              Bending About X-X Axis           Fasteners
+                                 Modulus                                                      Loaded Parallel to Wide          Loaded Perpendicular to Wide
+                                    of                       Tension    Compression            Faces of Laminations                Faces of Laminations
+                                 Elasticity                  Parallel     Parallel             Bending           Shear Parallel   Bending       Shear Parallel
+                              For        For                 to Grain      to Grain                               to Grain(1)(2)                   to Grain
+                            Deflection Stability
+                           Calculations Calculations Compression 2 or More 4 or More 2 or 3 4 or More 3    2      4 or More       2 Lami-                       Specific Gravity
+Combination Species Grade                       Perpendicular Lami-    Lami-   Lami-    Lami-    Lami-   Lami-      Lami-        nations to                          for
+  Symbol    Group                                 to Grain   nations  nations  nations  nations  nations nations   nations      15 in. Deep (3)                 Fastener Design
+                               E        Emin        Fc⊥         Ft      Fc       Fc      Fby      Fby     Fby        Fvy            Fbx              Fvx              G
+                            (106 psi)  (106 psi)    (psi)     (psi)    (psi)    (psi)    (psi)    (psi)   (psi)     (psi)           (psi)           (psi)
+E-Rated Hardwoods
+    H17       A     1.5E3     1.4       0.73       1015       1000     1500     1350     1850    1750     1550       175           1200              200             0.63
+    H18       A     1.8E3     1.7       0.88       1015       1150     1950     1850     2100    2000     1750       175           1450              200             0.63
+    H19       A     1.8E6     1.7       0.88       1015       1450     2000     1900     2300    2200     1950       175           1650              200             0.63
+    H20       A     2.0E3     1.9       0.98       1015       1350     2600     2200     2400    2300     2100       175           1700              200             0.63
+    H21       A     2.0E6     1.9       0.98       1015       1700     2430     2300     2400    2400     2300       175           2100              200             0.63
+    H22       B     1.5E3     1.4       0.73        770       1000     1500     1350     1850    1750     1550       160           1200              180             0.53
+    H23       B     1.8E3     1.7       0.88        770       1150     1950     1850     2100    2000     1750       160           1450              180             0.53
+    H24       B     1.8E6     1.7       0.88        770       1450     2000     1900     2300    2200     1950       160           1650              180             0.53
+    H25       B     2.0E3     1.9       0.98        770       1350     2300     2200     2400    2300     2100       160           1700              180             0.53
+    H26       B     2.0E6     1.9       0.98        770       1700     2400     2300     2400    2400     2300       160           2100              180             0.53
+    H27       C     1.5E3     1.4       0.73        590       1000     1500     1350     1850    1750     1550       135           1200              155             0.45
+    H28       C     1.8E3     1.7       0.88        590       1150     1950     1850     2100    2000     1750       135           1450              155             0.45
+    H29       C     1.8E6     1.7       0.88        590       1450     2000     1900     2300    2200     1950       135           1650              155             0.45
+    H30       C     2.0E3     1.9       0.98        590       1350     2300     2200     2400    2300     2100       135           1700              155             0.45
+    H31       C     2.0E6     1.9       0.98        590       1700     2400     2300     2400    2400     2300       135           2100              155             0.45
+    H32       D     1.5E3     1.4       0.73        440       1000     1500     1350     1850    1750     1550       110           1200              125             0.39
+    H33       D     1.5E6     1.4       0.73        440       1250     1500     1400     2000    1900     1700       110           1250              125             0.39
+    H34       D     1.8E3     1.7       0.88        440       1150     1950     1850     2100    2000     1750       110           1450              125             0.39
+    H35       D     1.8E6     1.7       0.88        440       1450     2000     1900     2300    2200     1950       110           1650              125             0.39
+    H36       D     2.0E3     1.9       0.98        440       1350     2300     2200     2400    2300     2100       110           1700              125             0.39
+    H37       D     2.0E6     1.9       0.98        440       1700     2400     2300     2400    2400     2300       110           2100              125             0.39
+
+(Cont.)
+
+1. For members with 2 or 3 laminations, the reference shear design value for transverse loads parallel to the wide faces of the laminations, Fvy, shall be reduced by multiplying by a factor of 0.84 or 0.95, respectively.
+2. The reference shear design value for transverse loads applied parallel to the wide faces of the laminations, Fvy, shall be multiplied by 0.4 for members with 5, 7, or 9 laminations manufactured from multiple piece
+laminations (across width) that are not edge bonded. The reference shear design value, Fvy, shall be multiplied by 0.5 for all other members manufactured from multiple piece laminations with unbonded edge
+
+joints. This reduction shall be cumulative with the adjustment in footnote (1).
+
+3. For members greater than 15 in. deep, the reference bending design value, Fbx, shall be reduced by multiplying by a factor of 0.88.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

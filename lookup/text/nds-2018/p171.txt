@@ -1,0 +1,68 @@
+[nds-2018 | NDS-2018.pdf | pdf page 171 | printed page 159]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 159
+APPENDIX
+A
+
+the provisions of Appendix A.11 are followed
+or when the roof joists rest on and are securely
+fastened to the top chords of the trusses and are
+covered with wood sheathing. Where sheathing
+other than wood is applied, top chord diagonal
+lateral bracing should be installed.
+(b) In all cases, vertical sway bracing should be in-
+
+stalled in each third or fourth bay at intervals of
+approximately 35 feet measured parallel to
+trusses. Also, bottom chord lateral bracing
+should be installed in the same bays as the ver-
+tical sway bracing, where practical, and should
+extend from side wall to side wall. In addition,
+struts should be installed between bottom
+chords at the same truss panels as vertical sway
+bracing and should extend continuously from
+end wall to end wall. If the roof construction
+does not provide proper top chord strut action,
+separate additional members should be provid-
+ed.
+
+A.11 Lateral Support of Arches,
+Compression Chords of Trusses and Studs
+
+A.11.1 When roof joists or purlins are used be-
+tween arches or compression chords, or when roof
+joists or purlins are placed on top of an arch or com-
+pression chord, and are securely fastened to the arch or
+compression chord, the largest value of
+
+ℓe/d, calculated
+using the depth of the arch or compression chord or
+calculated using the breadth (least dimension) of the
+arch or compression chord between points of intermit-
+tent lateral support, shall be used. The roof joists or
+purlins should be placed to account for shrinkage (for
+example by placing the upper edges of unseasoned
+joists approximately 5% of the joist depth above the
+tops of the arch or chord), but also placed low enough
+to provide adequate lateral support.
+
+A.11.2 When planks are placed on top of an arch or
+compression chord, and securely fastened to the arch or
+compression chord, or when sheathing is nailed proper-
+ly to the top chord of trussed rafters, the depth rather
+than the breadth of the arch, compression chord, or
+trussed rafter shall be permitted to be used as the least
+dimension in determining
+
+ℓe/d.
+A.11.3 When stud walls in light frame construction
+are adequately sheathed on at least one side, the depth,
+rather than breadth of the stud, shall be permitted to be
+taken as the least dimension in calculating the
+
+ℓe/d ra-
+tio. The sheathing shall be shown by experience to pro-
+vide lateral support and shall be adequately fastened.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

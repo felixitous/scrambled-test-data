@@ -1,0 +1,82 @@
+[nds-2018 | NDS-2018.pdf | pdf page 26 | printed page 14]
+
+14 DESIGN PROVISIONS AND EQUATIONS
+
+3.1 General
+
+3.1.1 Scope
+
+Chapter 3 establishes general design provisions that
+apply to all wood structural members and connections
+covered under this Specification. Each wood structural
+member or connection shall be of sufficient size and
+capacity to carry the applied loads without exceeding
+the adjusted design values specified herein. Reference
+design values and specific design provisions applicable
+to particular wood products or connections are given in
+other Chapters of this Specification.
+
+3.1.2 Net Section Area
+
+3.1.2.1 The net section area is obtained by deduct-
+ing from the gross section area the projected area of all
+material removed by boring, grooving, dapping, notch-
+ing, or other means. The net section area shall be used
+in calculating the load carrying capacity of a member,
+except as specified in 3.6.3 for columns. The effects of
+any eccentricity of loads applied to the member at the
+critical net section shall be taken into account.
+
+3.1.2.2 For parallel to grain loading with staggered
+bolts, drift bolts, drift pins, or lag screws, adjacent fas-
+teners shall be considered as occurring at the same crit-
+ical section if the parallel to grain spacing between fas-
+teners in adjacent rows is less than four fastener diame-
+ters (see Figure 3A).
+
+Figure 3A
+Spacing of Staggered Fasteners
+
+3.1.2.3 The net section area at a split ring or shear
+plate connection shall be determined by deducting from
+the gross section area the projected areas of the bolt
+hole and the split ring or shear plate groove within the
+member (see Figure 3B and Appendix K). Where split
+ring or shear plate connectors are staggered, adjacent
+connectors shall be considered as occurring at the same
+
+critical section if the parallel to grain spacing between
+connectors in adjacent rows is less than or equal to one
+connector diameter (see Figure 3A).
+
+Figure 3B
+Net Cross Section at a Split Ring
+or Shear Plate Connection
+
+3.1.3 Connections
+
+Structural members and fasteners shall be arranged
+symmetrically at connections, unless the bending mo-
+ment induced by an unsymmetrical arrangement (such
+as lapped joints) has been accounted for in the design.
+Connections shall be designed and fabricated to insure
+that each individual member carries its proportional
+stress.
+
+3.1.4 Time Dependent Deformations
+
+Where members of structural frames are composed
+of two or more layers or sections, the effect of time de-
+pendent deformations shall be accounted for in the de-
+sign (see 3.5.2 and Appendix F).
+
+3.1.5 Composite Construction
+
+Composite constructions, such as wood-concrete,
+wood-steel, and wood-wood composites, shall be de-
+signed in accordance with principles of engineering
+mechanics using the adjusted design values for struc-
+tural members and connections specified herein.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

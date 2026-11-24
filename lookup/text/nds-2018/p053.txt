@@ -1,0 +1,72 @@
+[nds-2018 | NDS-2018.pdf | pdf page 53 | printed page 41]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 41
+STRUCTURAL GLUED LAMINATED TIMBER
+5
+
+5.4.3 Lateral Stability for Tudor Arches
+
+The ratio of tangent point depth to breadth (d/b) of
+tudor arches (see Figure 5D) shall not exceed 6, based
+on actual dimensions, when one edge of the arch is
+braced by decking fastened directly to the arch, or
+braced at frequent intervals as by girts or roof purlins.
+Where such lateral bracing is not present, d/b shall not
+exceed 5. Arches shall be designed for lateral stability
+in accordance with the provisions of 3.7 and 3.9.2.
+
+Figure 5D
+Tudor Arch
+
+5.4.4 Tapered Straight Bending Members
+
+5.4.4.1 Tapered straight beams (see Figure 5E)
+shall be designed for flexural strength in accordance
+with 3.3. The stress interaction factor from 5.3.9 shall
+apply. For field-tapered members, the reference bend-
+ing design value, Fbx, and the reference modulus of
+elasticity, Ex, shall be reduced according to the manu-
+facturer’s recommendations to account for the removal
+of high grade material near the surface of the member.
+
+5.4.4.2 Tapered straight beams shall be designed
+for shear strength in accordance with 3.4, except that
+the provisions of 3.4.3.1 shall not apply. The shear
+reduction factor from 5.3.10 shall apply.
+
+5.4.4.3 The deflection of tapered straight beams
+shall be determined in accordance with 3.5, except that
+the maximum deflection of a tapered straight beam
+
+subject to uniform loads shall be permitted to be calcu-
+lated as equivalent to the depth, dequiv, of an equivalent
+prismatic member of the same width where:
+
+   dequiv = Cdt de                              (5.4-6)
+where:
+       de = depth at the small end of the member, in.
+      Cdt = empirical constant derived from relationship
+
+of equations for deflection of tapered
+straight beams and prismatic beams.
+
+For symmetrical double-tapered beams:
+
+Cdt = 1 + 0.66Cy when 0 < Cy ≤ 1
+
+Cdt = 1 + 0.62Cy when 0 < Cy ≤ 3
+
+For single-tapered beams:
+
+Cdt = 1 + 0.46Cy when 0 < Cy ≤ 1.1
+
+Cdt = 1 + 0.43Cy when 1.1 < Cy ≤ 2
+
+   For both single- and double-tapered beams:
+     C  = dc − de
+      y     de
+Figure 5E     Tapered Straight Bending
+              Members
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

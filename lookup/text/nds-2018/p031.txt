@@ -1,0 +1,78 @@
+[nds-2018 | NDS-2018.pdf | pdf page 31 | printed page 19]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 19
+DESIGN PROVISIONS AND EQUATIONS
+3
+
+where:
+
+for split ring or shear plate connections:
+
+de = depth of member, less the distance from the
+
+unloaded edge of the member to the nearest
+edge of the nearest split ring or shear plate
+connector (see Figure 3E), in.
+
+for bolt or lag screw connections:
+
+de = depth of member, less the distance from the
+
+unloaded edge of the member to the center
+of the nearest bolt or lag screw (see Figure
+3E), in.
+
+(b) Where the connection is at least five times the
+
+depth, 5d, of the member from its end, the ad-
+justed design shear, Vr', shall be calculated as
+follows:
+
+Vr′ = 2 Fv′bde                             (3.4-7)
+      3
+(c) Where concealed hangers are used, the adjusted
+
+design shear, Vr', shall be calculated based on
+the provisions in 3.4.3.2 for notched bending
+members.
+
+Figure 3E
+Effective Depth, de, of Members at Connections
+
+3.5 Bending Members – Deflection
+
+3.5.1 Deflection Calculations
+
+If deflection is a factor in design, it shall be calcu-
+lated by standard methods of engineering mechanics
+considering bending deflections and, when applicable,
+shear deflections. Consideration for shear deflection is
+required when the reference modulus of elasticity has
+not been adjusted to include the effects of shear deflec-
+tion (see Appendix F).
+
+3.5.2 Long-Term Loading
+
+Where total deflection under long-term loading
+must be limited, increasing member size is one way to
+
+provide extra stiffness to allow for this time dependent
+deformation (see Appendix F). Total deflection, ΔT,
+shall be calculated as follows:
+
+ΔT = Kcr ΔLT + ΔST
+(3.5-1)
+
+where:
+
+Kcr = time dependent deformation (creep) factor
+
+= 1.5 for seasoned lumber, structural glued
+
+laminated timber, prefabricated wood I-joists,
+or structural composite lumber used in dry
+service conditions as defined in 4.1.4, 5.1.4,
+7.1.4, and 8.1.4, respectively.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

@@ -1,0 +1,27 @@
+[nds-supplement | NDS_supplement.pdf | pdf page 60 | printed page 52]
+
+52 REFERENCE DESIGN VALUES
+
+1. LUMBER DIMENSIONS. Tabulated design values are applicable to lumber that will be used under dry conditions such as in most covered structures. For 5"
+and thicker lumber, the GREEN dressed sizes shall be permitted to be used (see Table 1A) because design values have been adjusted to compensate for any loss
+in size by shrinkage which may occur.
+2. SPRUCE PINE. To obtain recommended design values for Spruce Pine graded to Southern Pine Inspection Bureau (SPIB) rules, multiply the appropriate design
+values for Mixed Southern Pine by the corresponding conversion factor shown below and round to the nearest 100,000 psi for E; to the nearest 10,000 psi for E;
+to the next lower multiple of 5 psi for Fv and Fc⊥; to the next lower multiple of 50 psi for Fb, Ft, and Fc if 1,000 psi or greater, 25 psi otherwise.
+
+        CONVERSION FACTORS FOR DETERMINING DESIGN VALUES FOR SPRUCE PINE
+                            Tension         Shear       Compression      Compression       Modulus
+                            parallel       parallel    perpendicular        parallel           of
+              Bending      to grain        to grain       to grain          to grain       Elasticity
+                 Fb           Ft              Fv             Fc⊥               Fc          E and Emin
+Conversion
+  Factor        0.78         0.78            0.98           0.73              0.78            0.82
+
+Footnotes to Table 4D
+
+3. When individual species or species groups are combined, the design values to be used for the combination shall be the lowest design values for each individual
+species or species group for each design property.
+4. Specific gravity, G, based on weight and volume when oven-dry.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

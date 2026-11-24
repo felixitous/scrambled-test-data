@@ -1,0 +1,41 @@
+[nds-2018 | NDS-2018.pdf | pdf page 169 | printed page 157]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 157
+A
+
+APPENDIX
+
+A  Construction and Design Practices       158
+B  Load Duration (ASD Only)                160
+C  Temperature Effects                     162
+D  Lateral Stability of Beams              163
+E  Local Stresses in Fastener Groups       164
+F  Design for Creep and Critical Deflection
+   Applications                            169
+G  Effective Column Length                 171
+H  Lateral Stability of Columns            172
+I  Yield Limit Equations for Connections   173
+J  Solution of Hankinson Formula           176
+K  Typical Dimensions for Split Ring and
+   Shear Plate Connectors                  179
+L  Typical Dimensions for Dowel-Type
+   Fasteners and Washers                   180
+M Manufacturing Tolerances for Rivets and
+   Steel Side Plates for Timber Rivet
+   Connections                             185
+N  Load and Resistance Factor Design (LRFD) 186
+Table F1 Coefficients of Variation in Modulus of
+
+Elasticity (COVE) for Lumber and
+Structural Glued Laminated Timber.................. 169
+Table G1 Buckling Length Coefficients, Ke ....................... 171
+Table I1 Fastener Bending Yield Strengths, Fyb ............... 175
+Tables L1 to L7 Typical Dimensions for Dowel-Type
+
+Fasteners and Washers............................. 180
+Table N1 Format Conversion Factor, KF (LRFD Only).... 187
+Table N2 Resistance Factor, φ (LRFD Only)...................... 187
+Table N3 Time Effect Factor, λ (LRFD Only).................... 187
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

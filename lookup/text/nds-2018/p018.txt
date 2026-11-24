@@ -1,0 +1,127 @@
+[nds-2018 | NDS-2018.pdf | pdf page 18 | printed page 6]
+
+6 GENERAL REQUIREMENTS FOR STRUCTURAL DESIGN
+
+   Kφ  = empirical bending stress shape factor for
+         double-tapered curved structural glued
+         laminated timber
+     L = span length of bending member, ft
+     L = distance between points of lateral support
+         of compression member, ft
+    Lc = length from tip of pile to critical section, ft
+    M = maximum bending moment, in.-lbs
+Mr, Mr' = reference and adjusted design moment,
+         in.-lbs
+  N, N' = reference and adjusted lateral design
+
+value at an angle to grain for a single split
+ring connector unit or shear plate con-
+nector unit, lbs
+
+P = total concentrated load or total axial load,
+
+lbs
+
+P, P' = reference and adjusted lateral design
+
+value parallel to grain for a single split ring
+connector unit or shear plate connector
+unit, lbs
+
+Pr = parallel to grain reference timber rivet
+
+capacity, lbs
+
+Pw = parallel to grain reference wood capacity
+
+for timber rivets, lbs
+
+Q = statical moment of an area about the
+
+neutral axis, in.3
+
+Q, Q' = reference and adjusted lateral design
+
+value perpendicular to grain for a single
+split ring connector unit or shear plate
+connector unit, lbs
+
+   Qr = perpendicular to grain reference timber
+        rivet capacity, lbs
+   Qw = perpendicular to grain reference wood
+        capacity for timber rivets, lbs
+    R = radius of curvature of inside face of
+        structural glued laminated timber mem-
+        ber, in.
+   RB = slenderness ratio of bending member
+   Rd = reduction term for dowel-type fastener
+        connections
+   Rm = radius of curvature at center line of
+        structural glued laminated timber mem-
+        ber, in
+Rr, Rr' = reference and adjusted design reaction,
+        lbs
+    S = section modulus, in.3
+
+    Seff = effective section modulus for cross-
+           laminated timber, in3/ft of panel width
+      T = temperature, °F
+      V = shear force, lbs
+  Vr, Vr' = reference and adjusted design shear, lbs
+  W, W' = reference and adjusted withdrawal design
+           value for fastener, lbs per inch of penetra-
+           tion
+WH, WH' = reference and adjusted pull-through
+           design value, lbs
+   Z, Z' = reference and adjusted lateral design
+           value for a single fastener connection, lbs
+    ZGT' = adjusted group tear-out capacity of a
+           group of fasteners, lbs
+    ZNT' = adjusted tension capacity of net section
+           area, lbs
+    ZRT' = adjusted row tear-out capacity of multiple
+           rows of fasteners, lbs
+    ZRTi' = adjusted row tear-out capacity of a row of
+           fasteners, lbs
+     Z|| = reference lateral design value for a single
+
+dowel-type fastener connection with all
+wood members loaded parallel to grain,
+lbs
+
+Zm⊥ = reference lateral design value for a single
+
+dowel-type fastener wood-to-wood connec-
+tion with main member loaded perpendic-
+ular to grain and side member loaded
+parallel to grain, lbs
+
+Zs⊥ = reference lateral design value for a single
+
+dowel-type fastener wood-to-wood connec-
+tion with main member loaded parallel to
+grain and side member loaded perpendic-
+ular to grain, lbs
+
+Z⊥ = reference lateral design value for a single
+
+dowel-type fastener wood-to-wood, wood-
+to-metal, or wood-to-concrete connection
+with wood member(s) loaded perpendicu-
+lar to grain, lbs
+
+Zα' = adjusted design value for dowel-type
+
+fasteners subjected to combined lateral
+and withdrawal loading, lbs
+
+a = support condition factor for tapered
+
+columns
+
+achar = char depth, in
+
+aeff = effective char depth, in.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

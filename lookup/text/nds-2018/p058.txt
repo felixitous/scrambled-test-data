@@ -1,0 +1,87 @@
+[nds-2018 | NDS-2018.pdf | pdf page 58 | printed page 46]
+
+46 ROUND TIMBER POLES AND PILES
+
+6.3.8 Column Stability Factor, CP
+
+Reference compression design values parallel to
+grain, Fc, shall be multiplied by the column stability
+factor, CP, specified in 3.7 for the portion of a timber
+pole or pile standing unbraced in air, water, or material
+not capable of providing lateral support.
+
+6.3.9 Critical Section Factor, Ccs
+
+Reference compression design values parallel to
+grain, Fc, for round timber piles and poles are based on
+the strength at the tip of the pile. Reference compres-
+sion design values parallel to grain, Fc, in Table 6A and
+Table 6B shall be permitted to be multiplied by the crit-
+ical section factor. The critical section factor, Ccs, shall
+be determined as follows:
+
+Ccs = 1.0 + 0.004Lc
+(6.3-1)
+
+where:
+
+Lc = length from tip of pile to critical section, ft
+
+The increase for location of critical section shall
+not exceed 10% for any pile or pole (Ccs ≤ 1.10). The
+critical section factors, Ccs, are independent of tapered
+column provisions in 3.7.2 and both shall be permitted
+to be used in design calculations.
+
+6.3.10 Bearing Area Factor, Cb
+
+Reference compression design values perpendicular
+to grain, Fc⊥, for timber poles or piles shall be permitted
+to be multiplied by the bearing area factor, Cb, specified
+in 3.10.4.
+
+6.3.11 Load Sharing Factor (Pile Group
+Factor), Cls
+
+For piles, reference design values are based on single
+piles. If multiple piles are connected by concrete caps
+or equivalent force distributing elements so that the pile
+
+group deforms as a single element when subjected to
+the load effects imposed on the element, reference
+bending design values, Fb, and reference compression
+design values parallel to the grain, Fc, shall be permit-
+ted to be multiplied by the load sharing factors, Cls, in
+Table 6.3.11.
+
+Table 6.3.11   Load Sharing Factor, Cls, per
+               ASTM D 2899
+ Reference        Number of         Cls
+ Design Value   Piles in Group
+                      2            1.06
+ Fc                   3            1.09
+                  4 or more        1.11
+                      2            1.05
+ Fb                   3            1.07
+                  4 or more        1.08
+6.3.12 Format Conversion Factor, KF (LRFD
+Only)
+
+For LRFD, reference design values shall be multi-
+plied by the format conversion factor, KF, specified in
+Table 6.3.1.
+
+6.3.13 Resistance Factor, φ (LRFD Only)
+
+For LRFD, reference design values shall be multi-
+plied by the resistance factor, φ, specified in Table
+6.3.1.
+
+6.3.14 Time Effect Factor, λ (LRFD Only)
+
+For LRFD, reference design values shall be multi-
+plied by the time effect factor, λ, specified in Appendix
+N.3.3.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

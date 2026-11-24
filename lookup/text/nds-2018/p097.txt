@@ -1,0 +1,64 @@
+[nds-2018 | NDS-2018.pdf | pdf page 97 | printed page 85]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 85
+DOWEL-TYPE FASTENERS
+12
+
+12.3.5.3 For lag screws, wood screws, nails,
+spikes, and similar dowel-type fasteners, the dowel
+bearing length,
+
+ℓs or
+
+ℓm, shall not exceed the length of
+fastener penetration, p, into the wood member. Where
+p includes the length of a tapered tip, E, the dowel
+bearing length,
+
+ℓs or
+
+ℓm, shall not exceed p - E/2.
+(a) For lag screws, E is permitted to be taken from
+
+Appendix L, Table L2.
+(b) For wood screws, nails, and spikes, E is per-
+
+mitted to be taken as 2D.
+
+12.3.6 Dowel Bending Yield Strength
+
+12.3.6.1 The reference lateral design values, Z, for
+bolts, lag screws, wood screws, and nails are based on
+dowel bending yield strengths, Fyb, provided in Tables
+12A through 12T.
+12.3.6.2 Dowel bending yield strengths, Fyb, used
+in the determination of reference lateral design values,
+Z, shall be based on yield strength derived using the
+
+methods provided in ASTM F 1575 or the tensile yield
+strength derived using the procedures of ASTM F 606.
+
+12.3.7 Dowel Diameter
+
+12.3.7.1 Where used in Tables 12.3.1A and
+12.3.1B, the fastener diameter shall be taken as:
+(a) D for smooth shank nails and deformed shank
+nails in accordance with ASTM F1667,
+
+(b) D for unthreaded full-body diameter fasteners,
+and
+
+(c) Dr for reduced body diameter fasteners or
+threaded fasteners except as provided in 12.3.7.2.
+
+12.3.7.2 For threaded full-body fasteners (see Ap-
+pendix L), D shall be permitted to be used in lieu of Dr
+where the bearing length of the threads does not ex-
+ceed ¼ of the full bearing length in the member hold-
+ing the threads. Alternatively, a more detailed analysis
+accounting for the moment and bearing resistance of
+the threaded portion of the fastener shall be permitted
+(see Appendix I).
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

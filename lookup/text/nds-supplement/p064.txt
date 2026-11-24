@@ -1,0 +1,46 @@
+[nds-supplement | NDS_supplement.pdf | pdf page 64 | printed page 56]
+
+56 REFERENCE DESIGN VALUES
+
+                                                  USE WITH TABLE 4E ADJUSTMENT FACTORS
+                                                                  Design values in pounds per square inch (psi)
+                                                            Bending
+  Species and commercial grade    Size classification                         Compression                                                Grading Rules Agency
+                                                       Single    Repetitive  perpendicular                                  Specific
+                                                      Member      Member        to grain         Modulus of Elasticity      Gravity3
+                                                         Fb        (Fb)(Cr)       Fc⊥             E             Emin           G
+WESTERN HEMLOCK
+Select Dex                            2"-4" thick      1,500       1,750          410          1,600,000      580,000
+                                                                                                                             0.47               WCLIB
+Commercial Dex                        6"& wider        1,300       1,450          410          1,400,000      510,000
+WESTERN HEMLOCK (NORTH)
+Select                                2"-4" thick      1,500       1,750          410          1,600,000      580,000
+                                                                                                                             0.46               NLGA
+Commercial                            4"& wider        1,300       1,450          410          1,400,000      510,000
+WESTERN WHITE PINE
+Select                                2"-4" thick      1,100       1,300          375          1,400,000      510,000
+                                                                                                                             0.40               NLGA
+Commercial                            4"& wider         925        1,050          375          1,300,000      470,000
+WESTERN WOODS
+Selected                              2"-4" thick      1,150       1,300          335          1,200,000      440,000
+                                                                                                                             0.36               WWPA
+Commercial                            4"-12"wide        950        1,100          335          1,100,000      400,000
+
+Table 4E
+Reference Design Values for Visually Graded Decking1,2
+
+(Tabulated design values are for normal load duration and dry service conditions, unless specified
+otherwise. See NDS 4.3 for a comprehensive description of design value adjustment factors.)
+(Cont.)
+
+1. LUMBER DIMENSIONS. Tabulated design values are applicable to lumber that will be used under dry conditions such as in most covered structures. For 2"
+to 4" thick lumber the DRY dressed sizes shall be used (see Table 1A) regardless of the moisture content at the time of manufacture or use. In calculating design
+values, the natural gain in strength and stiffness that occurs as lumber dries has been taken into consideration as well as the reduction in size that occurs when
+unseasoned lumber shrinks. The gain in load carrying capacity due to increased strength and stiffness resulting from drying more than offsets the design effect of
+size reductions due to shrinkage.
+2. When individual species or species groups are combined, the design values to be used for the combination shall be the lowest design values for each individual
+species or species group for each design property.
+3. Specific gravity, G, based on weight and volume when oven-dry.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

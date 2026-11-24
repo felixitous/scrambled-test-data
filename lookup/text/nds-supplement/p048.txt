@@ -1,0 +1,128 @@
+[nds-supplement | NDS_supplement.pdf | pdf page 48 | printed page 40]
+
+40 REFERENCE DESIGN VALUES
+
+Table 4B
+Reference Design Values for Visually Graded Southern Pine Dimension Lumber
+(2" - 4" thick)1,2,3,4,5
+
+(Tabulated design values are for normal load duration and dry service conditions, unless specified
+otherwise. See NDS 4.3 for a comprehensive description of design value adjustment factors.)
+
+                                            USE WITH TABLE 4B ADJUSTMENT FACTORS
+                                                               Design values in pounds per square inch (psi)
+                                                    Tension     Shear     Compression    Compression                                      Grading
+Species and commercial         Size                 parallel   parallel   perpendicular     parallel                             Specific  Rules
+         grade             classification Bending   to grain   to grain      to grain       to grain      Modulus of Elasticity  Gravity6  Agency
+                                             Fb        Ft         Fv           Fc⊥             Fc            E          Emin        G
+                                           2,700     1,900       175          660            2,050       1,900,000    690,000
+                                           2,350     1,650       175          565            1,900       1,800,000    660,000
+                                           2,050     1,450       175          480            1,800       1,600,000    580,000
+                                           1,650     1,100       175          660            1,750       1,800,000    660,000
+                                           1,500     1,000       175          565            1,650       1,600,000    580,000
+                            2" - 4" wide   1,300      875        175          480            1,550       1,400,000    510,000      0.55
+                                           1,200      750        175          660            1,500       1,600,000    580,000
+                                           1,100      675        175          565            1,450       1,400,000    510,000
+                                           1,050      600        175          480            1,450       1,300,000    470,000
+                                            650       400        175          565             850        1,300,000    470,000
+                                            875       500        175          565            1,600       1,400,000    510,000
+                              4" wide       475       275        175          565            1,300       1,200,000    440,000      0.55
+                                            225       125        175          565             850        1,200,000    440,000
+                                           2,400     1,650       175          660            1,900       1,900,000    690,000
+                                           2,100     1,450       175          565            1,800       1,800,000    660,000
+                                           1,850     1,300       175          480            1,700       1,600,000    580,000
+                                           1,500     1,000       175          660            1,650       1,800,000    660,000
+                                           1,350      875        175          565            1,550       1,600,000    580,000
+                            5" - 6" wide   1,200      775        175          480            1,450       1,400,000    510,000      0.55
+                                           1,050      650        175          660            1,450       1,600,000    580,000
+                                           1,000      600        175          565            1,400       1,400,000    510,000
+                                            950       525        175          480            1,350       1,300,000    470,000
+                                            575       350        175          565             800        1,300,000    470,000
+                                           2,200     1,550       175          660            1,850       1,900,000    690,000
+                                           1,950     1,350       175          565            1,700       1,800,000    660,000
+                                           1,700     1,200       175          480            1,650       1,600,000    580,000
+                                           1,350      900        175          660            1,600       1,800,000    660,000               SPIB
+                                           1,250      800        175          565            1,500       1,600,000    580,000
+                              8" wide      1,100      700        175          480            1,400       1,400,000    510,000      0.55
+                                            975       600        175          660            1,400       1,600,000    580,000
+                                            925       550        175          565            1,350       1,400,000    510,000
+                                            875       500        175          480            1,300       1,300,000    470,000
+                                            525       325        175          565             775        1,300,000    470,000
+                                           1,950     1,300       175          660            1,800       1,900,000    690,000
+                                           1,700     1,150       175          565            1,650       1,800,000    660,000
+                                           1,500     1,050       175          480            1,600       1,600,000    580,000
+                                           1,200      800        175          660            1,550       1,800,000    660,000
+                                           1,050      700        175          565            1,450       1,600,000    580,000
+                             10" wide       950       625        175          480            1,400       1,400,000    510,000      0.55
+                                            850       525        175          660            1,350       1,600,000    580,000
+                                            800       475        175          565            1,300       1,400,000    510,000
+                                            750       425        175          480            1,250       1,300,000    470,000
+                                            475       275        175          565             750        1,300,000    470,000
+                                           1,800     1,250       175          660            1,750       1,900,000    690,000
+                                           1,600     1,100       175          565            1,650       1,800,000    660,000
+                                           1,400      975        175          480            1,550       1,600,000    580,000
+                                           1,100      750        175          660            1,500       1,800,000    660,000
+                                           1,000      650        175          565            1,400       1,600,000    580,000
+                                            900       575        175          480            1,350       1,400,000    510,000      0.55
+                                            800       500        175          660            1,300       1,600,000    580,000
+                                            750       450        175          565            1,250       1,400,000    510,000
+                                            700       400        175          480            1,250       1,300,000    470,000
+                                            450       250        175          565             725        1,300,000    470,000
+
+SOUTHERN PINE
+Dense Select Structural
+Select Structural
+Non-Dense Select Structural
+No.1 Dense
+No.1
+No.1 Non-Dense
+No.2 Dense
+No.2
+No.2 Non-Dense
+No.3 and Stud
+Construction
+Standard
+Utility
+Dense Select Structural
+Select Structural
+Non-Dense Select Structural
+No.1 Dense
+No.1
+No.1 Non-Dense
+No.2 Dense
+No.2
+No.2 Non-Dense
+No.3 and Stud
+Dense Select Structural
+Select Structural
+Non-Dense Select Structural
+No.1 Dense
+No.1
+No.1 Non-Dense
+No.2 Dense
+No.2
+No.2 Non-Dense
+No.3 and Stud
+Dense Select Structural
+Select Structural
+Non-Dense Select Structural
+No.1 Dense
+No.1
+No.1 Non-Dense
+No.2 Dense
+No.2
+No.2 Non-Dense
+No.3 and Stud
+Dense Select Structural
+Select Structural
+Non-Dense Select Structural
+No.1 Dense
+No.1
+No.1 Non-Dense                 12" wide
+No.2 Dense
+No.2
+No.2 Non-Dense
+No.3 and Stud
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

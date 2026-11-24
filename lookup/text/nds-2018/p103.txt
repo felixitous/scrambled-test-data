@@ -1,0 +1,115 @@
+[nds-2018 | NDS-2018.pdf | pdf page 103 | printed page 91]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 91
+DOWEL-TYPE FASTENERS
+12
+
+12.5.2 End Grain Factor, Ceg
+
+12.5.2.1 Where lag screws are loaded in with-
+drawal from end grain, the reference withdrawal de-
+sign values, W, shall be multiplied by the end grain
+factor, Ceg = 0.75.
+
+12.5.2.2 Where dowel-type fasteners are inserted
+in the end grain of the main member, with the fastener
+axis parallel to the wood fibers, reference lateral de-
+sign values, Z, shall be multiplied by the end grain
+factor, Ceg = 0.67.
+
+12.5.2.3 Where dowel-type fasteners with D≥1/4"
+are loaded laterally in the narrow edge of cross-
+laminated timber, the reference lateral design value, Z,
+shall be multiplied by the end grain factor, Ceg=0.67,
+regardless of grain orientation.
+
+Table 12.5.1D   Spacing Requirements Between
+                Rows1
+ Direction of Loading       Minimum Spacing
+ Parallel to Grain                1.5D
+ Perpendicular to Grain:
+    where ℓ/D ≤ 2                 2.5D
+    where 2 < ℓ/D < 6         (5ℓ + 10D) / 8
+    where ℓ/D ≥ 6                  5D
+ 1. The
+
+ℓ/D ratio used to determine the minimum edge distance shall be
+the lesser of:
+(a) length of fastener in wood main member/D =
+
+ℓm/D
+(b) total length of fastener in wood side member(s)/D =
+
+ℓs/D
+
+12.5.3 Diaphragm Factor, Cdi
+
+Where nails or spikes are used in diaphragm con-
+struction, reference lateral design values, Z, are per-
+mitted to be multiplied by the diaphragm factor, Cdi =
+1.1.
+
+12.5.4 Toe-Nail Factor, Ctn
+
+12.5.4.1 Reference withdrawal design values, W,
+for toe-nailed connections shall be multiplied by the
+toe-nail factor, Ctn = 0.67. The wet service factor, CM,
+shall not apply.
+
+12.5.4.2 Reference lateral design values, Z, for
+toe-nailed connections shall be multiplied by the toe-
+nail factor, Ctn = 0.83.
+
+Table 12.5.1E Edge and End Distance and
+              Spacing Requirements for Lag
+              Screws Loaded in Withdrawal
+              and Not Loaded Laterally
+ Orientation      Minimum Distance/Spacing
+ Edge Distance              1.5D
+ End Distance               4D
+ Spacing                    4D
+
+Table 12.5.1F  Perpendicular to Grain
+               Distance Requirements for
+               Outermost Fasteners in
+               Structural Glued Laminated
+               Timber Members
+                                   Maximum
+                Moisture Content   Distance
+                                   Between
+ Fastener     At Time of   In-      Outer
+ Type        Fabrication Service     Rows
+ All Fasteners >16%       <16%        5"
+                Any       >16%        5"
+ Bolts         <16%       <16%       10"
+ Lag Screws    <16%       <16%        6"
+ Drift Pins    <16%       <16%        6"
+
+Table 12.5.1C    Edge Distance
+                 Requirements1,2
+ Direction of Loading      Minimum Edge Distance
+ Parallel to Grain:
+   where ℓ/D ≤ 6                    1.5D
+   where ℓ/D > 6         1.5D or ½ the spacing between
+                           rows, whichever is greater
+ Perpendicular to Grain:2
+   loaded edge                      4D
+   unloaded edge                    1.5D
+ 1. The
+
+ℓ/D ratio used to determine the minimum edge distance shall be
+the lesser of:
+(a) length of fastener in wood main member/D =
+
+ℓm/D
+(b) total length of fastener in wood side member(s)/D =
+
+ℓs/D
+2. Heavy or medium concentrated loads shall not be suspended below the
+neutral axis of a single sawn lumber or structural glued laminated tim-
+ber beam except where mechanical or equivalent reinforcement is
+provided to resist tension stresses perpendicular to grain (see 3.8.2 and
+11.1.3).
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

@@ -1,0 +1,42 @@
+[nds-2018 | NDS-2018.pdf | pdf page 134 | printed page 122]
+
+122 SPLIT RING AND SHEAR PLATE CONNECTORS
+
+                               Tabulated design values1 apply to ONE split ring and bolt in single shear.
+  Split      Bolt     Number of faces      Net            Loaded parallel to grain (0°)    Loaded perpendicular to grain (90°)
+  ring     diameter   of member with     thickness     Design value, P, per connector unit Design value, Q, per connector unit
+diameter               connectors on    of member               and bolt, lbs.                      and bolt, lbs.
+                         same bolt                   Group    Group    Group    Group    Group    Group    Group    Group
+                                                       A        B        C        D        A        B        C        D
+   in.        in.                           in.      species  species  species  species  species  species  species  species
+                                           1"         2630     2270     1900     1640     1900     1620     1350     1160
+                                         minimum
+                            1
+                                         1-1/2" or    3160     2730     2290     1960     2280     1940     1620     1390
+                                          thicker
+  2-1/2      1/2
+                                          1-1/2"      2430     2100     1760     1510     1750     1500     1250     1070
+                                         minimum
+                            2
+                                           2" or      3160     2730     2290     1960     2280     1940     1620     1390
+                                          thicker
+                                            1"        4090     3510     2920     2520     2840     2440     2040     1760
+                                         minimum
+                            1             1-1/2"      6020     5160     4280     3710     4180     3590     2990     2580
+                                         1-5/8" or    6140     5260     4380     3790     4270     3660     3050     2630
+                                          thicker
+   4         3/4
+                                          1-1/2"      4110     3520     2940     2540     2980     2450     2040     1760
+                                         minimum
+                                            2"        4950     4250     3540     3050     3440     2960     2460     2120
+                            2
+                                          2-1/2"      5830     5000     4160     3600     4050     3480     2890     2500
+                                           3" or      6140     5260     4380     3790     4270     3660     3050     2630
+                                          thicker
+
+1. Tabulated lateral design values (P,Q) for split ring connector units shall be multiplied to all applicable adjustment factors (see Table 11.3.1).
+
+Table 13.2A Split Ring Connector Unit Reference Design Values
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

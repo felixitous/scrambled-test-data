@@ -1,0 +1,109 @@
+[nds-2018 | NDS-2018.pdf | pdf page 188 | printed page 176]
+
+176 APPENDIX
+
+Appendix J
+(Non-mandatory) Solution of Hankinson Formula
+
+J.1
+
+When members are loaded in bearing at an angle to
+grain between 0° and 90°, or when split ring or shear
+plate connectors, bolts, or lag screws are loaded at an
+angle to grain between 0° and 90°, design values at an
+angle to grain shall be determined using the Hankinson
+formula.
+
+J.2
+
+The Hankinson formula is for the condition where
+the loaded surface is perpendicular to the direction of
+the applied load.
+
+J.3
+
+When the resultant force is not perpendicular to the
+surface under consideration, the angle θ is the angle
+between the direction of grain and the direction of the
+force component which is perpendicular to the surface.
+
+J.4
+
+The bearing surface for a split ring or shear plate
+connector, bolt or lag screw is assumed perpendicular
+to the applied lateral load.
+
+J.5
+
+The bearing strength of wood depends upon the di-
+rection of grain with respect to the direction of the ap-
+plied load. Wood is stronger in compression parallel to
+grain than in compression perpendicular to grain. The
+variation in strength at various angles to grain between
+0° and 90° shall be determined by the Hankinson for-
+mula as follows:
+
+F ′=       Fc*Fc⊥′
+ θ   Fc* sin2 θ+ Fc⊥′ cos2 θ
+
+(J-1)
+
+where:
+
+Fc* = adjusted compression design value parallel
+
+to grain multiplied by all applicable
+adjustment factors except the column
+stability factor
+
+Fc ⊥′ = adjusted compression design value
+
+perpendicular to grain
+
+Fθ′ = adjusted bearing design value at an angle to
+
+grain
+
+θ = angle between direction of load and direction
+
+of grain (longitudinal axis of member)
+
+When determining dowel bearing design values at
+an angle to grain for bolt or lag screw connections, the
+Hankinson formula takes the following form:
+
+    F   =        Fe∥ Fe⊥                          (J-2)
+     eθ   Fe∥ sin2 θ+ Fe⊥ cos2 θ
+where:
+      Fe ll = dowel bearing strength parallel to grain
+      Fe ⊥ = dowel bearing strength perpendicular to grain
+      Fe θ = dowel bearing strength at an angle to grain
+
+When determining adjusted design values for bolt
+or lag screw wood-to-metal connections or wood-to-
+wood connections with the main or side member(s)
+loaded parallel to grain, the following form of the
+Hankinson formula provides an alternate solution:
+
+  ′=       Z∥′ Z⊥′
+Zθ   Z∥′ sin2 θ+ Z⊥′ cos2 θ
+
+(J-3)
+
+For wood-to-wood connections with side mem-
+ber(s) loaded parallel to grain,
+
+Zll′ = adjusted lateral design value for a single bolt
+
+or lag screw connection with the main and
+side wood members loaded parallel to grain,
+Zll
+
+Z⊥′ = adjusted lateral design value for a single bolt
+
+or lag screw connection with the side
+member(s) loaded parallel to grain and main
+member loaded perpendicular to grain, Zm⊥
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

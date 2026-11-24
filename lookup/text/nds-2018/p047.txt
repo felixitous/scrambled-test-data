@@ -1,0 +1,106 @@
+[nds-2018 | NDS-2018.pdf | pdf page 47 | printed page 35]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 35
+STRUCTURAL GLUED LAMINATED TIMBER
+5
+
+5.2 Reference Design Values
+
+5.2.1 Reference Design Values
+
+Reference design values for softwood and hard-
+wood structural glued laminated timber are specified
+in Tables 5A, 5B, 5C, and 5D (published in a separate
+Supplement to this Specification). The reference de-
+sign values in Tables 5A, 5B, 5C, and 5D are a compi-
+lation of the reference design values provided in the
+specifications referenced in the footnotes to the tables.
+
+5.2.2 Orientation of Member
+
+Reference design values for structural glued lami-
+nated timber are dependent on the orientation of the
+laminations relative to the applied loads. Subscripts
+are used to indicate design values corresponding to a
+given orientation. The orientations of the cross-
+sectional axes for structural glued laminated timber are
+shown in Figure 5A. The x-x axis runs parallel to the
+wide face of the laminations. The y-y axis runs per-
+pendicular to the wide faces of the laminations.
+
+Figure 5A Axis Orientations
+
+5.2.3 Balanced and Unbalanced Layups
+
+Structural glued laminated timbers are permitted
+to be assembled with laminations of the same lumber
+grades placed symmetrically or asymmetrically about
+the neutral axis of the member. Symmetrical layups
+are referred to as “balanced” and have the same design
+values for positive and negative bending. Asymmet-
+rical layups are referred to as “unbalanced” and have
+lower design values for negative bending than for
+positive bending. The top side of unbalanced members
+is required to be marked “TOP” by the manufacturer.
+
+5.2.4 Bending, Fbx+, Fbx-, Fby
+
+The reference bending design values, Fbx
+
++ and Fbx,
+shall apply to members with loads causing bending
+about the x-x axis. The reference bending design value
+for positive bending, Fbx
+
++, shall apply for bending
+stresses causing tension at the bottom of the beam. The
+reference bending design value for negative bending,
+Fbx
+
+-, shall apply for bending stresses causing tension at
+the top of the beam.
+
+The reference bending design value, Fby, shall ap-
+ply to members with loads causing bending about the
+y-y axis.
+
+5.2.5 Compression Perpendicular to Grain,
+Fc⊥x, Fc⊥y
+
+The reference compression design value perpen-
+dicular to grain, Fc⊥x, shall apply to members with
+bearing loads on the wide faces of the laminations.
+
+The reference compression design value perpen-
+dicular to grain, Fc⊥y, shall apply to members with
+bearing loads on the narrow edges of the laminations.
+
+The reference compression design values perpen-
+dicular to grain are based on a deformation limit of
+0.04" obtained from testing in accordance with ASTM
+D143. The compression perpendicular to grain stress
+associated with a 0.02" deformation limit shall be
+permitted to be calculated as 73% of the reference val-
+ue (See also 4.2.6).
+
+5.2.6 Shear Parallel to Grain, Fvx, Fvy
+
+The reference shear design value parallel to grain,
+Fvx shall apply to members with shear loads causing
+bending about the x-x axis. The reference shear design
+value parallel to grain, Fvy, shall apply to members
+with shear loads causing bending about the y-y axis.
+
+The reference shear design values parallel to grain
+shall apply to prismatic members except those subject
+to impact or repetitive cyclic loads. For non-prismatic
+members and for all members subject to impact or re-
+petitive cyclic loads, the reference shear design values
+parallel to grain shall be multiplied by the shear reduc-
+tion factor specified in 5.3.10. This reduction shall
+also apply to the design of connections transferring
+loads through mechanical fasteners (see 3.4.3.3, 11.1.2
+and 11.2.2).
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

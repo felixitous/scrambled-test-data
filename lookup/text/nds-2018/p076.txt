@@ -1,0 +1,80 @@
+[nds-2018 | NDS-2018.pdf | pdf page 76 | printed page 64]
+
+64 MECHANICAL CONNECTIONS
+
+11.1 General
+
+11.1.1 Scope
+
+11.1.1.1 Chapter 11 applies to the engineering de-
+sign of connections using bolts, lag screws, split ring
+connectors, shear plate connectors, drift bolts, drift
+pins, wood screws, nails, spikes, timber rivets, spike
+grids, or other fasteners in sawn lumber, structural
+glued laminated timber, timber poles, timber piles,
+structural composite lumber, prefabricated wood I-
+joists, wood structural panels, and cross-laminated tim-
+ber. Except where specifically limited herein, the provi-
+sions of Chapter 11 shall apply to all fastener types
+covered in Chapters 12, 13, and 14.
+
+11.1.1.2 The requirements of 3.1.3, 3.1.4, and 3.1.5
+shall be accounted for in the design of connections.
+
+11.1.1.3 Connection design provisions in Chapters
+11, 12, 13, and 14 shall not preclude the use of connec-
+tions where it is demonstrated by analysis based on
+generally recognized theory, full-scale or prototype
+loading tests, studies of model analogues or extensive
+experience in use that the connections will perform sat-
+isfactorily in their intended end uses (see 1.1.1.5).
+
+11.1.2 Stresses in Members at Connections
+
+Structural members shall be checked for load carry-
+ing capacity at connections in accordance with all ap-
+plicable provisions of this standard including 3.1.2,
+3.1.3, and 3.4.3.3. Local stresses in connections using
+multiple fasteners shall be checked in accordance with
+principles of engineering mechanics. One method for
+determining these stresses is provided in Appendix E.
+
+11.1.3 Eccentric Connections
+
+Eccentric connections that induce tension stress
+perpendicular to grain in the wood shall not be used
+unless appropriate engineering procedures or tests are
+employed in the design of such connections to insure
+that all applied loads will be safely carried by the mem-
+bers and connections. Connections similar to those in
+Figure 11A are examples of connections requiring ap-
+propriate engineering procedures or tests.
+
+11.1.4 Mixed Fastener Connections
+
+Methods of analysis and test data for establishing
+reference design values for connections made with
+more than one type of fastener have not been devel-
+oped. Reference design values and design value ad-
+justments for mixed fastener connections shall be based
+on tests or other analysis (see 1.1.1.3).
+
+11.1.5 Connection Fabrication
+
+Reference lateral design values for connections in
+Chapters 12, 13, and 14 are based on:
+
+(a) the assumption that the faces of the members
+
+are brought into contact when the fasteners are
+installed, and
+(b) allowance for member shrinkage due to sea-
+
+sonal variations in moisture content (see
+11.3.3).
+
+Figure 11A
+Eccentric Connections
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

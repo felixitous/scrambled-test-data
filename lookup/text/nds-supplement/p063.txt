@@ -1,0 +1,78 @@
+[nds-supplement | NDS_supplement.pdf | pdf page 63 | printed page 55]
+
+DESIGN VALUES FOR WOOD CONSTRUCTION – NDS SUPPLEMENT 55
+REFERENCE DESIGN VALUES
+4
+
+                                                  USE WITH TABLE 4E ADJUSTMENT FACTORS
+                                                                  Design values in pounds per square inch (psi)
+                                                             Bending
+  Species and commercial grade    Size classification                          Compression                                                Grading Rules Agency
+                                                       Single     Repetitive  perpendicular                                  Specific
+                                                      Member       Member        to grain         Modulus of Elasticity      Gravity3
+                                                         Fb        (Fb)(Cr)         Fc⊥            E             Emin           G
+NORTHERN WHITE CEDAR
+Select                                2"-4" thick        —          1,100           —            800,000        290,000
+                                                                                                                               0.31              NELMA
+Commercial                            4"-12"wide         —           950            —            700,000        260,000
+PONDEROSA PINE
+Select                                2"-4" thick       1,200       1,400          535          1,300,000       470,000
+                                                                                                                               0.43               NLGA
+Commercial                             4"& wider        1,000       1,150          535          1,100,000       400,000
+RED PINE
+Select                                2"-4" thick       1,150       1,350          440          1,300,000       470,000
+                                                                                                                               0.44               NLGA
+Commercial                             4"& wider         975        1,100          440          1,200,000       440,000
+REDWOOD
+Select                                  2" thick        1,450       1,700           —           1,100,000       400,000        0.37
+Commercial                             6"& wider        1,200       1,350           —           1,000,000       370,000        0.37
+Deck Heart                              2" thick         400         450           420           900,000        330,000        0.37
+                                                                                                                                                   RIS
+and                                     4" wide
+Deck Common                             2" thick         700         800           420           900,000        330,000        0.37
+                                        6" wide
+SITKA SPRUCE
+Select Dex                            2"-4" thick       1,300       1,500          435          1,500,000       550,000
+                                                                                                                               0.43               WCLIB
+Commercial Dex                         6"-8"wide        1,100       1,250          435          1,300,000       470,000
+SOUTHERN PINE                                                          (Surfaced dry – Used in dry service conditions — 19% or less moisture content)
+Dense Standard                                          2,000       2,300          660          1,800,000       660,000
+Dense Select                          2"-4" thick       1,650       1,900          660          1,600,000       580,000
+Select                                                  1,400       1,650          565          1,600,000       580,000        0.55                SPIB
+Dense Commercial                      2" & wider        1,650       1,900          660          1,600,000       580,000
+Commercial                                              1,400       1,650          565          1,600,000       580,000
+SOUTHERN PINE                                                                        (Surfaced Green – Used in any service condition)
+Dense Standard                                          1,600       1,800          440          1,600,000       580,000
+Dense Select                         2-1/2"-4" thick    1,350       1,500          440          1,400,000       510,000
+Select                                                  1,150       1,300          375          1,400,000       510,000        0.55                SPIB
+Dense Commercial                      2" & wider        1,350       1,500          440          1,400,000       510,000
+Commercial                                              1,150       1,300          375          1,400,000       510,000
+SPRUCE-PINE-FIR
+Select                                2"-4" thick       1,200       1,400          425          1,500,000       550,000
+                                                                                                                               0.42               NLGA
+Commercial                             4"& wider        1,000       1,150          425          1,300,000       470,000
+SPRUCE-PINE-FIR (SOUTH)
+Selected                              2"-4" thick       1,150       1,350          335          1,400,000       510,000                          NELMA
+                                                                                                                               0.36               WWPA
+Commercial                            4"-12"wide         950        1,100          335          1,200,000       440,000
+WESTERN CEDARS
+Select Dex                            2"-4" thick       1,250       1,450          425          1,100,000       400,000
+                                                                                                                               0.36               WCLIB
+Commercial Dex                         6"-8"wide        1,050       1,200          425          1,000,000       370,000
+Selected                              2"-4" thick       1,250       1,450          425          1,100,000       400,000
+                                                                                                                               0.36              WWPA
+Commercial                            4"-12"wide        1,050       1,200          425          1,000,000       370,000
+WESTERN CEDARS (NORTH)
+Select                                2"-4" thick       1,200       1,400          425          1,100,000       400,000
+                                                                                                                               0.35               NLGA
+Commercial                             4"& wider        1,050       1,200          425          1,000,000       370,000
+
+Table 4E
+Reference Design Values for Visually Graded Decking1,2
+
+(Tabulated design values are for normal load duration and dry service conditions, unless specified
+otherwise. See NDS 4.3 for a comprehensive description of design value adjustment factors.)
+(Cont.)
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

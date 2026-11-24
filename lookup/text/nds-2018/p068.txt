@@ -1,0 +1,100 @@
+[nds-2018 | NDS-2018.pdf | pdf page 68 | printed page 56]
+
+56 WOOD STRUCTURAL PANELS
+
+9.1 General
+
+9.1.1 Scope
+
+Chapter 9 applies to engineering design with the
+following wood structural panels: plywood, oriented
+strand board, and composite panels. Basic requirements
+are provided in this Specification. Design procedures
+and other information provided herein apply only to
+wood structural panels complying with the require-
+ments specified in this Chapter.
+
+9.1.2 Identification
+
+9.1.2.1 When design procedures and other infor-
+mation herein are used, the wood structural panel shall
+be identified for grade and glue type by the trademarks
+of an approved testing and grading agency.
+
+9.1.2.2 Wood structural panels shall be specified by
+span rating, nominal thickness, exposure rating, and
+grade.
+
+9.1.3 Definitions
+
+9.1.3.1 The term “wood structural panel” refers to a
+wood-based panel product bonded with a waterproof
+adhesive. Included under this designation are plywood,
+
+oriented strand board (OSB) and composite panels.
+These panel products meet the requirements of USDOC
+PS 1 or PS 2 and are intended for structural use in resi-
+dential, commercial, and industrial applications.
+
+9.1.3.2 The term “composite panel” refers to a
+wood structural panel comprised of wood veneer and
+reconstituted wood-based material and bonded with
+waterproof adhesive.
+
+9.1.3.3 The term “oriented strand board” refers to a
+mat-formed wood structural panel comprised of thin
+rectangular wood strands arranged in cross-aligned lay-
+ers with surface layers normally arranged in the long
+panel direction and bonded with waterproof adhesive.
+
+9.1.3.4 The term “plywood” refers to a wood struc-
+tural panel comprised of plies of wood veneer arranged
+in cross-aligned layers. The plies are bonded with an
+adhesive that cures on application of heat and pressure.
+
+9.1.4 Service Conditions
+
+9.1.4.1 Reference design values reflect dry service
+conditions, where the moisture content in service is less
+than 16%, as in most covered structures.
+
+9.2 Reference Design Values
+
+9.2.1 Panel Stiffness and Strength
+
+9.2.1.1 Reference panel stiffness and strength de-
+sign values (the product of material and section proper-
+ties) shall be obtained from an approved source.
+
+9.2.1.2 Due to the orthotropic nature of panels, ref-
+erence design values shall be provided for the primary
+and secondary strength axes. The appropriate reference
+design values shall be applied when designing for each
+panel orientation. When forces act at an angle to the
+principal axes of the panel, the capacity of the panel at
+the angle shall be calculated by adjusting the reference
+design values for the principal axes using principles of
+engineering mechanics.
+
+9.2.2 Strength and Elastic Properties
+
+Where required, strength and elastic parameters
+shall be calculated from reference strength and stiffness
+design values, respectively, on the basis of tabulated
+design section properties.
+
+9.2.3 Design Thickness
+
+Nominal thickness shall be used in design calcula-
+tions. The relationships between span ratings and nom-
+inal thicknesses are provided with associated reference
+design values.
+
+9.2.4 Design Section Properties
+
+Design section properties shall be assigned on the
+basis of span rating or design thickness and are provid-
+ed on a per-foot-of-panel-width basis.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

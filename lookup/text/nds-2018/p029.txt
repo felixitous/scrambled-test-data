@@ -1,0 +1,105 @@
+[nds-2018 | NDS-2018.pdf | pdf page 29 | printed page 17]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 17
+DESIGN PROVISIONS AND EQUATIONS
+3
+
+3.3.3.6 The slenderness ratio, RB, for bending
+members shall be calculated as follows:
+
+R  =    ℓed
+  B     b2
+
+(3.3-5)
+
+3.3.3.7 The slenderness ratio for bending members,
+RB, shall not exceed 50.
+
+3.3.3.8 The beam stability factor shall be calculated
+as follows:
+
+    1 + (FbE Fb* )   ⎡1 + (FbE Fb* ) ⎤2 FbE Fb* (3.3-6)
+CL =            −    ⎢          ⎥ −
+        1.9          ⎢⎣  1.9    ⎥⎦   0.95
+
+where:
+
+Fb* = reference bending design value multiplied by
+
+all applicable adjustment factors except Cfu,
+CV (when CV ≤ 1.0), and CL (see 2.3), psi
+
+3.3.3.9 See Appendix D for background infor-
+mation concerning beam stability calculations and Ap-
+pendix F for information concerning coefficient of vari-
+ation in modulus of elasticity (COVE).
+
+3.3.3.10 Members subjected to flexure about both
+principal axes (biaxial bending) shall be designed in
+accordance with 3.9.2.
+3.4 Bending Members – Shear
+
+3.4.1 Strength in Shear Parallel to Grain
+(Horizontal Shear)
+
+3.4.1.1 The actual shear stress parallel to grain or
+shear force at any cross section of the bending member
+shall not exceed the adjusted shear design value. A
+check of the strength of wood bending members in
+shear perpendicular to grain is not required.
+
+3.4.1.2 The shear design procedures specified here-
+in for calculating fv at or near points of vertical support
+are limited to solid flexural members such as sawn
+lumber, structural glued laminated timber, structural
+composite lumber, or mechanically laminated timber
+beams. Shear design at supports for built-up compo-
+nents containing load-bearing connections at or near
+points of support, such as between the web and chord of
+a truss, shall be based on test or other techniques.
+
+3.4.2 Shear Design Equations
+
+The actual shear stress parallel to grain induced in a
+sawn lumber, structural glued laminated timber, struc-
+tural composite lumber, or timber pole or pile bending
+member shall be calculated as follows:
+
+f    VQ
+ v =Ib
+
+(3.4-1)
+
+For a rectangular bending member of breadth, b,
+and depth, d, this becomes:
+
+fv = 3V                              (3.4-2)
+    2bd
+
+3.4.3 Shear Design
+
+3.4.3.1 When calculating the shear force, V, in
+bending members:
+
+(a) For beams supported by full bearing on one
+
+surface and loads applied to the opposite sur-
+face, uniformly distributed loads within a dis-
+tance from supports equal to the depth of the
+bending member, d, shall be permitted to be ig-
+nored. For beams supported by full bearing on
+one surface and loads applied to the opposite
+surface, concentrated loads within a distance, d,
+from supports shall be permitted to be multi-
+plied by x/d where x is the distance from the
+beam support face to the load (see Figure 3C).
+
+Figure 3C
+Shear at Supports
+
+F  = 1.20Emin′
+ bE     R 2
+         B
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

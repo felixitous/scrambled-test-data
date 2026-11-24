@@ -1,0 +1,60 @@
+[nds-supplement | NDS_supplement.pdf | pdf page 52 | printed page 44]
+
+44 REFERENCE DESIGN VALUES
+
+Table 4C
+Reference Design Values for Mechanically Graded Dimension Lumber1,2,3
+
+(Tabulated design values are for normal load duration and dry service conditions, unless specified
+otherwise. See NDS 4.3 for a comprehensive description of design value adjustment factors.)
+
+USE WITH TABLE 4C ADJUSTMENT FACTORS
+
+(Cont.)
+
+                                            Design values in pounds per square inch (psi)
+                                               Tension   Compression
+  Commercial grade        Size                 parallel    parallel                                       Grading Rules Agency
+                      classification Bending   to grain    to grain      Modulus of Elasticity
+                                       Fb        Ft           Fc           E          Emin
+MACHINE EVALUATED LUMBER
+(MEL)
+M-5                                    900       500        1,050       1,100,000    510,000   SPIB
+M-6                                   1,100      600        1,300       1,000,000    470,000   SPIB
+M-7                                   1,200      650        1,400       1,100,000    510,000   SPIB
+M-8                                   1,300      700        1,500       1,300,000    610,000   SPIB
+M-9                                   1,400      800        1,600       1,400,000    650,000   SPIB
+M-10                                  1,400      800        1,600       1,200,000    560,000   NLGA, SPIB
+M-11                                  1,550      850        1,675       1,500,000    700,000   NLGA, SPIB
+M-12                                  1,600      850        1,675       1,600,000    750,000   NLGA, SPIB
+M-13                                  1,600      950        1,675       1,400,000    650,000   NLGA, SPIB
+M-14                                  1,800     1,000       1,750       1,700,000    790,000   NLGA, SPIB
+M-15                                  1,800     1,100       1,750       1,500,000    700,000   NLGA, SPIB
+M-16                                  1,800     1,300       1,750       1,500,000    700,000   SPIB
+M-17[4]                               1,950     1,300       2,050       1,700,000    790,000   SPIB
+M-18                   2" and less    2,000     1,200       1,825       1,800,000    840,000   NLGA, SPIB
+M-19                   in thickness   2,000     1,300       1,825       1,600,000    750,000   NLGA, SPIB
+M-20[4]                               2,000     1,600       2,100       1,900,000    890,000   SPIB
+M-21                   2" and wider   2,300     1,400       1,950       1,900,000    890,000   NLGA, SPIB
+M-22                                  2,350     1,500       1,950       1,700,000    790,000   NLGA, SPIB
+M-23                                  2,400     1,900       1,975       1,800,000    840,000   NLGA, SPIB
+M-24                                  2,700     1,800       2,100       1,900,000    890,000   NLGA, SPIB
+M-25                                  2,750     2,000       2,100       2,200,000   1,030,000  NLGA, SPIB
+M-26                                  2,800     1,800       2,150       2,000,000    930,000   NLGA, SPIB
+M-27[4]                               3,000     2,000       2,400       2,100,000    980,000   SPIB
+M-28                                  2,200     1,600       1,900       1,700,000    790,000   SPIB
+M-29                                  1,550      850        1,650       1,700,000    790,000   SPIB
+M-30                                  2,050     1,050       1,850       1,700,000    790,000   SPIB
+M-31                                  2,850     1,600       2,150       1,900,000    890,000   SPIB
+M-32                                   750       425         925        1,400,000    650,000   SPIB
+M-33                                   850       475         975        1,400,000    650,000   SPIB
+M-34                                   975       550        1,450       1,600,000    750,000   SPIB
+M-35                                  1,050      575        1,500       1,600,000    750,000   SPIB
+M-36                                  1,200      650        1,550       1,600,000    750,000   SPIB
+M-37                                  1,250      725        1,600       1,600,000    750,000   SPIB
+M-38                                  1,500      900        1,650       1,600,000    750,000   SPIB
+M-39                                  1,650     1,020       1,750       1,700,000    790,000   SPIB
+M-40                                  1,850     1,175       1,850       1,700,000    790,000   SPIB
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

@@ -1,0 +1,113 @@
+[nds-2018 | NDS-2018.pdf | pdf page 140 | printed page 128]
+
+128 SPLIT RING AND SHEAR PLATE CONNECTORS
+
+13.3.2.1 Connectors Loaded Parallel or Perpendicu-
+lar to Grain. For split ring and shear plate connectors
+loaded parallel or perpendicular to grain, minimum val-
+ues for edge distance, end distance, and spacing are
+provided in Table 13.3 with their associated geometry
+factors, CΔ.
+
+Where the actual value is greater than or equal to
+the minimum value, but less than the minimum value
+for CΔ = 1.0, the geometry factor, CΔ, shall be deter-
+mined by linear interpolation.
+
+13.3.2.2. Connectors Loaded at an Angle to Grain.
+For split rings and shear plate connectors where the
+angle between the direction of load and the direction of
+grain, θ, is other than 0° or 90°, separate geometry fac-
+tors for edge distance and end distance shall be deter-
+mined for the parallel and perpendicular to grain com-
+ponents of the resistance.
+
+For split ring and shear plate connectors loaded at
+an angle to grain, θ, other than 0° or 90°, the minimum
+spacing for CΔ = 1.0 shall be determined in accordance
+with Equation 13.3-1.
+
+    Sβ=           SA SB                     (13.3-1)
+           S2A sin2 β+ SB2 cos2 β
+where:
+      Sβ = minimum spacing along connector axis
+       SA = factor from Table 13.3.2.2
+      SB = factor from Table 13.3.2.2
+       β = angle of connector axis to the grain
+Table 13.3.2.2     Factors for Determining
+                   Minimum Spacing Along
+                   Connector Axis for
+                   CΔ = 1.0
+    Connector       Angle of Load to    SA     SB
+                    Grain1 (degrees)    in.    in.
+                           0           6.75   3.50
+ 2-1/2" split ring        15           6.00   3.75
+ or 2-5/8" shear          30           5.13   3.88
+      plate               45           4.25   4.13
+                         60-90          3.5   4.25
+                           0           9.00   5.00
+  4" split ring or        15           8.00   5.25
+  4" shear plate          30           7.00   5.50
+                          45           6.00   5.75
+                         60-90         5.00   6.00
+1. Interpolation shall be permitted for intermediate angles of load to grain.
+
+The minimum spacing shall be 3.50" for 2-1/2"
+split rings and 2-5/8" shear plates and shall be 5.0" for
+4" split ring or shear plate connectors. For this mini-
+mum spacing, CΔ = 0.5.
+
+Where the actual spacing between split ring or
+shear plate connectors is greater than the minimum
+spacing but less than the minimum spacing for CΔ =
+1.0, the geometry factor, CΔ, shall be determined by
+linear interpolation. The geometry factor calculated for
+spacing shall be applied to reference design values for
+both parallel and perpendicular-to-grain components of
+the resistance.
+
+13.3.3 Geometry Factor, CΔ, for Split Ring
+and Shear Plate Connectors in End Grain
+
+For split ring and shear plate connectors installed in
+end grain, a single geometry factor shall be determined
+and applied to reference design values for both parallel
+and perpendicular to grain components of the re-
+sistance. Edge distance, end distance, and spacing shall
+not be less than the minimum values specified in
+13.3.3.1 and 13.3.3.2.
+13.3.3.1 The provisions for geometry factors, CΔ,
+for split ring and shear plate connectors installed in
+square-cut surfaces and sloping surfaces shall be as fol-
+lows (see 13.2.6 for definitions and terminology):
+
+(a) Square-cut surface, loaded in any direction (see
+
+Figure 13F) - provisions for perpendicular to
+grain loading for connectors installed in side
+grain shall apply except for end distance provi-
+sions.
+(b) Sloping surface loaded parallel to axis of cut
+
+(see Figure 13G).
+(b.1)
+Spacing. The minimum spacing paral-
+lel to the axis of cut for CΔ = 1.0 shall be
+determined in accordance with Equation
+13.3-2.
+The minimum spacing parallel to the
+axis of cut shall be 3.5" for 2-1/2" split
+rings and 2-5/8" shear plates and shall be
+5.0" for 4" split ring or shear plate con-
+nectors. For this minimum spacing, CΔ =
+0.5.
+Where the actual spacing parallel to the
+axis of cut between split ring or shear plate
+connectors is greater than the minimum
+spacing for CΔ = 0.5, but less than the min-
+imum spacing for CΔ = 1.0, the geometry
+factor, CΔ shall be determined by linear in-
+terpolation.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

@@ -1,0 +1,49 @@
+[nds-2018 | NDS-2018.pdf | pdf page 8 | printed page vi]
+
+vi TABLE OF CONTENTS
+
+Part/Title                                     Pag    Part/Title                                     Page
+                                                      Appendix.....................................................157
+                                                              A   Construction and Design Practices  158
+                                                              B   Load Duration (ASD Only)           160
+                                                              C   Temperature Effects                162
+                                                              D   Lateral Stability of Beams         163
+                                                              E   Local Stresses in Fastener Groups  164
+                                                              F   Design for Creep and Critical
+                                                                  Deflection Applications            169
+                                                              G   Effective Column Length            171
+                                                              H   Lateral Stability of Columns       172
+                                                              I   Yield Limit Equations for Connections 173
+                                                              J   Solution of Hankinson Formula      176
+                                                              K   Typical Dimensions for Split Ring and
+                                                                  Shear Plate Connectors             179
+                                                              L   Typical Dimensions for Dowel-Type
+                                                                  Fasteners and Washers              180
+                                                              M   Manufacturing Tolerances for Rivets
+                                                                  and Steel Side Plates for Timber Rivet
+                                                                  Connections                        185
+                                                              N   Load and Resistance Factor Design
+                                                                  (LRFD)                             186
+                                                      References.................................................189
+
+14
+Timber Rivets......................................133
+
+       14.1 General                         134
+       14.2 Reference Design Values         134
+       14.3 Placement of Timber Rivets      136
+15   Special Loading Conditions..............145
+       15.1 Lateral Distribution of a
+           Concentrated Load                146
+       15.2 Spaced Columns                  146
+       15.3 Built-Up Columns                148
+       15.4 Wood Columns with Side Loads and
+           Eccentricity                     151
+16   Fire Design of Wood Members..........153
+       16.1 General                         154
+       16.2 Design Procedures for Exposed
+           Wood Members                     154
+       16.3 Wood Connections                156
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

@@ -1,0 +1,84 @@
+[nds-2018 | NDS-2018.pdf | pdf page 175 | printed page 163]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 163
+APPENDIX
+A
+
+Appendix D
+(Non-mandatory) Lateral Stability of Beams
+
+D.1
+
+Slenderness ratios and related equations for adjust-
+ing reference bending design values for lateral buckling
+in 3.3.3 are based on theoretical analyses and beam ver-
+ification tests.
+
+D.2
+
+Treatment of lateral buckling in beams parallels
+that for columns given in 3.7.1 and Appendix H. Beam
+stability calculations are based on slenderness ratio, RB,
+defined as:
+
+    R  =   ℓed
+      B     b2
+with ℓe as specified in 3.3.3.
+D.3
+
+(D-1)
+
+For beams with rectangular cross section where RB
+does not exceed 50, adjusted bending design values are
+obtained by the equation (where CL ≤ CV):
+
+  ′   * ⎡⎢1 + (FbE Fb* ) ⎡1 + (FbE Fb* ) ⎤2 FbE Fb* ⎤⎥ (D-2)
+Fb = Fb ⎢          −  ⎢           ⎥ −       ⎥
+       ⎢    1.9       ⎢⎣   1.9    ⎥⎦   0.95 ⎥
+       ⎣                                    ⎦
+where:
+      FbE = 1.20 Emin′                        (D-3)
+              RB2
+      Fb* = reference bending design value multiplied by
+
+all applicable adjustment factors except Cfu,
+CV (when CV ≤ 1.0), and CL (see 2.3)
+
+D.4
+
+Reference modulus of elasticity for beam and col-
+umn stability, Emin, in Equation D-3 is based on the fol-
+lowing equation:
+
+Emin = E [1 – 1.645 COVE](1.03)/1.66
+(D-4)
+
+where:
+
+E = reference modulus of elasticity
+
+1.03 = adjustment factor to convert E values to a
+pure bending basis except that the factor is
+1.05 for structural glued laminated timber
+
+1.66 = factor of safety
+
+COVE = coefficient of variation in modulus of
+
+elasticity (see Appendix F)
+
+Emin represents an approximate 5% lower exclusion
+value on pure bending modulus of elasticity, plus a 1.66
+factor of safety.
+
+D.5
+
+For products with less E variability than visually
+graded sawn lumber, higher critical buckling design
+values (FbE) may be calculated. For a product having a
+lower coefficient of variation in modulus of elasticity,
+use of Equations D-3 and D-4 will provide a 1.66 factor
+of safety at the 5% lower exclusion value.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

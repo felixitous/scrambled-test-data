@@ -1,0 +1,63 @@
+[nds-2018 | NDS-2018.pdf | pdf page 199 | printed page 187]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 187
+APPENDIX
+A
+
+                Table N1 Format Conversion Factor, KF (LRFD Only)
+                 Application                  Property                             KF
+                 Member                       Fb                                  2.54
+                                              Ft                                  2.70
+                                              Fv, Frt Fs                          2.88
+                                              Fc,                                 2.40
+                                              Fc⊥                                 1.67
+                                              Emin                                1.76
+                 All Connections              (all design values)                 3.32
+N.3.2 Resistance Factor, φ (LRFD Only)
+
+Reference design values shall be multiplied by the
+resistance factor, φ, as specified in Table N2 (see Ref-
+erence 55).
+
+               Table N2 Resistance Factor, φ (LRFD Only)
+                Application               Property               Symbol         Value
+                Member                    Fb                        φb           0.85
+                                          Ft                        φt           0.80
+                                          Fv, Frt, Fs               φv           0.75
+                                          Fc, Fc⊥                   φc           0.90
+                                          Emin                      φs           0.85
+                All Connections           (all design values)       φz           0.65
+N.3.3 Time Effect Factor, λ (LRFD Only)
+
+Reference design values shall be multiplied by the
+time effect factor, λ, as specified in Table N3.
+
+Table N3 Time Effect Factor, λ (LRFD Only)
+
+Load Combination2
+λ
+1.4D
+1.2D + 1.6L + 0.5(Lr or S or R)
+1.2D + 1.6(Lr or S or R) + (L or 0.5W)
+1.2D + 1.0W + L + 0.5(Lr or S or R)
+1.2D + 1.0E + L + 0.2S
+0.9D + 1.0W
+0.9D + 1.0E
+
+0.6
+0.7 when L is from storage
+0.8 when L is from occupancy
+1.25 when L is from impact1
+0.8
+1.0
+1.0
+1.0
+1.0
+1. Time effect factors, λ, greater than 1.0 shall not apply to connections or to structural members pressure-
+treated with water-borne preservatives (see Reference 30) or fire retardant chemicals.
+2 Load combinations and load factors consistent with ASCE 7-16 are listed for ease of reference. Nominal
+loads shall be in accordance with N.1.2. D = dead load; L = live load; Lr = roof live load; S = snow load; R =
+rain load; W = wind load; and E = earthquake load.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

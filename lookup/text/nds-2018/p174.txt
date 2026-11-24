@@ -1,0 +1,46 @@
+[nds-2018 | NDS-2018.pdf | pdf page 174 | printed page 162]
+
+162 APPENDIX
+
+Appendix C
+(Non-mandatory) Temperature Effects
+
+C.1
+
+As wood is cooled below normal temperatures, its
+strength increases. When heated, its strength decreases.
+This temperature effect is immediate and its magnitude
+varies depending on the moisture content of the wood.
+Up to 150°F, the immediate effect is reversible. The
+member will recover essentially all its strength when
+the temperature is reduced to normal. Prolonged heat-
+ing to temperatures above 150°F can cause a permanent
+loss of strength.
+
+C.2
+
+In some regions, structural members are periodical-
+ly exposed to fairly elevated temperatures. However,
+the normal accompanying relative humidity generally is
+very low and, as a result, wood moisture contents also
+are low. The immediate effect of the periodic exposure
+to the elevated temperatures is less pronounced because
+of this dryness. Also, independently of temperature
+changes, wood strength properties generally increase
+with a decrease in moisture content. In recognition of
+these offsetting factors, it is traditional practice to use
+the reference design values from this Specification for
+ordinary temperature fluctuations and occasional short-
+term heating to temperatures up to 150°F.
+
+C.3
+
+When wood structural members are heated to tem-
+peratures up to 150°F for extended periods of time, ad-
+justment of the reference design values in this Specifi-
+cation may be necessary (see 2.3.3 and 11.3.4). See
+Reference 53 for additional information concerning the
+effect of temperature on wood strength.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

@@ -1,0 +1,32 @@
+[nds-2018 | NDS-2018.pdf | pdf page 180 | printed page 168]
+
+168 APPENDIX
+
+Figure E5
+Acritical for Split Ring Connection
+(based on distance between first
+and second split ring)
+
+Aedge plane = (2 shear lines) (groove depth)(scritical)
+
+= (2 shear lines) (0.375")(6.75") = 5.063 in.2
+
+Abottom plane net = (Abottom plane) – (Asplit ring groove) –
+
+(Abolt hole)
+
+= (6.75")(2.92") – (π/4)[(2.92")2–(2.92" –
+
+0.18" – 0.18")2] – (π/4)(0.5625")2
+
+= 17.91 in.2
+
+Acriticial = Aedge plane + Abottom plane net
+
+= 5.063 + 17.91 in.2 = 22.973 in.2
+
+Therefore Acritical is governed by the case shown in
+Figure E4 and is equal to 21.735 in.2
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

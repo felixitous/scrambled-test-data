@@ -1,0 +1,113 @@
+[nds-2018 | NDS-2018.pdf | pdf page 163 | printed page 151]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 151
+SPECIAL LOADING CONDITIONS
+15
+
+⎛⎜ fc ⎟+⎞2 fc (6e1 / d1 )[1 + 0.234(fc /FcE1 )] +  (15.4-3)
+⎜⎝ Fc′ ⎟⎠     Fb1′ [1 − (fc /FcE1 )]
+ f (6e / d ) ⎧⎪⎨1 + 0.234(f /F ) + 0.234 ⎡⎢ fc (6e1 / d1 ) ⎤⎥2 ⎫⎪⎬
+ c   2   2 ⎪⎩         c   cE2        ⎣   FbE    ⎦ ⎪
+                                                  ⎭≤ 1.0
+          F ′ ⎧⎪⎨1 − (f /F ) − ⎡⎢ fc (6e1 / d1 ) ⎤⎥2 ⎫⎪⎬
+           b2 ⎪⎩   c  cE2  ⎣    FbE   ⎦ ⎪⎭
+and
+                     2
+ fc    ⎛ fc (6e1 / d1 ) ⎞                          (15.4-4)
+     + ⎜⎜           ⎟⎟ < 1.0
+FcE2   ⎝    FbE     ⎠
+where:
+  fc < FcE1 = 0 .822Emin′ for either uniaxial edgewise
+             (ℓe1 /d1 )2  bending or biaxial bending
+and
+              0.822E    ′
+  fc < FcE2 =         min  for uniaxial flatwise bending or
+              (ℓe2 / d2 )2 biaxial bending
+
+15.4 Wood Columns with Side Loads and Eccentricity
+15.4.1 General Equations                                     and
+                                                               fb1 < FbE = 1.20 Emin′ for biaxial bending
+                                                                            RB2
+                                                                     fc = compression stress parallel to grain due to
+                                                                         axial load
+                                                                    fb1 = edgewise bending stress due to side loads
+                                                                         on narrow face only
+                                                                    fb2 = flatwise bending stress due to side loads on
+                                                                         wide face only
+                                              (15.4-1)
+                                                                    Fc' = adjusted compression design value parallel
+
+One design method that allows calculation of the
+direct compression load that an eccentrically loaded
+column, or one with a side load, is capable of sustain-
+ing is as follows:
+
+(a) Members subjected to a combination of bend-
+
+ing from eccentricity and/or side loads about
+one or both principal axes, and axial compres-
+sion, shall be proportioned so that:
+
+⎜⎛ fc ⎟+⎞2 fb1 + fc (6e1 / d1 )[1 + 0.234(fc /FcE1 )] +
+⎜⎝ Fc′ ⎟⎠        Fb1′ [1 − (fc /FcE1 )]
+f  + f (6e / d ) ⎧⎪⎨1 + 0.234(f /F ) + 0.234 ⎡⎢ fb1 + fc (6e1 / d1 ) ⎤⎥2 ⎫⎪⎬
+ b2  c  2   2 ⎪⎩       c  cE2       ⎣     FbE     ⎦ ⎪
+                                                    ⎭≤ 1.0
+           F ′ ⎧⎪⎨1 − (f /F ) − ⎡⎢ fb1 + fc (6e1 / d1 ) ⎤⎥2 ⎫⎪⎬
+           b2 ⎪⎩  c  cE2  ⎣     FbE     ⎦ ⎪⎭
+and
+                           2
+  fc + ⎛ fb1 + fc (6e1 / d1 ) ⎞ < 1.0               (15.4-2)
+       ⎜                  ⎟
+FcE2   ⎝       FbE        ⎠
+    (b) Members subjected to a combination of bend-
+
+ing and compression from an eccentric axial
+load about one or both principal axes, shall be
+proportioned so that:
+
+to grain that would be permitted if axial
+compressive stress only existed, determined
+in accordance with 2.3 and 3.7
+
+Fb1' = adjusted edgewise bending design value
+
+that would be permitted if edgewise bending
+stress only existed, determined in accord-
+ance with 2.3 and 3.3.3
+
+Fb2' = adjusted flatwise bending design value that
+
+would be permitted if flatwise bending stress
+only existed, determined in accordance with
+2.3 and 3.3.3
+
+RB = slenderness ratio of bending member (see
+
+3.3.3)
+
+d1 = wide face dimension
+
+d2 = narrow face dimension
+
+e1 = eccentricity, measured parallel to wide face
+
+from centerline of column to centerline of
+axial load
+
+e2 = eccentricity, measured parallel to narrow
+
+face from centerline of column to centerline
+of axial load
+
+Effective column lengths,
+
+ℓe1 and
+
+ℓe2, shall be de-
+termined in accordance with 3.7.1.2. FcE1 and FcE2 shall
+be determined in accordance with 3.7. FbE shall be de-
+termined in accordance with 3.3.3.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

@@ -1,0 +1,109 @@
+[nds-2018 | NDS-2018.pdf | pdf page 87 | printed page 75]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 75
+DOWEL-TYPE FASTENERS
+12
+
+12.1.5 Wood Screws
+
+12.1.5.1 Installation requirements apply to wood
+screws meeting requirements of ANSI/ASME Standard
+B18.6.1. See Appendix Table L3 for standard wood
+screw dimensions.
+
+12.1.5.2 Lead holes for wood screws loaded in
+withdrawal shall have a diameter equal to approximate-
+ly 90% of the wood screw root diameter in wood with
+G > 0.6, and approximately 70% of the wood screw
+root diameter in wood with 0.5 < G ≤ 0.6. Wood with G
+≤ 0.5 (see Table 12.3.3A) is not required to have a lead
+hole for insertion of wood screws.
+
+12.1.5.3 Lead holes for wood screws loaded lateral-
+ly shall be bored as follows:
+
+(a) For wood with G > 0.6 (see Table 12.3.3A), the
+
+part of the lead hole receiving the shank shall
+have about the same diameter as the shank, and
+that receiving the threaded portion shall have
+about the same diameter as the screw at the
+root of the thread (see Reference 8).
+(b) For G ≤ 0.6 (see Table 12.3.3A), the part of the
+
+lead hole receiving the shank shall be about 7/8
+the diameter of the shank and that receiving the
+threaded portion shall be about 7/8 the diameter
+of the screw at the root of the thread (see Ref-
+erence 8).
+12.1.5.4 The wood screw shall be inserted in its
+lead hole by turning with a screw driver or other tool,
+not by driving with a hammer.
+
+12.1.5.5 No reduction to reference design values is
+anticipated if soap or other lubricant is used on the
+wood screw or in the lead holes to facilitate insertion
+and to prevent damage to the wood screw.
+
+12.1.5.6 The minimum length of wood screw pene-
+tration, pmin, including the length of the tapered tip
+where part of the penetration into the main member for
+single shear connections and the side members for dou-
+ble shear connections shall be 6D.
+
+12.1.5.7 Edge distances, end distances, and fastener
+spacings shall be sufficient to prevent splitting of the
+wood.
+
+12.1.6 Nails and Spikes
+
+12.1.6.1 Installation requirements apply to common
+steel wire nails and spikes, box nails, sinker nails, Roof
+Sheathing Ring Shank nails, and Post-Frame Ring
+Shank nails meeting requirements in ASTM F1667.
+Nails and spikes used in engineered construction shall
+meet the Supplementary Requirements of ASTM F1667
+S1 Nail Bending Yield Strength. Nail specifications for
+
+engineered construction shall include the minimum
+lengths, head diameters, and shank diameters for the
+nails and spikes to be used. See Appendix Table L4 for
+standard common, box, and sinker nail dimensions,
+Appendix Table L5 for standard Post-Frame Ring
+Shank nail dimensions, and Appendix Table L6 for
+Roof Sheathing Ring Shank nail dimensions.
+
+12.1.6.2 Reference design values herein apply to
+nailed and spiked connections either with or without
+bored holes. When a bored hole is desired to prevent
+splitting of wood, the diameter of the bored hole shall
+not exceed 90% of the nail or spike diameter for wood
+with G > 0.6, nor 75% of the nail or spike diameter for
+wood with G ≤ 0.6 (see Table 12.3.3A).
+
+12.1.6.3 Toe-nails shall be driven at an angle of ap-
+proximately 30° with the member and started approxi-
+mately 1/3 the length of the nail from the member end
+(see Figure 12A).
+
+Figure 12A
+Toe-Nail Connection
+
+12.1.6.4 The minimum length of nail or spike pene-
+tration, pmin, including the length of the tapered tip
+where part of the penetration into the main member for
+single shear connections and the side members of dou-
+ble shear connections shall be 6D.
+
+Exception: The minimum length of penetration,
+pmin, need not be 6D for symmetric double shear
+connections where nails with diameter of 0.148”
+or smaller extend at least three diameters beyond
+the side member and are clinched, and side
+members are at least 3/8" thick.
+12.1.6.5 Edge distances, end distances, and fastener
+spacings shall be sufficient to prevent splitting of the
+wood.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

@@ -1,0 +1,63 @@
+[nds-supplement | NDS_supplement.pdf | pdf page 76 | printed page 68]
+
+68 REFERENCE DESIGN VALUES
+
+Table 5C Adjustment Factors
+
+Flat Use Factor, Cfu
+
+Tabulated bending design values for loading parallel
+to wide faces of laminations, Fby, shall be multiplied by
+the following flat use factors when the member dimension
+parallel to wide faces of laminations is less than 12":
+
+              Flat Use Factors, Cfu
+Member dimension parallel
+to wide faces of laminations            Cfu
+10-3/4" or 10-1/2"                     1.01
+8-3/4" or 8-1/2"                       1.04
+6-3/4"                                 1.07
+5-1/8" or 5"                           1.10
+3-1/8" or 3"                           1.16
+2-1/2"                                 1.19
+
+Volume Factor, CV
+
+Tabulated bending design values for loading perpen-
+dicular to wide faces of laminations, Fbx, for structural
+glued laminated bending members shall be multiplied by
+the following volume factor:
+
+CV = (21/L)1/10 (12/d)1/10 (5.125/b)1/10 ≤ 1.0
+
+where:
+
+L = length of bending member between points of
+
+zero moment, ft
+
+d = depth of bending member, in.
+
+b = width (breadth) of bending member, in. For
+
+multiple piece width layups, b = width of widest
+
+piece in the layup. Thus b ≤ 10.75".
+
+The volume factor shall not apply simultaneously with
+the beam stability factor (see 5.3.6). Therefore, the lesser
+of these adjustment factors shall apply.
+
+Wet Service Factor, CM
+
+When structural glued laminated timber is used where
+moisture content will be 16% or greater, design values
+shall be multiplied by the appropriate wet service factors
+from the following table:
+
+              Wet Service Factors, CM
+ Fb       Ft        Fv        Fc⊥      Fc    E and Emin
+0.8      0.8      0.875      0.53     0.73     0.833
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

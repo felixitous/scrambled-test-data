@@ -1,0 +1,77 @@
+[nds-2018 | NDS-2018.pdf | pdf page 158 | printed page 146]
+
+146 SPECIAL LOADING CONDITIONS
+
+15.1 Lateral Distribution of a Concentrated Load
+
+15.1.1 Lateral Distribution of a
+Concentrated Load for Moment
+
+When a concentrated load at the center of the beam
+span is distributed to adjacent parallel beams by a wood
+or concrete-slab floor, the load on the beam nearest the
+point of application shall be determined by multiplying
+the load by the following factors:
+
+Table 15.1.1         Lateral Distribution Factors
+                     for Moment
+                              Load on Critical Beam
+ Kind of Floor                (for one traffic lane2)
+ 2" plank                               S/4.01
+ 4" nail laminated                      S/4.51
+ 6" nail laminated                      S/5.01
+ Concrete, structurally de-             S/6.01
+ signed
+
+1. S = average spacing of beams, ft. If S exceeds the denominator of the
+factor, the load on the two adjacent beams shall be the reactions of the
+load, with the assumption that the floor slab between the beams acts as
+a simple beam.
+2. See Reference 48 for additional information concerning two or more
+traffic lanes.
+
+15.1.2 Lateral Distribution of a
+Concentrated Load for Shear
+
+When the load distribution for moment at the center
+of a beam is known or assumed to correspond to specif-
+ic values in the first two columns of Table 15.1.2, the
+distribution to adjacent parallel beams when loaded at
+or near the quarter point (the approximate point of max-
+imum shear) shall be assumed to be the corresponding
+values in the last two columns of Table 15.1.2.
+
+Table 15.1.2
+Lateral Distribution in Terms of Proportion of Total Load
+
+              Load Applied at Center of Span                             Load Applied at 1/4 Point of Span
+        Center Beam             Distribution to Side Beams          Center Beam            Distribution to Side Beams
+             1.00                           0                           1.00                            0
+             0.90                          0.10                         0.94                          0.06
+             0.80                          0.20                         0.87                          0.13
+             0.70                          0.30                         0.79                          0.21
+             0.60                          0.40                         0.69                          0.31
+             0.50                          0.50                         0.58                          0.42
+             0.40                          0.60                         0.44                          0.56
+             0.33                          0.67                         0.33                          0.67
+15.2 Spaced Columns
+15.2.1 General
+
+15.2.1.1 The design load for a spaced column shall
+be the sum of the design loads for each of its individual
+members.
+
+15.2.1.2 The increased load capacity of a spaced
+column due to the end-fixity developed by the split ring
+or shear plate connectors and end blocks is effective
+only in the direction perpendicular to the wide faces of
+
+the individual members (direction parallel to dimension
+d1, in Figure 15A). The capacity of a spaced column in
+the direction parallel to the wide faces of the individual
+members (direction parallel to dimension d2 in Figure
+15A) shall be subject to the provisions for simple solid
+columns, as set forth in 15.2.3.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

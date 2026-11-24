@@ -1,0 +1,97 @@
+[nds-2018 | NDS-2018.pdf | pdf page 77 | printed page 65]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 65
+MECHANICAL CONNECTIONS
+11
+
+11.2 Reference Design Values
+
+11.2.1 Single Fastener Connections
+
+11.2.1.1 Chapters 12, 13, and 14 contain tabulated
+reference design values and design provisions for calcu-
+lating reference design values for various types of sin-
+gle fastener connections. Reference design values for
+connections in a given species apply to all grades of
+that species unless otherwise indicated. Dowel-type
+fastener connection reference design values for one
+species of wood are also applicable to other species
+having the same or higher dowel bearing strength, Fe.
+
+11.2.1.2 Design provisions and reference design
+values for dowel-type fastener connections such as
+bolts, lag screws, wood screws, nails, spikes, drift bolts,
+and drift pins are provided in Chapter 12.
+
+11.2.1.3 Design provisions and reference design
+values for split ring and shear plate connections are
+provided in Chapter 13.
+
+11.2.1.4 Design provisions and reference design
+values for timber rivet connections are provided in
+Chapter 14.
+
+11.2.1.5 Wood to wood connections involving
+spike grids for load transfer shall be designed in ac-
+cordance with principles of engineering mechanics (see
+Reference 50 for additional information).
+
+11.2.2 Multiple Fastener Connections
+
+Where a connection contains two or more fasteners
+of the same type and similar size, each of which exhib-
+its the same yield mode (see Appendix I), the total ad-
+justed design value for the connection shall be the sum
+of the adjusted design values for each individual fasten-
+
+er. Local stresses in connections using multiple fasten-
+ers shall be evaluated in accordance with principles of
+engineering mechanics (see 11.1.2).
+
+11.2.3 Design of Metal Parts
+
+Metal plates, hangers, fasteners, and other metal
+parts shall be designed in accordance with applicable
+metal design procedures to resist failure in tension,
+shear, bearing (metal on metal), bending, and buckling
+(see References 39, 40, and 41). When the capacity of a
+connection is controlled by metal strength rather than
+wood strength, metal strength shall not be multiplied by
+the adjustment factors in this Specification. In addition,
+metal strength shall not be increased by wind and
+earthquake factors if design loads have already been
+reduced by load combination factors (see Reference 5
+for additional information).
+
+11.2.4 Design of Concrete or Masonry Parts
+
+Concrete footers, walls, and other concrete or ma-
+sonry parts shall be designed in accordance with ac-
+cepted practices (see References 1 and 2). When the
+capacity of a connection is controlled by concrete or
+masonry strength rather than wood strength, concrete or
+masonry strength shall not be multiplied by the adjust-
+ment factors in this Specification. In addition, concrete
+or masonry strength shall not be increased by wind and
+earthquake factors if design loads have already been
+reduced by load combination factors (see Reference 5
+for additional information).
+
+11.3 Adjustment of Reference Design Values
+
+11.3.1 Applicability of Adjustment Factors
+
+Reference design values (Z, W, WH) shall be multi-
+plied by all applicable adjustment factors to determine
+adjusted design values (Z', W', W'H). Table 11.3.1 spec-
+ifies the adjustment factors which apply to reference
+lateral design values (Z) and reference withdrawal de-
+
+sign values (W) for each fastener type, and reference
+fastener head pull-through design values (WH) for fas-
+teners with round heads. The actual load applied to a
+connection shall not exceed the adjusted design value
+(Z', W', W'H) for the connection.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

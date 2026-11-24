@@ -1,0 +1,55 @@
+[nds-2018 | NDS-2018.pdf | pdf page 36 | printed page 24]
+
+24 DESIGN PROVISIONS AND EQUATIONS
+
+3.10.3 Bearing at an Angle to Grain
+
+The adjusted bearing design value at an angle to
+grain (see Figure 3I and Appendix J) shall be calculated
+as follows:
+
+    F ′=       Fc* Fc⊥′                       (3.10-1)
+     θ   Fc* sin2 θ+ Fc⊥′ cos2 θ
+where:
+        θ = angle between direction of load and direction
+            of grain (longitudinal axis of member), de-
+            grees
+3.10.4 Bearing Area Factor, Cb
+
+Reference compression design values perpendicular
+to grain, Fc⊥, apply to bearings of any length at the ends
+of a member, and to all bearings 6" or more in length at
+any other location. For bearings less than 6" in length
+and not nearer than 3" to the end of a member, the ref-
+erence compression design value perpendicular to
+grain, Fc⊥, shall be permitted to be multiplied by the
+following bearing area factor, Cb:
+
+C = ℓb + 0.375
+ b     ℓb
+
+(3.10-2)
+
+where:
+
+ℓb = bearing length measured parallel to grain, in.
+
+Equation 3.10-2 gives the following bearing area
+factors, Cb, for the indicated bearing length on such
+small areas as plates and washers:
+
+Table 3.10.4       Bearing Area Factors, Cb
+ℓb   0.5"   1"   1.5"   2"   3"    4"    6" or more
+Cb   1.75  1.38  1.25  1.19 1.13  1.10     1.00
+
+For round bearing areas such as washers, the bear-
+ing length,
+
+ℓb, shall be equal to the diameter.
+
+Figure 3I
+
+Bearing at an Angle to Grain
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

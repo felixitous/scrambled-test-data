@@ -1,0 +1,50 @@
+[
+  {
+    "id": "nds-2018",
+    "file": "NDS-2018.pdf",
+    "title": "National Design Specification (NDS) for Wood Construction, 2018 Edition",
+    "publisher": "American Wood Council",
+    "pdf_pages": 206,
+    "use_for": "Design provisions and equations, adjustment factors, member and connection rules (bolts, lag screws, nails, split ring and shear plate connectors, timber rivets), fire design, appendices A-N. The species/grade design-value tables are not here; they are in the Supplement.",
+    "text": {
+      "dir": "lookup/text/nds-2018",
+      "file_pattern": "pNNN.txt (NNN = pdf page, zero-padded to 3 digits)"
+    },
+    "page_numbers": {
+      "unnumbered_pdf_pages": [1, 2, 3, 205, 206],
+      "front_matter": {
+        "pdf_pages": "4-12",
+        "printed": "roman ii-x"
+      },
+      "body": {
+        "pdf_pages": "13-204",
+        "printed": "1-192",
+        "rule": "printed = pdf - 12"
+      }
+    }
+  },
+  {
+    "id": "nds-supplement",
+    "file": "NDS_supplement.pdf",
+    "title": "NDS Supplement: Design Values for Wood Construction, 2018 Edition",
+    "publisher": "American Wood Council",
+    "pdf_pages": 86,
+    "use_for": "Tabulated reference design values by species and grade (sawn lumber Tables 4A-4F, glued laminated timber 5A-5D, round timber piles and poles 6A-6B), section properties (Tables 1A-1D), lumber grading agencies, species combinations.",
+    "text": {
+      "dir": "lookup/text/nds-supplement",
+      "file_pattern": "pNNN.txt (NNN = pdf page, zero-padded to 3 digits)"
+    },
+    "page_numbers": {
+      "unnumbered_pdf_pages": [1, 2, 3, 85, 86],
+      "front_matter": {
+        "pdf_pages": "4-8",
+        "printed": "roman ii-vi"
+      },
+      "body": {
+        "pdf_pages": "9-84",
+        "printed": "1-76",
+        "rule": "printed = pdf - 8"
+      }
+    }
+  }
+]

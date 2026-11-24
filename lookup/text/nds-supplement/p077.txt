@@ -1,0 +1,63 @@
+[nds-supplement | NDS_supplement.pdf | pdf page 77 | printed page 69]
+
+DESIGN VALUES FOR WOOD CONSTRUCTION – NDS SUPPLEMENT 69
+REFERENCE DESIGN VALUES
+4
+
+Table 5C
+Reference Design Values for Structural Glued Laminated Hardwood Timber(1)
+
+(Members stressed primarily in bending) (Tabulated design values are for normal load duration and dry service conditions. See NDS
+
+               5.3 for a comprehensive description of design value adjustment factors.)
+                                                           Use with Table 5C Adjustment Factors
+                                      Bending About X-X Axis                             Bending About Y-Y Axis            Axially Loaded    Fasteners(3)
+                                      Loaded Perpendicular to Wide                          Loaded Parallel to Wide
+                                          Faces of Laminations                               Faces of Laminations
+                                               Compression Shear      Modulus           Compression Shear      Modulus     Tension Compression Specific Gravity
+                                               Perpendicular Parallel   of             Perpendicular Parallel    of       Parallel to Parallel to for
+                              Bending           to Grain  to Grain    Elasticity Bending to Grain  to Grain    Elasticity   Grain   Grain     Fastener Design
+                                                        (Horizontal) For    For                  (Horizontal) For    For
+                                                                  Deflection Stability                     Deflection Stability
+                     Bottom of Beam Top of Beam                  Calculations Calculations                Calculations Calculations
+                       Stressed     Stressed
+                       in Tension   in Tension
+                    (Positive Bending) (Negative Bending)
+   Combination          Fbx+         Fbx-        Fc⊥x      Fvx     Ex     Ex min  Fby     Fc⊥y     Fvy(2)   Ey     Ey min    Ft      Fc           G
+      Symbol            (psi)         (psi)      (psi)     (psi) (106 psi) (106 psi) (psi) (psi)   (psi)  (106 psi) (106 psi) (psi)  (psi)
+Visually Graded Hardwoods
+       12F-V1           1200          600         285      125     1.2     0.63   1050     285      110     1.0     0.53    600      800         0.39
+       12F-V2           1200         1200         285      125     1.2     0.63   1050     285      110     1.1     0.58    625      860         0.39
+       14F-V1           1400          700         405      155     1.3     0.69   1250     405      135     1.1     0.58    700      950         0.45
+       14F-V2           1400          700         590      180     1.3     0.69   1450     590      160     1.1     0.58    750     1200         0.53
+       14F-V3           1400         1400         405      155     1.3     0.69   1250     405      135     1.1     0.58    725      950         0.45
+       14F-V4           1400         1400         590      180     1.3     0.69   1450     590      160     1.1     0.58    775     1200         0.53
+       16F-V1           1600          800         590      180     1.4     0.74   1400     590      160     1.2     0.63    800     1200         0.53
+       16F-V2           1600          800         835      200     1.5     0.79   1700     835      175     1.3     0.69    875     1250         0.63
+       16F-V3           1600         1600         590      180     1.4     0.74   1400     590      160     1.2     0.63    850     1200         0.53
+       16F-V4           1600         1600         835      200     1.6     0.85   1700     835      175     1.3     0.69    900     1300         0.63
+       20F-V1           2000         1000         835      200     1.7     0.90   1700     835      175     1.4     0.74    975     1400         0.63
+       20F-V2           2000         2000         835      200     1.7     0.90   1700     835      175     1.4     0.74    1000    1400         0.63
+E-Rated Hardwoods
+       16F-E1           1600          800         440      125     1.4     0.74   1250     285      110     1.2     0.63    825      975         0.39
+       16F-E2           1600         1600         440      125     1.4     0.74   1400     285      110     1.2     0.63    900     1000         0.39
+       20F-E1           2000         1000         590      155     1.6     0.85   1350     405      135     1.3     0.69    950     1050         0.45
+       20F-E2           2000         2000         590      155     1.6     0.85   1600     405      135     1.3     0.69    1050    1100         0.45
+       24F-E1           2400         1200         770      180     1.8     0.95   1550     590      160     1.5     0.79    1050    1400         0.53
+       24F-E2           2400         2400         770      180     1.8     0.95   1650     590      160     1.5     0.79    1050    1400         0.53
+       24F-E3 YP        2400         1200         590      155     1.8     0.95   1450     405      135     1.5     0.79    975     1200         0.45
+       24F-E4 RM        2400         1200         895      220     1.8     0.95   1650     710      195     1.6     0.85    1050    1350         0.53
+       24F-E5 RO        2400         1200        1075      235     1.8     0.95   1700     900      205     1.5     0.79    1100    1450         0.63
+
+1. The combinations in this table are applicable to members consisting of 4 or more laminations and are intended primarily for members stressed in bending due to loads applied perpendicular to the wide faces
+of the laminations. However, reference design values are tabulated for loading both perpendicular and parallel to the wide faces of the laminations. For combinations and reference design values for members
+
+loaded primarily axially or parallel to the wide faces of the laminations, see Table 5D. For members with 2 or 3 laminations, see Table 5D.
+
+2. Reference design values are for timbers with laminations made from a single piece of lumber across the width or multiple pieces that have been edge bonded. For timbers manufactured from multiple piece lami-
+nations (across width) that are not edge bonded, value shall be multiplied by 0.4 for members with 5, 7, or 9 laminations or by 0.5 for all other members.
+
+3. Fastener values are for groups of hardwood species permitted in each combination. If actual species is known, values for that species are permitted to be used.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

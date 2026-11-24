@@ -1,0 +1,66 @@
+[nds-2018 | NDS-2018.pdf | pdf page 57 | printed page 45]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 45
+ROUND TIMBER POLES AND PILES
+6
+
+ter-borne preservatives, (see Reference 30), nor to
+structural members pressure-treated with fire retardant
+chemicals (see Table 2.3.2).
+
+6.3.3 Wet Service Factor, CM
+
+Reference design values apply to wet or dry service
+conditions (CM = 1.0).
+
+6.3.4 Temperature Factor, Ct
+
+Reference design values shall be multiplied by
+temperature factors, Ct, as specified in 2.3.3.
+
+6.3.5 Condition Treatment Factor, Cct
+
+Reference design values are based on air dried con-
+ditioning. If kiln-drying, steam-conditioning, or boul-
+tonizing is used prior to treatment (see reference 20)
+then the reference design values shall be multiplied by
+the condition treatment factors, Cct, in Table 6.3.5.
+
+Table 6.3.5    Condition Treatment Factor, Cct
+  Air     Kiln    Boulton   Steaming   Steaming
+ Dried    Dried    Drying   (Normal)   (Marine)
+  1.0     0.90      0.95      0.80       0.74
+6.3.6 Beam Stability Factor, CL
+
+Reference bending design values, Fb, for round
+timber poles or piles shall not be adjusted for beam sta-
+bility.
+
+6.3.7 Size Factor, CF
+
+Where pole or pile circumference exceeds 43" (di-
+ameter exceeds 13.5") at the critical section in bending,
+the reference bending design value, Fb, shall be multi-
+plied by the size factor, CF, specified in 4.3.6.2 and
+4.3.6.3.
+
+Table 6.3.1
+Applicability of Adjustment Factors for Round Timber Poles
+and Piles
+
+ASD                                   LRFD
+             ASD and LRFD
+only                                   only
+
+                                                           KF     φ
+Fc' = Fc     x CD     Ct   Cct   -    CP   Ccs    -   Cls 2.40 0.90    λ
+Fb' = Fb     x CD     Ct   Cct   CF    -    -     -   Cls 2.54 0.85    λ
+Fv' = Fv     x CD     Ct   Cct   -     -    -     -    -   2.88 0.75   λ
+Fc⊥' = Fc⊥   x   -    Ct   Cct   -     -    -    Cb    -   1.67 0.90   -
+E' = E       x   -    Ct    -    -     -    -     -    -    -     -    -
+Emin' = Emin x   -    Ct    -    -     -    -     -    -   1.76 0.85   -
+
+[text in another orientation] Load Duration Factor | Temperature Factor | Condition Treatment Factor | Size Factor | Column Stability Factor | Critical Section Factor | Bearing Area Factor | Load Sharing Factor | Format Conversion Factor | Resistance Factor | Time Effect Factor
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

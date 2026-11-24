@@ -1,0 +1,102 @@
+[nds-2018 | NDS-2018.pdf | pdf page 70 | printed page 58]
+
+58 WOOD STRUCTURAL PANELS
+
+9.3.4 Panel Size Factor, Cs
+
+Reference bending and tension design values (FbS
+and FtA) for wood structural panels are applicable to
+panels that are 24" or greater in width (i.e., dimension
+perpendicular to the applied stress). For panels less than
+24" in width, reference bending and tension design val-
+ues shall be multiplied by the panel size factor, Cs,
+specified in Table 9.3.4.
+
+Table 9.3.4
+Panel Size Factor, Cs
+
+Panel Strip Width, w
+Cs
+w ≤ 8"
+0.5
+8" < w < 24"
+(8 + w) / 32
+w ≥ 24"
+1.0
+
+9.3.5 Format Conversion Factor, KF (LRFD
+Only)
+
+For LRFD, reference design values shall be multi-
+plied by the format conversion factor, KF, specified in
+Table 9.3.1.
+
+9.3.6 Resistance Factor, φ (LRFD Only)
+
+For LRFD, reference design values shall be multi-
+plied by the resistance factor, φ, specified in Table
+9.3.1.
+
+9.3.7 Time Effect Factor, λ (LRFD Only)
+
+For LRFD, reference design values shall be multi-
+plied by the time effect factor, λ, specified in Appendix
+N.3.3.
+9.4 Design Considerations
+
+9.4.1 Flatwise Bending
+
+Wood structural panels shall be designed for flex-
+ure by checking bending moment, shear, and deflection.
+Adjusted planar shear shall be used as the shear re-
+sistance in checking the shear for panels in flatwise
+bending. Appropriate beam equations shall be used
+with the design spans as defined below.
+
+(a) Bending moment-distance between center-line
+
+of supports.
+(b) Shear-clear span.
+(c) Deflection-clear span plus the support width
+
+factor. For 2" nominal and 4" nominal framing,
+the support width factor is equal to 0.25" and
+0.625", respectively.
+
+9.4.2 Tension in the Plane of the Panel
+
+When wood structural panels are loaded in axial
+tension, the orientation of the primary strength axis of
+the panel with respect to the direction of loading, shall
+be considered in determining adjusted tensile capacity.
+
+9.4.3 Compression in the Plane of the
+Panel
+
+When wood structural panels are loaded in axial
+compression, the orientation of the primary strength
+axis of the panel with respect to the direction of load-
+ing, shall be considered in determining the adjusted
+compressive capacity. In addition, panels shall be de-
+signed to prevent buckling.
+
+9.4.4 Planar (Rolling) Shear
+
+The adjusted planar (rolling) shear shall be used in
+design when the shear force is applied in the plane of
+wood structural panels.
+
+9.4.5 Through-the-Thickness Shear
+
+The adjusted through-the-thickness shear shall be
+used in design when the shear force is applied through-
+the-thickness of wood structural panels.
+
+9.4.6 Bearing
+
+The adjusted bearing design value of wood struc-
+tural panels shall be used in design when the load is
+applied perpendicular to the panel face.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

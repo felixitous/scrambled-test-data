@@ -1,0 +1,82 @@
+[nds-supplement | NDS_supplement.pdf | pdf page 57 | printed page 49]
+
+DESIGN VALUES FOR WOOD CONSTRUCTION – NDS SUPPLEMENT 49
+REFERENCE DESIGN VALUES
+4
+
+                                           USE WITH TABLE 4D ADJUSTMENT FACTORS
+                                                              Design values in pounds per square inch (psi)
+                                                    Tension    Shear    Compression   Compression                                   Grading
+  Species and commercial        Size                parallel  parallel  perpendicular    parallel                          Specific  Rules
+          Grade             classification Bending  to grain  to grain    to grain       to grain     Modulus of Elasticity Gravity4 Agency
+                                             Fb       Ft        Fv          Fc⊥            Fc           E          Emin       G
+HEM-FIR (NORTH)
+Select Structural                          1,250      725       135         405            900       1,300,000   470,000
+No.1                         Beams and     1,000      500       135         405            750       1,300,000   470,000
+No.2                          Stringers     675       325       135         405            475       1,100,000   400,000
+Select Structural                          1,150      775       135         405            950       1,300,000   470,000     0.46    NLGA
+No.1                         Posts and      925       625       135         405            850       1,300,000   470,000
+No.2                          Timbers       550       375       135         405            575       1,100,000   400,000
+MIXED MAPLE
+Select Structural                          1,150      700       180         620            725       1,100,000   400,000
+No.1                         Beams and      975       500       180         620            600       1,100,000   400,000
+No.2                          Stringers     625       325       180         620            375        900,000    330,000
+Select Structural                          1,100      725       180         620            750       1,100,000   400,000     0.55   NELMA
+No.1                         Posts and      875       600       180         620            650       1,100,000   400,000
+No.2                          Timbers       500       350       180         620            300        900,000    330,000
+MIXED OAK
+Select Structural                          1,350      800       155         800            825       1,000,000   370,000
+No.1                         Beams and     1,150      550       155         800            700       1,000,000   370,000
+No.2                          Stringers     725       375       155         800            450        800,000    290,000
+Select Structural                          1,250      850       155         800            875       1,000,000   370,000     0.68   NELMA
+No.1                         Posts and     1,000      675       155         800            775       1,000,000   370,000
+No.2                          Timbers       575       400       155         800            350        800,000    290,000
+MIXED SOUTHERN PINE2                                                            (Wet Service Conditons)
+Select Structural                          1,500     1,000      165         375            900       1,300,000   470,000
+No.1                       5"x5" and Larger 1,350     900       165         375            800       1,300,000   470,000     0.51    SPIB
+No.2                                        850       550       165         375            525       1,000,000   370,000
+MOUNTAIN HEMLOCK
+Select Structural                          1,350      775       170         570            875       1,100,000   400,000
+No.1                         Beams and     1,100      550       170         570            725       1,100,000   400,000
+No.2                          Stringers     725       375       170         570            475        900,000    330,000            WCLIB
+Select Structural                          1,250      825       170         570            925       1,100,000   400,000     0.47   WWPA
+No.1                         Posts and     1,000      675       170         570            800       1,100,000   400,000
+No.2                          Timbers       625       400       170         570            550        900,000    330,000
+NORTHERN PINE
+Select Structural                          1,250      850       135         435            850       1,300,000   470,000
+No.1                         Beams and     1,050      700       135         435            725       1,300,000   470,000
+No.2                          Stringers     675       350       135         435            450       1,000,000   370,000
+Select Structural                          1,150      800       135         435            900       1,300,000   470,000     0.42   NELMA
+No.1                         Posts and      950       650       135         435            800       1,300,000   470,000
+No.2                          Timbers       550       375       135         435            375       1,000,000   370,000
+NORTHERN RED OAK
+Select Structural                          1,600      950       205         885            950       1,300,000   470,000
+No.1                         Beams and     1,350      675       205         885            800       1,300,000   470,000
+No.2                          Stringers     875       425       205         885            500       1,000,000   370,000
+Select Structural                          1,500     1,000      205         885           1,000      1,300,000   470,000     0.68   NELMA
+No.1                         Posts and     1,200      800       205         885            875       1,300,000   470,000
+No.2                          Timbers       700       475       205         885            400       1,000,000   370,000
+NORTHERN WHITE CEDAR
+Select Structural                           900       600       115         370            600        700,000    260,000
+No.1                         Beams and      750       500       115         370            500        700,000    260,000
+No.2                          Stringers     500       250       115         370            325        600,000    220,000
+Select Structural                           850       575       115         370            650        700,000    260,000     0.31   NELMA
+No.1                         Posts and      675       450       115         370            550        700,000    260,000
+No.2                          Timbers       400       250       115         370            250        600,000    220,000
+PONDEROSA PINE
+Select Structural                          1,100      725       130         535            750       1,100,000   400,000
+No.1                         Beams and      925       500       130         535            625       1,100,000   400,000
+No.2                          Stringers     600       300       130         535            400        900,000    330,000
+Select Structural                          1,000      675       130         535            800       1,100,000   400,000     0.43    NLGA
+No.1                         Posts and      825       550       130         535            700       1,100,000   400,000
+No.2                          Timbers       475       325       130         535            325        900,000    330,000
+
+(Cont.)
+Table 4D
+Reference Design Values for Visually Graded Timbers (5" x 5" and larger)1,3
+
+(Tabulated design values are for normal load duration and dry service conditions, unless specified
+otherwise. See NDS 4.3 for a comprehensive description of design value adjustment factors.)
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

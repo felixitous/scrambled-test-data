@@ -1,0 +1,66 @@
+[nds-2018 | NDS-2018.pdf | pdf page 65 | printed page 53]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 53
+STRUCTURAL COMPOSITE LUMBER
+8
+
+Table 8.3.1
+Applicability of Adjustment Factors for Structural
+Composite Lumber
+
+ASD                                   LRFD
+             ASD and LRFD
+only                                   only
+
+                                                          KF     φ
+Fb' = Fb    x   CD   CM    Ct  CL1 CV1     Cr   -    -    2.54 0.85   λ
+Ft' = Ft    x   CD   CM    Ct    -   CV    -    -    -    2.70 0.80   λ
+Fv' = Fv    x   CD   CM    Ct    -    -    -    -    -    2.88 0.75   λ
+Fc' = Fc    x   CD   CM    Ct    -    -    -   CP    -    2.40 0.90   λ
+Fc⊥' = Fc⊥  x    -   CM    Ct    -    -    -    -    Cb   1.67 0.90   -
+E' = E      x    -   CM    Ct    -    -    -    -    -     -     -    -
+Emin' = Emin x   -   CM    Ct    -    -    -    -    -    1.76 0.85   -
+
+1. See 8.3.6.1 for information on simultaneous application of the volume factor, CV, and the beam stability factor, CL, to
+the reference bending design value, Fb
+8.3.2 Load Duration Factor, CD (ASD Only)
+
+All reference design values except modulus of elas-
+ticity, E, modulus of elasticity for beam and column
+stability, Emin, and compression perpendicular to grain,
+Fc⊥, shall be multiplied by load duration factors, CD, as
+specified in 2.3.2.
+
+8.3.3 Wet Service Factor, CM
+
+Reference design values for structural composite
+lumber are applicable to dry service conditions as spec-
+ified in 8.1.4 where CM = 1.0. When the service condi-
+tions differ from the specified conditions, adjustments
+for high moisture shall be in accordance with infor-
+mation provided by the structural composite lumber
+manufacturer.
+
+8.3.4 Temperature Factor, Ct
+
+When structural members will experience sustained
+exposure to elevated temperatures up to 150°F (see Ap-
+pendix C), reference design values shall be multiplied
+by the temperature factors, Ct, specified in 2.3.3.
+
+8.3.5 Beam Stability Factor, CL
+
+Structural composite lumber bending members
+shall be laterally supported in accordance with 3.3.3.
+
+8.3.6 Volume Factor, CV
+
+8.3.6.1 Reference bending design values, Fb, for
+structural composite lumber shall be multiplied by the
+volume factor, CV, which shall be obtained from the
+structural composite lumber manufacturer’s literature
+
+[text in another orientation] Load Duration Factor | Wet Service Factor | Temperature Factor | Beam Stability Factor | Volume Factor | Repetitive Member Factor | Column Stability Factor | Bearing Area Factor | Format Conversion Factor | Resistance Factor | Time Effect Factor
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

@@ -1,0 +1,77 @@
+[nds-supplement | NDS_supplement.pdf | pdf page 41 | printed page 33]
+
+DESIGN VALUES FOR WOOD CONSTRUCTION – NDS SUPPLEMENT 33
+REFERENCE DESIGN VALUES
+4
+
+Table 4A
+Reference Design Values for Visually Graded Dimension Lumber
+(2" - 4" thick)1,2,3
+
+(All species except Southern Pine — see Table 4B) (Tabulated design values are for normal load
+duration and dry service conditions. See NDS 4.3 for a comprehensive description of design value
+adjustment factors.)
+
+                                           USE WITH TABLE 4A ADJUSTMENT FACTORS
+                                                            Design values in pounds per square inch (psi)
+  Species and commercial       Size               Tension    Shear    Compression    Compression                                  Grading
+          grade            classification         parallel  parallel  perpendicular    parallel                          Specific  Rules
+                                         Bending  to grain  to grain     to grain      to grain     Modulus of Elasticity Gravity4 Agency
+                                           Fb        Ft        Fv          Fc⊥            Fc           E         Emin       G
+ALASKA CEDAR
+Select Structural                         1,150     625       165          525          1,000      1,400,000    510,000
+No. 1                                      975      525       165          525           900       1,300,000    470,000
+No. 2                       2" & wider     800      425       165          525           750       1,200,000    440,000
+No. 3                                      450      250       165          525           425       1,100,000    400,000
+Stud                        2" & wider     625      350       165          525           475       1,100,000    400,000    0.47    WCLIB
+Construction                               900      500       165          525           950       1,200,000    440,000
+Standard                    2" - 4" wide   500      275       165          525           775       1,100,000    400,000
+Utility                                    250      125       165          525           500       1,000,000    370,000
+ALASKA HEMLOCK
+Select Structural                         1,300     825       185          440          1,200      1,700,000    620,000
+No. 1                                      900      550       185          440          1,100      1,600,000    580,000
+No. 2                       2" & wider     825      475       185          440          1,050      1,500,000    550,000
+No. 3                                      475      275       185          440           600       1,400,000    510,000
+Stud                        2" & wider     650      375       185          440           650       1,400,000    510,000    0.46    WWPA
+Construction                               950      550       185          440          1,250      1,400,000    510,000
+Standard                    2" - 4" wide   525      300       185          440          1,050      1,300,000    470,000
+Utility                                    250      150       185          440           700       1,200,000    440,000
+ALASKA SPRUCE
+Select Structural                         1,400     900       160          330          1,200      1,600,000    580,000
+No. 1                                      950      600       160          330          1,100      1,500,000    550,000
+No. 2                       2" & wider     875      500       160          330          1,050      1,400,000    510,000
+No. 3                                      500      300       160          330           600       1,300,000    470,000
+Stud                        2" & wider     675      400       160          330           675       1,300,000    470,000    0.41    WWPA
+Construction                              1,000     575       160          330          1,250      1,300,000    470,000
+Standard                    2" - 4" wide   550      325       160          330          1,050      1,200,000    440,000
+Utility                                    275      150       160          330           700       1,100,000    400,000
+ALASKA YELLOW CEDAR
+Select Structural                         1,350     800       225          510          1,200      1,500,000    550,000
+No. 1                                      900      525       225          510          1,050      1,400,000    510,000
+No. 2                       2" & wider     800      450       225          510          1,000      1,300,000    470,000
+No. 3                                      475      250       225          510           575       1,200,000    440,000            WCLIB
+Stud                        2" & wider     625      350       225          510           625       1,200,000    440,000    0.46    WWPA
+Construction                               925      500       225          510          1,250      1,300,000    470,000
+Standard                    2" - 4" wide   500      275       225          510          1,050      1,100,000    400,000
+Utility                                    250      125       225          510           675       1,100,000    400,000
+ASPEN
+Select Structural                          875      500       120          265           725       1,100,000    400,000
+No. 1                                      625      375       120          265           600       1,100,000    400,000
+No. 2                       2" & wider     600      350       120          265           450       1,000,000    370,000
+No. 3                                      350      200       120          265           275        900,000     330,000            NELMA
+Stud                        2" & wider     475      275       120          265           300        900,000     330,000    0.39    WWPA
+Construction                               700      400       120          265           625        900,000     330,000
+Standard                    2" - 4" wide   375      225       120          265           475        900,000     330,000
+Utility                                    175      100       120          265           300        800,000     290,000
+BALDCYPRESS
+Select Structural                         1,200     650       160          615          1,200      1,400,000    510,000
+No. 1                                     1,000     550       160          615          1,050      1,400,000    510,000
+No. 2                       2" & wider     825      450       160          615           900       1,300,000    470,000
+No. 3                                      475      250       160          615           525       1,200,000    440,000
+Stud                        2" & wider     650      350       160          615           575       1,200,000    440,000    0.47     SPIB
+Construction                               925      500       160          615          1,100      1,200,000    440,000
+Standard                    2" - 4" wide   525      275       160          615           925       1,100,000    400,000
+Utility                                    250      125       160          615           600       1,000,000    370,000
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

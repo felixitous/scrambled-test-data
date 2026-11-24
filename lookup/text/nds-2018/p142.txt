@@ -1,0 +1,103 @@
+[nds-2018 | NDS-2018.pdf | pdf page 142 | printed page 130]
+
+130 SPLIT RING AND SHEAR PLATE CONNECTORS
+
+U  =          U||U⊥                         (13.3-4)
+  α    U||2 sin2 α + U2⊥ cos2 α
+where:
+      Uα = minimum unloaded edge distance parallel to
+           axis of cut
+      UII = factor from Table 13.3.3.1-3
+      U⊥ = factor from Table 13.3.3.1-3
+       α = angle of sloped cut (see Figure 13G)
+Table 13.3.3.1-3   Factors for Determining
+                   Minimum Unloaded Edge
+                   Distance Parallel to Axis of
+                   Cut
+    Connector       Geometry        UII       U⊥
+                      Factor        in.       in.
+ 2-1/2" split ring or CΔ = 1.00    4.00      1.75
+ 2-5/8" shear plate  CΔ = 0.63     2.50      1.50
+  4" split ring or 4" CΔ = 1.00    5.50      2.75
+    shear plate      CΔ = 0.63     3.25      2.50
+
+(b.4)
+Geometry factors for unloaded edge
+distance perpendicular to the axis of cut
+and for spacing perpendicular to the axis of
+cut shall be determined following the pro-
+visions for unloaded edge distance and
+perpendicular-to-grain spacing for con-
+nectors installed in side grain and loaded
+parallel to grain.
+(c) Sloping surface loaded perpendicular to axis of
+
+cut (see Figure 13H) - provisions for perpen-
+dicular to grain loading for connectors installed
+in end grain shall apply, except that:
+(1) The minimum end distance parallel to the
+
+axis of cut for CΔ = 1.0 shall be determined
+in accordance with Equation 13.3-5.
+(2) The minimum end distance parallel to the
+
+axis of cut for CΔ = 0.63 shall be deter-
+mined in accordance with Equation 13.3-5.
+
+(3) Where the actual end distance parallel to the
+
+axis of cut is greater than the minimum end
+distance for CΔ = 0.63, but less than the
+minimum unloaded edge distance for CΔ =
+1.0, the geometry factor, CΔ, shall be de-
+termined by linear interpolation.
+
+e  =          E||U⊥                         (13.3-5)
+  α    E||2 sin2 α + U2⊥ cos2 α
+where:
+      eα = minimum end distance parallel to axis of cut
+       EII = factor from Table 13.3.3.1-4
+      U⊥ = factor from Table 13.3.3.1-4
+       α = angle of sloped cut (see Figure 13G)
+Table 13.3.3.1-4   Factors for Determining
+                   Minimum End Distance
+                   Parallel to Axis of Cut
+     Connector        Geometry       EII      U⊥
+                       Factor        in.      in.
+  2-1/2" split ring or CΔ = 1.00    5.50     1.75
+  2-5/8" shear plate  CΔ = 0.63     2.75     1.50
+  4" split ring or 4" CΔ = 1.00     7.00     2.75
+     shear plate      CΔ = 0.63     3.50     2.50
+    (d) Sloping surface loaded at angle ϕ to axis of cut
+
+(see Figure 13I) - separate geometry factors,
+CΔ, shall be determined for the components of
+resistance parallel and perpendicular to the axis
+of cut prior to applying Equation 13.2-5.
+13.3.3.2 Where split ring or shear plate connectors are
+installed in end grain, the members shall be designed for
+shear parallel to grain in accordance with 3.4.3.3.
+
+13.3.4 Multiple Split Ring or Shear Plate
+Connectors
+
+13.3.4.1 Where a connection contains two or more
+split ring or shear plate connector units which are in the
+same shear plane, are aligned in the direction of load,
+and on separate bolts or lag screws, the group action
+factor, Cg, shall be as specified in 11.3.6 and the total
+adjusted design value for the connection shall be as
+specified in 11.2.2.
+
+13.3.4.2 If grooves for two sizes of split rings are
+cut concentric in the same wood surface, split ring con-
+nectors shall be installed in both grooves and the refer-
+ence design value shall be taken as the reference design
+value for the larger split ring connector.
+
+13.3.4.3 Local stresses in connections using multi-
+ple fasteners shall be evaluated in accordance with
+principles of engineering mechanics (see 11.1.2).
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

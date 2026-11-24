@@ -1,0 +1,128 @@
+[nds-2018 | NDS-2018.pdf | pdf page 20 | printed page 8]
+
+8 GENERAL REQUIREMENTS FOR STRUCTURAL DESIGN
+
+ℓu = laterally unsupported span length of
+
+bending member, in.
+
+ℓ1,
+
+ℓ2 = distances between points of lateral
+support of compression member in planes
+1 and 2, in.
+
+ℓ3 = distance from center of spacer block to
+centroid of group of split ring or shear
+plate connectors in end block for a spaced
+column, in.
+
+ m.c. = moisture content based on oven-dry
+        weight of wood, %
+    n = number of fasteners in a row
+  nlam = number of laminations charred (rounded
+        to lowest integer) for cross-laminated tim-
+        ber
+   nR = number of rivet rows
+   nc = number of rivets per row
+    ni = number of fasteners in a row
+  nrow = number of rows of fasteners
+    p = length of fastener penetration into wood
+        member, in.
+  pmin = minimum length of fastener penetration
+        into wood member, in.
+    pt = length of fastener penetration into wood
+        member for withdrawal calculations, in.
+    r = radius of gyration, in.
+    s = center-to-center spacing between adjacent
+        fasteners in a row, in.
+scritical = minimum spacing taken as the lesser of
+
+the end distance or the spacing between
+fasteners in a row, in.
+
+sp = spacing between rivets parallel to grain,
+      in.
+sq = spacing between rivets perpendicular to
+      grain, in.
+  t = thickness, in.
+  t = exposure time, hrs.
+tgi = time for char front to reach glued interface
+      (hr.) for cross-laminated timber
+tm = thickness of main member, in.
+tns = net side member thickness, in.
+ ts = thickness of side member, in.
+ tv = thickness for through-the-thickness shear
+      of cross-laminated timber, in.
+
+x = distance from beam support face to load,
+
+in.
+
+ΔH = horizontal deflection at supports of sym-
+
+metrical double-tapered curved structural
+glued laminated timber members, in.
+
+ΔLT = immediate deflection due to the long-term
+
+component of the design load, in.
+
+ΔST = deflection due to the short-term or normal
+
+component of the design load, in.
+
+ΔT = total deflection from long-term and short-
+
+term loading, in.
+
+Δc = vertical deflection at mid-span of double-
+
+tapered curved structural glued laminated
+timber members, in.
+
+α = angle between the wood surface and the
+
+direction of applied load for dowel-type
+fasteners subjected to combined lateral
+and withdrawal loading, degrees
+
+βt = non-linear char rate (in./hr.0.813) adjusted
+
+for exposure time, t
+
+βn = nominal char rate (in./hr.), linear char rate
+
+based on 1-hour exposure
+
+γ = load/slip modulus for a connection, lbs/in.
+
+λ = time effect factor
+
+θ = angle of taper on the compression or
+
+tension face of structural glued laminated
+timber members, degrees
+
+θ = angle between the direction of load and
+
+the direction of grain (longitudinal axis of
+member) for split ring or shear plate con-
+nector design, degrees
+
+φ = resistance factor
+
+φB = angle of soffit slope at the ends of double-
+
+tapered curved structural glued laminated
+timber member, degrees
+
+φT = angle of roof slope of double-tapered
+
+curved structural glued laminated timber
+member, degrees
+
+ω = uniformly distributed load, lbs/in.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

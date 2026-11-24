@@ -1,0 +1,23 @@
+[nds-2018 | NDS-2018.pdf | pdf page 196 | printed page 184]
+
+184 APPENDIX
+
+Table L7 Standard Cut Washers1
+
+A = inside diameter, in.
+B = outside diameter, in.
+C = thickness, in.
+
+                              A                        B                      C
+     Nominal            Inside Diameter         Outside Diameter           Thickness
+    Washer Size              Basic                    Basic                  Basic
+        3/8                  0.438                    1.000                  0.083
+        1/2                  0.562                    1.375                  0.109
+        5/8                  0.688                    1.750                  0.134
+        3/4                  0.812                    2.000                  0.148
+        7/8                  0.938                    2.250                  0.165
+         1                   1.062                    2.500                  0.165
+1. Tolerances are provided in ANSI/ASME B18.22.1. For other standard cut washers, see ANSI/ASME B18.22.1.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

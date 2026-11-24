@@ -1,0 +1,89 @@
+[nds-2018 | NDS-2018.pdf | pdf page 62 | printed page 50]
+
+50 PREFABRICATED WOOD I-JOISTS
+
+7.3.8 Format Conversion Factor, KF (LRFD
+Only)
+
+For LRFD, reference design values shall be multi-
+plied by the format conversion factor, KF, provided by
+the prefabricated wood I-joist manufacturer.
+
+7.3.9 Resistance Factor, φ (LRFD Only)
+
+For LRFD, reference design values shall be multi-
+plied by the resistance factor, φ, specified in Table
+7.3.1.
+
+7.3.10 Time Effect Factor, λ (LRFD Only)
+
+For LRFD, reference design values shall be multi-
+plied by the time effect factor, λ, specified in Appendix
+N.3.3.
+
+7.4 Special Design Considerations
+
+7.4.1 Bearing
+
+Reference bearing design values, as a function of
+bearing length, for prefabricated wood I-joists with and
+without web stiffeners shall be obtained from the pre-
+fabricated wood I-joist manufacturer’s literature or
+code evaluation reports.
+
+7.4.2 Load Application
+
+Prefabricated wood I-joists act primarily to resist
+loads applied to the top flange. Web stiffener require-
+ments, if any, at concentrated loads applied to the top
+flange and design values to resist concentrated loads
+applied to the web or bottom flange shall be obtained
+from the prefabricated wood I-joist manufacturer’s lit-
+erature or code evaluation reports.
+
+7.4.3 Web Holes
+
+The effects of web holes on strength shall be ac-
+counted for in the design. Determination of critical
+shear at a web hole shall consider load combinations of
+1.4.4 and partial span loadings defined as live or snow
+loads applied from each adjacent bearing to the oppo-
+site edge of a rectangular hole (centerline of a circular
+hole). The effects of web holes on deflection are negli-
+gible when the number of holes is limited to 3 or less
+per span. Reference design values for prefabricated
+wood I-joists with round or rectangular holes shall be
+
+obtained from the prefabricated wood I-joist manufac-
+turer’s literature or code evaluation reports.
+
+7.4.4 Notches
+
+Notched flanges at or between bearings significant-
+ly reduces prefabricated wood I-joist capacity and is
+beyond the scope of this document. See the manufac-
+turer for more information.
+
+7.4.5 Deflection
+
+Both bending and shear deformations shall be con-
+sidered in deflection calculations, in accordance with
+the prefabricated wood I-joist manufacturer’s literature
+or code evaluation reports.
+
+7.4.6 Vertical Load Transfer
+
+Prefabricated wood I-joists supporting bearing
+walls located directly above the prefabricated wood I-
+joist support require rim joists, blocking panels, or oth-
+er means to directly transfer vertical loads from the
+bearing wall to the supporting structure below.
+
+7.4.7 Shear
+
+Provisions of 3.4.3.1 for calculating shear force,
+V, shall not be used for design of prefabricated wood
+I-joist bending members.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

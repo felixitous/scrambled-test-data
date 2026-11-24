@@ -1,0 +1,77 @@
+[nds-2018 | NDS-2018.pdf | pdf page 34 | printed page 22]
+
+22 DESIGN PROVISIONS AND EQUATIONS
+
+Calculations of fc and CP shall be based on the rep-
+resentative dimension, d. In addition, fc at any cross
+section in the tapered column shall not exceed the ref-
+erence compression design value parallel to grain mul-
+tiplied by all applicable adjustment factors except the
+column stability factor, CP.
+
+3.7.3 Round Columns
+
+The design of a column of round cross section shall
+be based on the design calculations for a square column
+of the same cross-sectional area and having the same
+degree of taper. Reference design values and special
+design provisions for round timber poles and piles are
+provided in Chapter 6.
+
+3.8 Tension Members
+
+3.8.1 Tension Parallel to Grain
+
+The actual tension stress or force parallel to grain
+shall be based on the net section area (see 3.1.2) and
+shall not exceed the adjusted tension design value.
+
+3.8.2 Tension Perpendicular to Grain
+
+Designs that induce tension stress perpendicular to
+grain shall be avoided whenever possible (see Refer-
+ences 16 and 19). When tension stress perpendicular to
+grain cannot be avoided, mechanical reinforcement suf-
+ficient to resist all such stresses shall be considered (see
+References 52 and 53 for additional information).
+
+3.9 Combined Bending and Axial Loading
+
+3.9.1 Bending and Axial Tension
+
+Members subjected to a combination of bending
+and axial tension (see Figure 3G) shall be so propor-
+tioned that:
+
+     ft +  fb ≤ 1.0                              (3.9-1)
+     F ′  Fb*
+      t
+and
+     fb − ft ≤ 1.0                               (3.9-2)
+      Fb**
+where:
+      Fb* = reference bending design value multiplied by
+            all applicable adjustment factors except CL,
+            psi
+      Fb** = reference bending design value multiplied by
+            all applicable adjustment factors except CV,
+            psi
+
+Figure 3G
+Combined Bending and Axial
+Tension
+
+3.9.2 Bending and Axial Compression
+
+Members subjected to a combination of bending
+about one or both principal axes and axial compression
+(see Figure 3H) shall be so proportioned that:
+
+⎡ f  ⎤2             f
+⎢  c ⎥  +            b1
+⎢⎣Fc′ ⎥⎦   Fb1′⎡⎣1 − ( fc FcE1 )⎦⎤
++                 fb2                 ≤   1.0   (3.9-3)
+  Fb2′ ⎡⎣1 − ( fc FcE2 )(− fb1 FbE )2 ⎤⎦
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

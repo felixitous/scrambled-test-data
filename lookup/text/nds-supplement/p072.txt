@@ -1,0 +1,68 @@
+[nds-supplement | NDS_supplement.pdf | pdf page 72 | printed page 64]
+
+64 REFERENCE DESIGN VALUES
+
+Table 5A
+Expanded - Reference Design Values for Structural Glued Laminated Softwood Timber Combinations1
+
+(Members stressed primarily in bending) (Tabulated design values are for normal load duration and dry service conditions. See NDS
+
+5.3 for a comprehensive description of design value adjustment factors.)
+
+                                                                               Use with Table 5A Adjustment Factors
+                                                 Bending About X-X Axis                                                   Bending About Y-Y Axis                         Axially Loaded         Fasteners
+                                              (Loaded Perpendicular to Wide Faces                                        (Loaded Parallel to Wide Faces
+                                                         of Laminations)                                                         of Laminations)
+                                                 Compression      Shear Parallel        Modulus                     Compression Shear Parallel        Modulus            Tension Compression    Specific Gravity
+                              Bending            Perpendicular      to Grain               of                      Perpendicular   to Grain              of             Parallel to Parallel to      for
+                                                   to Grain                             Elasticity         Bending    to Grain                        Elasticity          Grain     Grain      Fastener Design
+                                             Tension Compression                      For           For                                             For           For
+                        Bottom of beam Top of Beam Face  Face                       Deflection    Stability                                       Deflection    Stability                      Top or
+                         Stressed in Stressed in                                   Calculations(8) Calculations                                  Calculations(8) Calculations                 Bottom  Side Face
+                          tension   Tension                                                                                                                                                    Face
+                       (Positive Bending) (Negative Bending)
+ Combination  Species    Fbx+       Fbx-            Fc⊥x            Fvx (2)     Ex true  Ex app   Ex min    Fby        Fc⊥y        Fvy (3)   Ey true   Ey app   Ey min     Ft        Fc
+                                                                                                                                                                                                     G
+   Symbol   Outer/ Core   (psi)     (psi)            (psi)            (psi)    (106 psi) (106 psi) (106 psi) (psi)     (psi)        (psi)    (106 psi) (106 psi) (106 psi) (psi)     (psi)
+       16F-1.3E          1600        925             315              195         1.4      1.3     0.69     800        315          170        1.2      1.1      0.58     675        925            0.41
+16F-V3        DF/DF      1600       1250       560       560          265         1.6      1.5     0.79     1450       560          230        1.6      1.5      0.79     975        1500       0.50     0.50
+16F-V6        DF/DF      1600       1600       560       560          265         1.7      1.6     0.85     1450       560          230        1.6      1.5      0.79     1000       1600       0.50     0.50
+16F-E2        HF/HF      1600       1050       375       375          215         1.5      1.4     0.74     1200       375          190        1.4      1.3      0.69     825        1150       0.43     0.43
+16F-E3        DF/DF      1600       1200       560       560          265         1.7      1.6     0.85     1400       560          230        1.6      1.5      0.79     975        1600       0.50     0.50
+16F-E6        DF/DF      1600       1600       560       560          265         1.7      1.6     0.85     1550       560          230        1.6      1.5      0.79     1000       1600       0.50     0.50
+16F-E7        HF/HF      1600       1600       375       375          215         1.5      1.4     0.74     1350       375          190        1.4      1.3      0.74     875        1250       0.43     0.43
+16F-V2        SP/SP      1600       1400       740       650          300         1.6      1.5     0.79     1450       650          260        1.5      1.4      0.74     1000       1300       0.55     0.55
+16F-V3        SP/SP      1600       1450       740       740          300         1.5      1.4     0.74     1450       650          260        1.5      1.4      0.74     975        1400       0.55     0.55
+16F-V5        SP/SP      1600       1600       650       650          300         1.7      1.6     0.85     1600       650          260        1.6      1.5      0.79     1000       1550       0.55     0.55
+16F-E1        SP/SP      1600       1250       650       650          300         1.7      1.6     0.85     1400       650          260        1.7      1.6      0.85     1050       1550       0.55     0.55
+16F-E3        SP/SP      1600       1600       650       650          300         1.8      1.7     0.90     1650       650          260        1.7      1.6      0.85     1100       1550       0.55     0.55
+       20F-1.5E          2000       1100             425              195         1.6      1.5     0.79     800        315          170        1.3      1.2      0.63     725        925            0.41
+20F-V3        DF/DF      2000       1450       650       560          265         1.7      1.6     0.85     1450       560          230        1.6      1.5      0.79     1000       1550       0.50     0.50
+20F-V7        DF/DF      2000       2000       650       650          265         1.7      1.6     0.85     1450       560          230        1.7      1.6      0.85     1050       1600       0.50     0.50
+20F-V12       AC/AC      2000       1400       560       560          265         1.6      1.5     0.79     1250       470          230        1.5      1.4      0.74     925        1500       0.46     0.46
+20F-V13       AC/AC      2000       2000       560       560          265         1.6      1.5     0.79     1250       470          230        1.5      1.4      0.74     950        1550       0.46     0.46
+20F-V14      POC/POC     2000       1450       560       560          265         1.6      1.5     0.79     1300       470          230        1.5      1.4      0.74     900        1600       0.46     0.46
+20F-V15      POC/POC     2000       2000       560       560          265         1.6      1.5     0.79     1300       470          230        1.5      1.4      0.74     900        1600       0.46     0.46
+20F-E2        HF/HF      2000       1400       500       500          215         1.7      1.6     0.85     1200       375          190        1.5      1.4      0.74     925        1350       0.43     0.43
+20F-E3        DF/DF      2000       1200       560       560          265         1.8      1.7     0.90     1400       560          230        1.7      1.6      0.85     1050       1600       0.50     0.50
+20F-E6        DF/DF      2000       2000       560       560          265         1.8      1.7     0.90     1550       560          230        1.7      1.6      0.85     1150       1650       0.50     0.50
+20F-E7        HF/HF      2000       2000       500       500          215         1.8      1.6     0.85     1450       375          190        1.5      1.4      0.74     1050       1450       0.43     0.43
+20F-E8        ES/ES      2000       1300       450       450          200         1.6      1.5     0.79     1000       315          175        1.5      1.4      0.74     825        1100       0.41     0.41
+24F-E/SPF1   SPF/SPF     2400       2400       560       560          215         1.7      1.6     0.85     1150       470          190        1.7      1.6      0.85     1150       2000       0.42     0.42
+24F-E/SPF3   SPF/SPF     2400       1550       560       650          215         1.7      1.6     0.85     1200       470          195        1.6      1.5      0.79     900        1750       0.42     0.42
+20F-V2        SP/SP      2000       1550       740       650          300         1.6      1.5     0.79     1450       650          260        1.5      1.4      0.74     1000       1400       0.55     0.55
+20F-V3        SP/SP      2000       1450       650       650          300         1.6      1.5     0.79     1600       650          260        1.6      1.5      0.79     1000       1400       0.55     0.55
+20F-V5        SP/SP      2000       2000       740       740          300         1.7      1.6     0.85     1450       650          260        1.5      1.4      0.74     1050       1500       0.55     0.55
+20F-E1        SP/SP      2000       1300       650       650          300         1.8      1.7     0.90     1400       650          260        1.7      1.6      0.85     1050       1550       0.55     0.55
+20F-E3        SP/SP      2000       2000       650       650          300         1.8      1.7     0.90     1700       650          260        1.7      1.6      0.85     1150       1600       0.55     0.55
+       24F-1.7E          2400       1450             500              210         1.8      1.7     0.90     1050       315          185        1.4      1.3      0.69     775        1000           0.42
+24F-V5        DF/HF      2400       1600       650       650          215         1.8      1.7     0.90     1350       375          200        1.6      1.5      0.79     1100       1450       0.50     0.43
+24F-V10       DF/HF      2400       2400       650       650          215         1.9      1.8     0.95     1450       375          200        1.6      1.5      0.79     1150       1550       0.50     0.43
+24F-E11       HF/HF      2400       2400       500       500          215         1.9      1.8     0.95     1550       375          190        1.6      1.5      0.79     1150       1550       0.43     0.43
+24F-E15       HF/HF      2400       1600       500       500          215         1.9      1.8     0.95     1200       375          190        1.6      1.5      0.79     975        1500       0.43     0.43
+24F-V1        SP/SP      2400       1750       740       650          300         1.8      1.7     0.90     1450       650          260        1.6      1.5      0.79     1100       1500       0.55     0.55
+24F-V4 (4)    SP/SP      2400       1650       740       650          210         1.8      1.7     0.90     1350       470          230        1.6      1.5      0.79     975        1350       0.55     0.43
+24F-V5        SP/SP      2400       2400       740       740          300         1.8      1.7     0.90     1700       650          260        1.7      1.6      0.85     1150       1600       0.55     0.55
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

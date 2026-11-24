@@ -1,0 +1,80 @@
+[nds-supplement | NDS_supplement.pdf | pdf page 43 | printed page 35]
+
+DESIGN VALUES FOR WOOD CONSTRUCTION – NDS SUPPLEMENT 35
+REFERENCE DESIGN VALUES
+4
+
+Table 4A
+Reference Design Values for Visually Graded Dimension Lumber
+(2" - 4" thick)1,2,3
+
+(All species except Southern Pine — see Table 4B) (Tabulated design values are for normal load
+duration and dry service conditions. See NDS 4.3 for a comprehensive description of design value
+adjustment factors.)
+
+                                           USE WITH TABLE 4A ADJUSTMENT FACTORS
+                                                            Design values in pounds per square inch (psi)
+  Species and commercial       Size               Tension    Shear    Compression    Compression                                  Grading
+          grade            classification         parallel  parallel  perpendicular    parallel                          Specific  Rules
+                                        Bending   to grain  to grain     to grain      to grain     Modulus of Elasticity Gravity4 Agency
+                                           Fb        Ft        Fv          Fc⊥            Fc           E         Emin       G
+EASTERN HEMLOCK-BALSAM FIR
+Select Structural                         1,250     575       140          335          1,200      1,200,000    440,000
+No. 1                                      775      350       140          335          1,000      1,100,000    400,000
+No. 2                       2" & wider     575      275       140          335           825       1,100,000    400,000
+No. 3                                      350      150       140          335           475        900,000     330,000
+Stud                        2" & wider     450      200       140          335           525        900,000     330,000    0.36    NELMA
+Construction                               675      300       140          335          1,050      1,000,000    370,000
+Standard                    2" - 4" wide   375      175       140          335           850        900,000     330,000
+Utility                                    175       75       140          335           550        800,000     290,000
+EASTERN HEMLOCK-TAMARACK
+Select Structural                         1,250     575       170          555          1,200      1,200,000    440,000
+No. 1                                      775      350       170          555          1,000      1,100,000    400,000
+No. 2                       2" & wider     575      275       170          555           825       1,100,000    400,000
+No. 3                                      350      150       170          555           475        900,000     330,000
+Stud                        2" & wider     450      200       170          555           525        900,000     330,000    0.41    NELMA
+Construction                               675      300       170          555          1,050      1,000,000    370,000
+Standard                    2" - 4" wide   375      175       170          555           850        900,000     330,000
+Utility                                    175       75       170          555           550        800,000     290,000
+EASTERN SOFTWOODS
+Select Structural                         1,250     575       140          335          1,200      1,200,000    440,000
+No. 1                                      775      350       140          335          1,000      1,100,000    400,000
+No. 2                       2" & wider     575      275       140          335           825       1,100,000    400,000
+No. 3                                      350      150       140          335           475        900,000     330,000
+Stud                        2" & wider     450      200       140          335           525        900,000     330,000    0.36    NELMA
+Construction                               675      300       140          335          1,050      1,000,000    370,000
+Standard                    2" - 4" wide   375      175       140          335           850        900,000     330,000
+Utility                                    175       75       140          335           550        800,000     290,000
+EASTERN WHITE PINE
+Select Structural                         1,250     575       135          350          1,200      1,200,000    440,000
+No. 1                                      775      350       135          350          1,000      1,100,000    400,000
+No. 2                       2" & wider     575      275       135          350           825       1,100,000    400,000
+No. 3                                      350      150       135          350           475        900,000     330,000
+Stud                        2" & wider     450      200       135          350           525        900,000     330,000    0.36    NELMA
+Construction                               675      300       135          350          1,050      1,000,000    370,000
+Standard                    2" - 4" wide   375      175       135          350           850        900,000     330,000
+Utility                                    175       75       135          350           550        800,000     290,000
+HEM-FIR
+Select Structural                         1,400     925       150          405          1,500      1,600,000    580,000
+No. 1 & Btr                               1,100     725       150          405          1,350      1,500,000    550,000
+No. 1                       2" & wider     975      625       150          405          1,350      1,500,000    550,000
+No. 2                                      850      525       150          405          1,300      1,300,000    470,000
+No. 3                                      500      300       150          405           725       1,200,000    440,000    0.43    WCLIB
+Stud                        2" & wider     675      400       150          405           800       1,200,000    440,000            WWPA
+Construction                               975      600       150          405          1,550      1,300,000    470,000
+Standard                    2" - 4" wide   550      325       150          405          1,300      1,200,000    440,000
+Utility                                    250      150       150          405           850       1,100,000    400,000
+HEM-FIR (NORTH)
+Select Structural                         1,300     775       145          405          1,700      1,700,000    620,000
+No. 1 & Btr                               1,200     725       145          405          1,550      1,700,000    620,000
+No. 1/ No. 2                2" & wider    1,000     575       145          405          1,450      1,600,000    580,000
+No. 3                                      575      325       145          405           850       1,400,000    510,000
+Stud                        2" & wider     775      450       145          405           925       1,400,000    510,000    0.46    NLGA
+Construction                              1,150     650       145          405          1,750      1,500,000    550,000
+Standard                    2" - 4" wide   650      350       145          405          1,500      1,400,000    510,000
+Utility                                    300      175       145          405           975       1,300,000    470,000
+
+(Cont.)
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

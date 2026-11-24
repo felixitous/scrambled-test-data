@@ -1,0 +1,36 @@
+[nds-2018 | NDS-2018.pdf | pdf page 81 | printed page 69]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 69
+MECHANICAL CONNECTIONS
+11
+
+Figure 11B
+Group Action for Staggered Fasteners
+
+Consider as 2 rows of 8 fasteners
+
+Consider as 1 row of 8 fasteners and 1 row of 4 fasteners
+
+Consider as 1 row of 5 fasteners and 1 row of 3 fasteners
+
+11.3.7 Format Conversion Factor, KF (LRFD
+Only)
+
+For LRFD, reference design values shall be multi-
+plied by the format conversion factor, KF, specified in
+Table 11.3.1.
+
+11.3.8 Resistance Factor, φ (LRFD Only)
+
+For LRFD, reference design values shall be multi-
+plied by the resistance factor, φ, specified in Table
+11.3.1.
+
+11.3.9 Time Effect Factor, λ (LRFD Only)
+
+For LRFD, reference design values shall be multi-
+plied by the time effect factor, λ, specified in Appendix
+N.3.3.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

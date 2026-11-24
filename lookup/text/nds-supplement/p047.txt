@@ -1,0 +1,77 @@
+[nds-supplement | NDS_supplement.pdf | pdf page 47 | printed page 39]
+
+DESIGN VALUES FOR WOOD CONSTRUCTION – NDS SUPPLEMENT 39
+REFERENCE DESIGN VALUES
+4
+
+Size Factor, CF
+
+Appropriate size adjustment factors have already
+been incorporated in the tabulated design values for most
+thicknesses of Southern Pine and Mixed Southern Pine
+dimension lumber. For dimension lumber 4" thick, 8"
+and wider (all grades except Dense Structural 86, Dense
+Structural 72, and Dense Structural 65), tabulated bend-
+ing design values, Fb, shall be permitted to be multiplied
+by the size factor, CF = 1.1. For dimension lumber wider
+than 12" (all grades except Dense Structural 86, Dense
+Structural 72, and Dense Structural 65), tabulated bending,
+tension and compression parallel to grain design values
+for 12" wide lumber shall be multiplied by the size fac-
+tor, CF = 0.9. When the depth, d, of Dense Structural 86,
+Dense Structural 72, or Dense Structural 65 dimension
+lumber exceeds 12", the tabulated bending design value,
+Fb, shall be multiplied by the following size factor:
+
+CF = (12/d)1/9
+
+Repetitive Member Factor, Cr
+
+Bending design values, Fb, for dimension lumber 2"
+to 4" thick shall be multiplied by the repetitive member
+factor, Cr = 1.15, when such members are used as joists,
+truss chords, rafters, studs, planks, decking, or similar
+members which are in contact or spaced not more than 24"
+on center, are not less than 3 in number and are joined by
+floor, roof, or other load distributing elements adequate to
+support the design load.
+
+Table 4B Adjustment Factors
+
+Wet Service Factor, CM
+
+When dimension lumber is used where moisture con-
+tent will exceed 19% for an extended time period, design
+values shall be multiplied by the appropriate wet service
+factors from the following table (for surfaced dry Dense
+Structural 86, Dense Structural 72, and Dense Structural 65
+use tabulated surfaced green design values for wet service
+conditions without further adjustment):
+
+             Wet Service Factors, CM
+  Fb       Ft       Fv       Fc⊥       Fc   E and Emin
+0.85*     1.0      0.97     0.67     0.8**     0.9
+
+* when (Fb)(CF) ≤ 1,150 psi, CM = 1.0
+** when (Fc) ≤ 750 psi, CM = 1.0
+
+Flat Use Factor, Cfu
+
+Bending design values adjusted by size factors are
+based on edgewise use (load applied to narrow face). When
+dimension lumber is used flatwise (load applied to wide
+face), the bending design value, Fb, shall also be permitted
+to be multiplied by the following flat use factors:
+
+             Flat Use Factors, Cfu
+   Width                   Thickness (breadth)
+  (depth)               2" & 3"            4"
+  2" & 3"                 1.0              —
+     4"                   1.1              1.0
+     5"                   1.1              1.05
+     6"                   1.15             1.05
+     8"                   1.15             1.05
+10" & wider               1.2              1.1
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

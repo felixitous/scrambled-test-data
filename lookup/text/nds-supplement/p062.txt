@@ -1,0 +1,86 @@
+[nds-supplement | NDS_supplement.pdf | pdf page 62 | printed page 54]
+
+54 REFERENCE DESIGN VALUES
+
+                                                   USE WITH TABLE 4E ADJUSTMENT FACTORS
+                                                                    Design values in pounds per square inch (psi)
+                                                              Bending
+  Species and commercial grade     Size classification                          Compression                                                  Grading Rules Agency
+                                                        Single     Repetitive   perpendicular                                  Specific
+                                                        Member      Member         to grain         Modulus of Elasticity       Gravity3
+                                                          Fb         (Fb)(Cr)        Fc⊥             E             Emin            G
+BALSAM FIR
+Select                                 2"-4" thick        —          1,650            —           1,500,000       550,000
+                                                                                                                                 0.36               NELMA
+Commercial                             4"-12"wide         —          1,400            —           1,300,000       470,000
+COAST SITKA SPRUCE
+Select                                 2"-4" thick       1,250       1,450           455          1,700,000       620,000
+                                                                                                                                 0.43                NLGA
+Commercial                             4"& wider         1,050       1,200           455          1,500,000       550,000
+COAST SPECIES
+Select                                 2"-4" thick       1,250       1,450           370          1,500,000       550,000
+                                                                                                                                 0.43                NLGA
+Commercial                             4"& wider         1,050       1,200           370          1,400,000       510,000
+DOUGLAS FIR-LARCH
+Select Dex                             2"-4" thick       1,750       2,000           625          1,800,000       660,000
+                                                                                                                                 0.50               WCLIB
+Commercial Dex                         6"-8"wide         1,450       1,650           625          1,700,000       620,000
+Selected                               2"-4" thick       1,750       2,000           625          1,800,000       660,000
+                                                                                                                                 0.50               WWPA
+Commercial                             4"-12"wide        1,450       1,650           625          1,700,000       620,000
+DOUGLAS FIR-LARCH (NORTH)
+Select                                 2"-4" thick       1,750       2,000           625          1,800,000       660,000
+                                                                                                                                 0.49                NLGA
+Commercial                             4"& wider         1,450       1,650           625          1,700,000       620,000
+DOUGLAS FIR-SOUTH
+Selected                               2"-4" thick       1,650       1,900           520          1,400,000       510,000
+                                                                                                                                 0.46               WWPA
+Commercial                             4"-12"wide        1,400       1,600           520          1,300,000       470,000
+EASTERN HEMLOCK-TAMARACK
+Select                                 2"-4" thick        —          1,700            —           1,300,000       470,000
+                                                                                                                                 0.41               NELMA
+Commercial                             4"-12"wide         —          1,450            —           1,100,000       400,000
+EASTERN HEMLOCK-TAMARACK (NORTH)
+Select                                 2"-4" thick       1,500       1,700           555          1,300,000       470,000
+                                                                                                                                 0.47                NLGA
+Commercial                             4"& wider         1,250       1,450           555          1,100,000       400,000
+EASTERN SPRUCE
+Select                                 2"-4" thick        —          1,300            —           1,500,000       550,000
+                                                                                                                                 0.41               NELMA
+Commercial                             4"-12"wide         —          1,100            —           1,400,000       510,000
+EASTERN WHITE PINE
+Select                                 2"-4" thick        —          1,300            —           1,200,000       440,000
+                                                                                                                                 0.36               NELMA
+Commercial                             4"-12"wide         —          1,100            —           1,100,000       400,000
+EASTERN WHITE PINE (NORTH)
+Select                                 2"-4" thick        900        1,050           350          1,200,000       440,000
+                                                                                                                                 0.38                NLGA
+Commercial                             4"& wider          775         875            350          1,100,000       400,000
+HEM-FIR
+Select Dex                             2"-4" thick       1,400       1,600           405          1,500,000       550,000
+                                                                                                                                 0.43               WCLIB
+Commercial Dex                         6"-8"wide         1,150       1,350           405          1,400,000       510,000
+Selected                               2"-4" thick       1,400       1,600           405          1,500,000       550,000
+                                                                                                                                 0.43               WWPA
+Commercial                             4"-12"wide        1,150       1,350           405          1,400,000       510,000
+HEM-FIR (NORTH)
+Select                                 2"-4" thick       1,350       1,500           405          1,500,000       550,000
+                                                                                                                                 0.46                NLGA
+Commercial                             4"& wider         1,100       1,300           405          1,400,000       510,000
+NORTHERN PINE
+Select                                 2"-4" thick        —          1,550            —           1,400,000       510,000
+                                                                                                                                 0.42               NELMA
+Commercial                             4"-12"wide         —          1,300            —           1,300,000       470,000
+NORTHERN SPECIES
+Select                                 2"-4" thick        900        1,050           350          1,100,000       400,000
+                                                                                                                                 0.35                NLGA
+Commercial                             4"& wider          775         875            350          1,000,000       370,000
+
+Table 4E
+Reference Design Values for Visually Graded Decking1,2
+
+(Tabulated design values are for normal load duration and dry service conditions, unless specified
+otherwise. See NDS 4.3 for a comprehensive description of design value adjustment factors.)
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

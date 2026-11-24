@@ -1,0 +1,92 @@
+[nds-2018 | NDS-2018.pdf | pdf page 141 | printed page 129]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 129
+SPLIT RING AND SHEAR PLATE CONNECTORS
+13
+
+S   =          S||S⊥                          (13.3-2)
+  α     S||2 sin2 α + S2⊥ cos2 α
+where:
+       Sα = minimum spacing parallel to axis of cut
+       SII = factor from Table 13.3.3.1-1
+       S⊥ = factor from Table 13.3.3.1-1
+       α = angle of sloped cut (see Figure 13G)
+Table 13.3.3.1-1    Factors for Determining
+                    Minimum Spacing Along Axis
+                    of Cut of Sloping Surfaces
+     Connector          Geometry        SII     S⊥
+                         Factor         in.     in.
+  2-1/2" split ring or   CΔ = 1.0      6.75    4.25
+  2-5/8" shear plate
+    4" split ring or     CΔ = 1.0      9.00    6.00
+    4" shear plate
+
+(b.2)
+Loaded Edge Distance. The minimum
+loaded edge distance parallel to the axis of
+cut for CΔ = 1.0 shall be determined in ac-
+cordance with Equation 13.3-3.
+
+For split rings, the minimum loaded
+edge distance parallel to the axis of cut for
+CΔ = 0.70 shall be determined in accord-
+ance with Equation 13.3-3. For shear
+plates, the minimum loaded edge distance
+parallel to the axis of cut for CΔ = 0.83
+shall be determined in accordance with
+Equation 13.3-3.
+
+Where the actual loaded edge distance
+parallel to the axis of cut is greater than the
+minimum loaded edge distance parallel to
+the axis of cut for CΔ = 0.70 for split rings
+or for CΔ = 0.83 for shear plates, but less
+than the minimum loaded edge distance
+parallel to the axis of cut for CΔ = 1.0, the
+geometry factor, CΔ, shall be determined by
+linear interpolation.
+
+E  =          E||E⊥                         (13.3-3)
+  α    E||2 sin2 α + E2⊥ cos2 α
+where:
+      Eα = minimum loaded edge distance parallel to
+           axis of cut
+       EII = factor from Table 13.3.3.1-2
+      E⊥ = factor from Table 13.3.3.1-2
+       α = angle of sloped cut (see Figure 13G)
+Table 13.3.3.1-2   Factors for Determining
+                   Minimum Loaded Edge
+                   Distance for Connectors in
+                   End Grain
+   Connector       Geometry         EII      E⊥
+                     Factor         in.      in.
+      2-1/2"        CΔ = 1.00      5.50      2.75
+    split ring      CΔ = 0.70      3.30      1.50
+      2-5/8"        CΔ = 1.00      5.50      2.75
+    shear plate     CΔ = 0.83      4.25      1.50
+       4"           CΔ = 1.00      7.00      3.75
+    split ring      CΔ = 0.70      4.20      2.50
+       4"           CΔ = 1.00      7.00      3.75
+    shear plate     CΔ = 0.83      5.40      2.50
+
+(b.3)
+Unloaded Edge Distance. The mini-
+mum unloaded edge distance parallel to the
+axis of cut for CΔ = 1.0, shall be determined
+in accordance with Equation 13.3-4.
+
+The minimum unloaded edge distance
+parallel to the axis of cut for CΔ = 0.63
+shall be determined in accordance with
+Equation 13.3-4.
+
+Where the actual unloaded edge dis-
+tance parallel to the axis of cut is greater
+than the minimum unloaded edge distance
+for CΔ = 0.63, but less than the minimum
+unloaded edge distance for CΔ = 1.0, the
+geometry factor, CΔ, shall be determined by
+linear interpolation.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

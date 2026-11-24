@@ -1,0 +1,111 @@
+[nds-2018 | NDS-2018.pdf | pdf page 147 | printed page 135]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 135
+TIMBER RIVETS
+14
+
+where:
+
+p = depth of penetration of rivet in wood member
+
+(see Appendix M), in.
+
+= rivet length – plate thickness – 1/8"
+
+nR = number of rows of rivets parallel to direction
+
+of load
+
+nC = number of rivets per row
+
+Reference design values, P, for timber rivet connec-
+tions parallel to grain shall be multiplied by all applica-
+ble adjustment factors (see Table 11.3.1) to obtain ad-
+justed design values, P'.
+
+14.2.2 Perpendicular to Grain Loading
+
+For timber rivet connections (one plate and rivets
+associated with it) where:
+
+(a) the load acts perpendicular to the axis of the
+
+timber rivets
+(b) member thicknesses, edge distances, end dis-
+
+tances, and spacing are sufficient to develop
+full adjusted design values (see 14.3)
+(c) timber rivets are installed in the side grain of
+
+wood members the reference design value per
+rivet joint perpendicular to grain, Q, shall be
+calculated as the lesser of reference rivet capac-
+ity, Qr, and reference wood capacity, Qw.
+
+Qr = 108 p0.32 nR nC
+(14.2-2)
+
+Qw = qW p0.8 CΔ
+(14.2-3)
+
+where:
+        p = depth of penetration of rivet in wood member
+            (see Appendix M), in.
+          = rivet length – plate thickness – 1/8"
+       nR = number of rows of rivets parallel to direction
+            of load
+       nC = number of rivets per row
+       qw = value determined from Table 14.2.2A, lbs.
+       CΔ = geometry factor determined from Table
+            14.2.2B
+
+Reference design values, Q, for timber rivet con-
+nections perpendicular to grain shall be multiplied by
+all applicable adjustment factors (see Table 11.3.1) to
+obtain adjusted design values, Q'.
+
+14.2.3 Metal Side Plate Factor, Cst
+
+The reference design value parallel to grain, P, or
+perpendicular to grain, Q, for timber rivet connections,
+when reference rivet capacity (Pr, Qr) controls, shall be
+multiplied by the appropriate metal side plate factor,
+Cst, specified in Table 14.2.3:
+
+Table 14.2.3
+Metal Side Plate Factor, Cst,
+for Timber Rivet Connections
+
+Metal Side Plate Thickness, ts         Cst
+ts ≥ 1/4"                             1.00
+3/16" ≤ ts < 1/4"                     0.90
+1/8" ≤ ts < 3/16"                     0.80
+
+14.2.4 Load at Angle to Grain
+
+When a load acts in the plane of the wood surface
+at an angle, θ, to grain other than 0° or 90°, the adjusted
+design value, N', for a timber rivet connection shall be
+determined as follows (see Appendix J):
+
+            P′′Q
+   N′=′P sin2 θ+ Q′ cos2 θ
+14.2.5 Timber Rivets in End Grain
+
+(14.2-4)
+
+Where timber rivets are used in end grain, the fac-
+tored lateral resistance of the joint shall be 50% of that
+for perpendicular to side grain applications where the
+slope of cut is 90° to the side grain. For sloping end
+cuts, these values can be increased linearly to 100% of
+the applicable parallel or perpendicular to side grain
+value.
+
+14.2.6 Design of Metal Parts
+
+Metal parts shall be designed in accordance with
+applicable metal design procedures (see 11.2.3).
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

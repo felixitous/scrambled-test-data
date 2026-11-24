@@ -1,0 +1,93 @@
+[nds-2018 | NDS-2018.pdf | pdf page 32 | printed page 20]
+
+20 DESIGN PROVISIONS AND EQUATIONS
+
+= 2.0 for structural glued laminated timber
+
+used in wet service conditions as defined in
+5.1.4.
+
+= 2.0 for wood structural panels used in dry
+
+service conditions as defined in 9.1.4.
+
+= 2.0 for unseasoned lumber or for seasoned
+
+lumber used in wet service conditions as de-
+fined in 4.1.4.
+
+= 2.0 for cross-laminated timber used in dry
+
+service conditions as defined in 10.1.5.
+
+ΔLT = immediate deflection due to the long-term
+
+component of the design load, in.
+
+ΔST = deflection due to the short-term or normal
+
+component of the design load, in.
+
+3.6 Compression Members – General
+
+3.6.1 Terminology
+
+For purposes of this Specification, the term “col-
+umn” refers to all types of compression members, in-
+cluding members forming part of trusses or other struc-
+tural components.
+
+3.6.2 Column Classifications
+
+3.6.2.1 Simple Solid Wood Columns. Simple col-
+umns consist of a single piece or of pieces properly
+glued together to form a single member (see Figure 3F).
+
+3.6.2.2 Spaced Columns, Connector Joined. Spaced
+columns are formed of two or more individual members
+with their longitudinal axes parallel, separated at the
+ends and middle points of their length by blocking and
+joined at the ends by split ring or shear plate connectors
+capable of developing the required shear resistance (see
+15.2).
+3.6.2.3 Built-Up Columns. Individual laminations
+of mechanically laminated built-up columns shall be
+designed in accordance with 3.6.3 and 3.7, except that
+nailed or bolted built-up columns shall be designed in
+accordance with 15.3.
+
+3.6.3 Strength in Compression Parallel to
+Grain
+
+The actual compression stress or force parallel to
+grain shall not exceed the adjusted compression design
+value. Calculations of fc shall be based on the net sec-
+tion area (see 3.1.2) where the reduced section occurs in
+the critical part of the column length that is most sub-
+ject to potential buckling. Where the reduced section
+does not occur in the critical part of the column length
+that is most subject to potential buckling, calculations
+of fc shall be based on gross section area. In addition, fc
+based on net section area shall not exceed the reference
+
+compression design value parallel to grain multiplied
+by all applicable adjustment factors except the column
+stability factor, CP.
+
+Figure 3F Simple Solid Column
+
+3.6.4 Compression Members Bearing End to
+End
+
+For end grain bearing of wood on wood, and on
+metal plates or strips see 3.10.
+
+3.6.5 Eccentric Loading or Combined
+Stresses
+
+For compression members subject to eccentric
+loading or combined flexure and axial loading, see 3.9
+and 15.4.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

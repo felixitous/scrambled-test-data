@@ -1,0 +1,107 @@
+[nds-2018 | NDS-2018.pdf | pdf page 50 | printed page 38]
+
+38 STRUCTURAL GLUED LAMINATED TIMBER
+
+The volume factor, CV, shall not apply simultaneous-
+ly with the beam stability factor, CL (see 3.3.3). There-
+fore, the lesser of these adjustment factors shall apply.
+
+5.3.7 Flat Use Factor, Cfu
+
+When structural glued laminated timber is loaded
+in bending about the y-y axis and the member dimen-
+sion parallel to the wide face of the laminations, dy
+(see Figure 5B), is less than 12", the reference bending
+design value, Fby, shall be permitted to be multiplied
+by the flat use factor, Cfu, specified in Tables 5A, 5B,
+5C, and 5D, or as calculated by the following formula:
+
+       ⎛ 12 ⎞1/9
+   Cfu = ⎜⎜ d ⎟⎟
+       ⎝ y ⎠
+Figure 5B     Depth, dy, for Flat Use Factor
+
+(5.3-2)
+
+dy (in.)
+
+5.3.8 Curvature Factor, Cc
+
+For curved portions of bending members, the ref-
+erence bending design value shall be multiplied by the
+following curvature factor:
+
+Cc = 1 – (2000)(t / R)2
+(5.3-3)
+
+where:
+
+t = thickness of laminations, in.
+
+R = radius of curvature of inside face of mem-
+
+ber, in.
+
+t/R ≤ 1/100 for hardwoods and Southern Pine
+
+t/R ≤ 1/125 for other softwoods
+
+The curvature factor shall not apply to reference
+design values in the straight portion of a member, re-
+gardless of curvature elsewhere.
+
+5.3.9 Stress Interaction Factor, CI
+
+For the tapered portion of bending members ta-
+pered on the compression face, the reference bending
+design value, Fbx, shall be multiplied by the following
+stress interaction factor:
+
+CI =                  1                           (5.3-4)
+       1 + (Fb tanθ FvCvr )2 + (Fb tan2 θ Fc⊥ )2
+where:
+        θ = angle of taper, degrees
+
+For members tapered on the compression face, the
+stress interaction factor, CI, shall not apply simultane-
+ously with the volume factor, CV, therefore, the lesser
+of these adjustment factors shall apply.
+
+For the tapered portion of bending members ta-
+pered on the tension face, the reference bending design
+value, Fbx, shall be multiplied by the following stress
+interaction factor:
+
+   CI  =                 1                        (5.3-5)
+           1 + (Fb tanθ FvCvr )2 + (Fb tan2 θ Frt )2
+where:
+        θ = angle of taper, degrees
+
+For members tapered on the tension face, the
+stress interaction factor, CI, shall not apply simultane-
+ously with the beam stability factor, CL, therefore, the
+lesser of these adjustment factors shall apply.
+
+Taper cuts on the tension face of structural glued
+laminated timber beams are not recommended.
+
+5.3.10 Shear Reduction Factor, Cvr
+
+The reference shear design values, Fvx and Fvy,
+shall be multiplied by the shear reduction factor, Cvr =
+0.72 where any of the following conditions apply:
+1. Design of non-prismatic members.
+2. Design of members subject to impact or repet-
+itive cyclic loading.
+3. Design of members at notches (3.4.3.2).
+4. Design of members at connections (3.4.3.3,
+11.1.2, 11.2.2).
+
+5.3.11 Column Stability Factor, CP
+
+Reference compression design values parallel to
+grain, Fc, shall be multiplied by the column stability
+factor, CP, specified in 3.7.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

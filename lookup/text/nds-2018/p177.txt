@@ -1,0 +1,85 @@
+[nds-2018 | NDS-2018.pdf | pdf page 177 | printed page 165]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 165
+APPENDIX
+A
+
+E.4 Group Tear-Out Capacity
+
+The adjusted tear-out capacity of a group of “n”
+rows of fasteners can be estimated as:
+
+    Z  ′ = ZRT−1′ + ZRT−n′ + F ′A              (E.4-1)
+      GT     2        2      t group−net
+where:
+      ZGT′ = adjusted group tear-out capacity
+    ZRT-1′ = adjusted row tear-out capacity of row 1 of
+            fasteners bounding the critical group area
+    ZRT-n′ = adjusted row tear-out capacity of row n of
+            fasteners bounding the critical group area
+  Agroup-net = critical group net section area between row 1
+            and row n
+
+E.4.1 For groups of fasteners with non-uniform
+spacing between rows of fasteners various definitions
+
+of critical group area should be checked for group tear-
+out in combination with row tear-out to determine the
+adjusted capacity of the critical section.
+
+E.5 Effects of Fastener Placement
+
+E.5.1 Modification of fastener placement within a
+fastener group can be used to increase row tear-out and
+group tear-out capacity limited by local stresses around
+the fastener group. Increased spacing between fasteners
+in a row is one way to increase row tear-out capacity.
+Increased spacing between rows of fasteners is one way
+to increase group tear-out capacity.
+
+E.5.2 Section 12.5.1.3 limits the spacing between
+outer rows of fasteners paralleling the member on a
+single splice plate to 5 inches. This requirement is im-
+posed to limit local stresses resulting from shrinkage of
+wood members. Where special detailing is used to ad-
+dress shrinkage, such as the use of slotted holes, the 5-
+inch limit can be adjusted.
+
+E.6 Sample Solution of Staggered Bolts
+
+Calculate the net section area tension, row tear-out,
+and group tear-out ASD adjusted design capacities for
+the double-shear bolted connection in Figure E1.
+Main Member:
+Combination 2 Douglas fir 3-1/8 x 12 glued laminated
+timber member. See NDS Supplement Table 5B –
+Members stressed primarily in axial tension or com-
+pression for reference design values. Adjustment fac-
+tors CD, CT, and CM are assumed to equal 1.0 and Cvr =
+0.72 (see NDS 5.3.10) is used in this example for calcu-
+lation of adjusted design values.
+
+Ft′ = 1250 psi
+
+Fv′ = 265 psi (Cvr) = 265 (0.72) = 191 psi
+Main member thickness, tm: 3.125 in.
+Main member width, w: 12 in.
+Side Member:
+A36 steel plates on each side
+Side plate thickness, ts: 0.25 in.
+Connection Details:
+Bolt diameter, D: 1 inch
+Bolt hole diameter, Dh: 1.0625 in.
+Adjusted ASD bolt design value, Z||′: 4380 lbs (see Ta-
+ble 12I. For this trial design, the group action factor, Cg,
+is taken as 1.0).
+Spacing between rows: srow = 2.5D
+
+Adjusted ASD Connection Capacity, nZ||′:
+
+nZ||′ = (8 bolts)(4,380 lbs) = 35,040 lbs
+
+Figure E1 Staggered Rows of Bolts
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

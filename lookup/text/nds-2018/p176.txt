@@ -1,0 +1,101 @@
+[nds-2018 | NDS-2018.pdf | pdf page 176 | printed page 164]
+
+164 APPENDIX
+
+Appendix E
+(Non-mandatory) Local Stresses in Fastener Groups
+
+E.1 General
+
+Where a fastener group is composed of closely
+spaced fasteners loaded parallel to grain, the capacity of
+the fastener group may be limited by wood failure at
+the net section or tear-out around the fasteners caused
+by local stresses. One method to evaluate member
+strength for local stresses around fastener groups is out-
+lined in the following procedures.
+
+E.1.1 Reference design values for timber rivet con-
+nections in Chapter 14 account for local stress effects
+and do not require further modification by procedures
+outlined in this Appendix.
+
+E.1.2 The capacity of connections with closely
+spaced, large diameter bolts has been shown to be lim-
+ited by the capacity of the wood surrounding the connec-
+tion. Connections with groups of smaller diameter fas-
+teners, such as typical nailed connections in wood-frame
+construction, may not be limited by wood capacity.
+
+E.2 Net Section Tension Capacity
+
+The adjusted tension capacity is calculated in ac-
+cordance with provisions of 3.1.2 and 3.8.1 as follows:
+
+    ZNT′ = Ft′Anet                             (E.2-1)
+where:
+     ZNT′ = adjusted tension capacity of net section area
+       Ft′ = adjusted tension design value parallel to
+            grain
+      Anet = net section area per 3.1.2
+E.3 Row Tear-Out Capacity
+
+The adjusted tear-out capacity of a row of fasteners
+can be estimated as follows:
+
+    Z   ′= n Fv′Acritical                      (E.3-1)
+      RTi   i    2
+where:
+     ZRTi′ = adjusted row tear out capacity of row i
+       Fv′ = adjusted shear design value parallel to grain
+    Acritical = minimum shear area of any fastener in row i
+       ni = number of fasteners in row i
+
+E3.1 Assuming one shear line on each side of bolts
+in a row (observed in tests of bolted connections),
+Equation E.3-1 becomes:
+
+    Z   ′= Fv′t [ns    ](2 shear lines  )      (E.3-2)
+      RTi   2    i critical
+         = nFi v′tscritical
+where:
+    scritical = minimum spacing in row i taken as the lesser
+
+of the end distance or the spacing between
+fasteners in row i
+
+t = thickness of member
+
+The total adjusted row tear-out capacity of multiple
+rows of fasteners can be estimated as:
+
+        ′  nrow   ′
+    ZRT  =∑   ZRTi                              (E.3-3)
+           i=1
+where:
+      ZRT′ = adjusted row tear out capacity of multiple
+            rows
+      nrow = number of rows
+
+E.3.2 In Equation E.3-1, it is assumed that the in-
+duced shear stress varies from a maximum value of fv =
+Fv′ to a minimum value of fv = 0 along each shear line
+between fasteners in a row and that the change in shear
+stress/strain is linear along each shear line. The result-
+ing triangular stress distribution on each shear line be-
+tween fasteners in a row establishes an apparent shear
+stress equal to half of the adjusted design shear stress,
+Fv′/2, as shown in Equation E.3-1. This assumption is
+combined with the critical area concept for evaluating
+stresses in fastener groups and provides good agree-
+ment with results from tests of bolted connections.
+
+E3.3 Use of the minimum shear area of any fasten-
+er in a row for calculation of row tear-out capacity is
+based on the assumption that the smallest shear area
+between fasteners in a row will limit the capacity of the
+row of fasteners. Limited verification of this approach
+is provided from tests of bolted connections.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

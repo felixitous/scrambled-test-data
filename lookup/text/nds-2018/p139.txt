@@ -1,0 +1,80 @@
+[nds-2018 | NDS-2018.pdf | pdf page 139 | printed page 127]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 127
+SPLIT RING AND SHEAR PLATE CONNECTORS
+13
+
+13.3 Placement of Split Ring and Shear Plate Connectors
+
+13.3.1 Terminology
+
+13.3.1.1 “Edge distance” is the distance from the
+edge of a member to the center of the nearest split ring
+or shear plate connector, measured perpendicular to
+grain. Where a member is loaded perpendicular to
+grain, the loaded edge shall be defined as the edge to-
+ward which the load is acting. The unloaded edge shall
+be defined as the edge opposite the loaded edge (see
+Figure 13J).
+
+13.3.1.2 “End distance” is the distance measured
+parallel to grain from the square-cut end of a member to
+the center of the nearest split ring or shear plate con-
+nector (see Figure 13J). If the end of a member is not
+cut at a right angle to its longitudinal axis, the end dis-
+tance, measured parallel to the longitudinal axis from
+any point on the center half of the transverse connector
+diameter, shall not be less than the end distance re-
+quired for a square-cut member. In no case shall the
+perpendicular distance from the center of a connector to
+the sloping end cut of a member, be less than the re-
+quired edge distance (see Figure 13K).
+
+Figure 13J
+Connection Geometry for Split
+Rings and Shear Plates
+
+13.3.1.3 “Connector axis” is a line joining the cen-
+ters of any two adjacent connectors located in the same
+face of a member (see Figure 13L).
+
+13.3.1.4 “Spacing” is the distance between centers
+of split ring or shear plate connectors measured along
+their connector axis (see Figure 13J).
+
+Figure 13K
+End Distance for Members with
+Sloping End Cut
+
+Figure 13L
+Connector Axis and Load Angle
+
+13.3.2 Geometry Factor, CΔ, for Split Ring
+and Shear Plate Connectors in Side Grain
+
+Reference design values are for split ring and shear
+plate connectors installed in side grain with edge dis-
+tance, end distance, and spacing greater than or equal to
+the minimum required for CΔ = 1.0. Where the edge
+distance, end distance, or spacing provided is less than
+the minimum required for CΔ = 1.0, reference design
+values shall be multiplied by the smallest applicable
+geometry factor, CΔ, determined from the edge dis-
+tance, end distance, and spacing requirements for split
+ring and shear plate connectors. The smallest geometry
+factor for any split ring or shear plate connector in a
+group shall apply to all split ring and shear plate con-
+nectors in the group. Edge distance, end distance, and
+spacing shall not be less than the minimum values spec-
+ified in 13.3.2.1 and 13.3.2.2.
+
+P
+
+β
+
+θ
+
+Connector Axis
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

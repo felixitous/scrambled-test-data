@@ -1,0 +1,76 @@
+[nds-supplement | NDS_supplement.pdf | pdf page 44 | printed page 36]
+
+36 REFERENCE DESIGN VALUES
+
+Table 4A
+Reference Design Values for Visually Graded Dimension Lumber
+(2" - 4" thick)1,2,3
+
+(All species except Southern Pine — see Table 4B) (Tabulated design values are for normal load
+duration and dry service conditions. See NDS 4.3 for a comprehensive description of design value
+adjustment factors.)
+
+                                           USE WITH TABLE 4A ADJUSTMENT FACTORS
+                                                            Design values in pounds per square inch (psi)
+  Species and commercial       Size               Tension    Shear    Compression    Compression                                  Grading
+          grade            classification         parallel  parallel  perpendicular    parallel                          Specific  Rules
+                                        Bending   to grain  to grain     to grain      to grain     Modulus of Elasticity Gravity4 Agency
+                                           Fb        Ft        Fv          Fc⊥            Fc           E         Emin       G
+MIXED MAPLE
+Select Structural                         1,000     600       195          620           875       1,300,000    470,000
+No. 1                                      725      425       195          620           700       1,200,000    440,000
+No. 2                       2" & wider     700      425       195          620           550       1,100,000    400,000
+No. 3                                      400      250       195          620           325       1,000,000    370,000
+Stud                        2" & wider     550      325       195          620           350       1,000,000    370,000    0.55    NELMA
+Construction                               800      475       195          620           725       1,100,000    400,000
+Standard                    2" - 4" wide   450      275       195          620           575       1,000,000    370,000
+Utility                                    225      125       195          620           375        900,000     330,000
+MIXED OAK
+Select Structural                         1,150     675       170          800          1,000      1,100,000    400,000
+No. 1                                      825      500       170          800           825       1,000,000    370,000
+No. 2                       2" & wider     800      475       170          800           625        900,000     330,000
+No. 3                                      475      275       170          800           375        800,000     290,000
+Stud                        2" & wider     625      375       170          800           400        800,000     290,000    0.68    NELMA
+Construction                               925      550       170          800           850        900,000     330,000
+Standard                    2" - 4" wide   525      300       170          800           650        800,000     290,000
+Utility                                    250      150       170          800           425        800,000     290,000
+NORTHERN RED OAK
+Select Structural                         1,400     800       220          885          1,150      1,400,000    510,000
+No. 1                                     1,000     575       220          885           925       1,400,000    510,000
+No. 2                       2" & wider     975      575       220          885           725       1,300,000    470,000
+No. 3                                      550      325       220          885           425       1,200,000    440,000
+Stud                        2" & wider     750      450       220          885           450       1,200,000    440,000    0.68    NELMA
+Construction                              1,100     650       220          885           975       1,200,000    440,000
+Standard                    2" - 4" wide   625      350       220          885           750       1,100,000    400,000
+Utility                                    300      175       220          885           500       1,000,000    370,000
+NORTHERN SPECIES
+Select Structural                          975      425       110          350          1,100      1,100,000    400,000
+No. 1/ No. 2                2" & wider     625      275       110          350           850       1,100,000    400,000
+No. 3                                      350      150       110          350           500       1,000,000    370,000
+Stud                        2" & wider     475      225       110          350           550       1,000,000    370,000    0.35    NLGA
+Construction                               700      325       110          350          1,050      1,000,000    370,000
+Standard                    2" - 4" wide   400      175       110          350           875        900,000     330,000
+Utility                                    175       75       110          350           575        900,000     330,000
+NORTHERN WHITE CEDAR
+Select Structural                          775      450       120          370           750        800,000     290,000
+No. 1                                      575      325       120          370           600        700,000     260,000
+No. 2                       2" & wider     550      325       120          370           475        700,000     260,000
+No. 3                                      325      175       120          370           275        600,000     220,000
+Stud                        2" & wider     425      250       120          370           300        600,000     220,000    0.31    NELMA
+Construction                               625      375       120          370           625        700,000     260,000
+Standard                    2" - 4" wide   350      200       120          370           475        600,000     220,000
+Utility                                    175      100       120          370           325        600,000     220,000
+RED MAPLE
+Select Structural                         1,300     750       210          615          1,100      1,700,000    620,000
+No. 1                                      925      550       210          615           900       1,600,000    580,000
+No. 2                       2" & wider     900      525       210          615           700       1,500,000    550,000
+No. 3                                      525      300       210          615           400       1,300,000    470,000
+Stud                        2" & wider     700      425       210          615           450       1,300,000    470,000    0.58    NELMA
+Construction                              1,050     600       210          615           925       1,400,000    510,000
+Standard                    2" - 4" wide   575      325       210          615           725       1,300,000    470,000
+Utility                                    275      150       210          615           475       1,200,000    440,000
+
+(Cont.)
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

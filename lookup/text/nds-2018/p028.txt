@@ -1,0 +1,62 @@
+[nds-2018 | NDS-2018.pdf | pdf page 28 | printed page 16]
+
+16 DESIGN PROVISIONS AND EQUATIONS
+
+Table 3.3.3      Effective Length, ℓe, for Bending Members
+ Cantilever1                                    where ℓu/d < 7                            where ℓu/d ≥ 7
+ Uniformly distributed load                       ℓe=1.33 ℓu                             ℓe=0.90 ℓu + 3d
+ Concentrated load at unsupported end             ℓe=1.87 ℓu                             ℓe=1.44 ℓu + 3d
+ Single Span Beam1,2                            where ℓu/d < 7                            where ℓu/d ≥ 7
+ Uniformly distributed load                       ℓe=2.06 ℓu                             ℓe=1.63 ℓu + 3d
+                                                  ℓe=1.80 ℓu                             ℓe=1.37 ℓu + 3d
+
+Concentrated load at center with no inter-
+mediate lateral support
+
+Concentrated load at center with lateral
+support at center
+
+ℓe=1.11 ℓu
+ℓe=1.68 ℓu
+ℓe=1.54 ℓu
+ℓe=1.68 ℓu
+ℓe=1.73 ℓu
+ℓe=1.78 ℓu
+ℓe=1.84 ℓu
+
+Two equal concentrated loads at 1/3 points
+with lateral support at 1/3 points
+
+Three equal concentrated loads at 1/4 points
+with lateral support at 1/4 points
+
+Four equal concentrated loads at 1/5 points
+with lateral support at 1/5 points
+
+Five equal concentrated loads at 1/6 points
+with lateral support at 1/6 points
+
+Six equal concentrated loads at 1/7 points
+with lateral support at 1/7 points
+
+Seven or more equal concentrated loads,
+evenly spaced, with lateral support at points
+of load application
+
+Equal end moments
+
+ℓe=1.84
+
+ℓu
+
+1. For single span or cantilever bending members with loading conditions not specified in Table 3.3.3:
+
+ℓe = 2.06 ℓu     where ℓu/d < 7
+ℓe = 1.63 ℓu + 3d where 7 ≤ ℓu/d ≤ 14.3
+ℓe = 1.84 ℓu     where
+
+ℓu/d > 14.3
+2. Multiple span applications shall be based on table values or engineering analysis.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

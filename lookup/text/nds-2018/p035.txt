@@ -1,0 +1,90 @@
+[nds-2018 | NDS-2018.pdf | pdf page 35 | printed page 23]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 23
+DESIGN PROVISIONS AND EQUATIONS
+3
+
+and
+      fc + ⎛⎜ fb1 ⎞⎟2 < 1.0                      (3.9-4)
+    FcE2  ⎝ FbE ⎠
+where:
+     f <  F    = 0.822Emin′     for either uniaxial
+     c     cE1   (ℓe1  / d1 )2  edgewise bending or
+                                biaxial bending
+and
+     f <  F   =  0.822Emin′     for uniaxial flatwise
+     c     cE2   (ℓe2 / d2 )2   bending or biaxial
+                                bending
+
+and
+                1.20E    ′
+    fb1 < FbE =        2min    for biaxial bending
+                   (RB )
+       fb1 = actual edgewise bending stress (bending load
+            applied to narrow face of member) , psi
+       fb2 = actual flatwise bending stress (bending load
+            applied to wide face of member) , psi
+       d1 = wide face dimension (see Figure 3H), in.
+       d2 = narrow face dimension (see Figure 3H), in.
+
+Effective column lengths,
+
+ℓe1 and
+
+ℓe2, shall be de-
+termined in accordance with 3.7.1.2. Fc', FcE1, and FcE2
+shall be determined in accordance with 2.3 and 3.7. Fb1',
+Fb2', and FbE shall be determined in accordance with 2.3
+and 3.3.3.
+
+3.9.3 Eccentric Compression Loading
+
+See 15.4 for members subjected to combined bend-
+ing and axial compression due to eccentric loading, or
+eccentric loading in combination with other loads.
+
+Figure 3H
+Combined Bending and Axial
+Compression
+
+3.10 Design for Bearing
+
+3.10.1 Bearing Parallel to Grain
+
+3.10.1.1 The actual compressive bearing stress par-
+allel to grain shall be based on the net bearing area and
+shall not exceed the reference compression design value
+parallel to grain multiplied by all applicable adjustment
+factors except the column stability factor, CP.
+
+3.10.1.2 Fc
+*, the reference compression design val-
+ues parallel to grain multiplied by all applicable ad-
+justment factors except the column stability factor, ap-
+plies to end-to-end bearing of compression members
+provided there is adequate lateral support and the end
+cuts are accurately squared and parallel.
+
+3.10.1.3 When fc > (0.75)(Fc
+*) bearing shall be on a
+metal plate or strap, or on other equivalently durable,
+rigid, homogeneous material with sufficient stiffness to
+distribute the applied load. Where a rigid insert is re-
+quired for end-to-end bearing of compression members,
+
+it shall be equivalent to 20-gage metal plate or better,
+inserted with a snug fit between abutting ends.
+
+3.10.2 Bearing Perpendicular to Grain
+
+The actual compression stress perpendicular to
+grain shall be based on the net bearing area and shall
+not exceed the adjusted compression design value per-
+pendicular to grain, fc⊥ ≤ Fc⊥'. When calculating bearing
+area at the ends of bending members, no allowance
+shall be made for the fact that as the member bends,
+pressure upon the inner edge of the bearing is greater
+than at the member end.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

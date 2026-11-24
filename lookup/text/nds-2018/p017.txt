@@ -1,0 +1,137 @@
+[nds-2018 | NDS-2018.pdf | pdf page 17 | printed page 5]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 5
+GENERAL REQUIREMENTS FOR STRUCTURAL DESIGN
+1
+
+Fc* = reference compression design value
+
+parallel to grain multiplied by all applica-
+ble adjustment factors except Cp, psi
+
+FcE = critical buckling design value for compres-
+
+sion members, psi
+
+FcE1, FcE2 = critical buckling design value for compres-
+
+sion member in planes of lateral support,
+psi
+
+Fc⊥, Fc⊥' = reference and adjusted compression
+
+design value perpendicular to grain, psi
+
+Fc⊥x = reference compression design value for
+
+bearing loads on the wide face of the lam-
+inations of structural glued laminated tim-
+ber, psi
+
+Fc⊥y = reference compression design value for
+
+bearing loads on the narrow edges of the
+laminations of structural glued laminated
+timber, psi
+
+ Fe = dowel bearing strength, psi
+Fem = dowel bearing strength of main member,
+      psi
+ Fes = dowel bearing strength of side member,
+      psi
+Fe∥ = dowel bearing strength parallel to grain,
+      psi
+Fe⊥ = dowel bearing strength perpendicular to
+      grain, psi
+ Feθ = dowel bearing strength at an angle to
+      grain, psi
+ Frc = reference radial compression design value
+
+for curved structural glued laminated tim-
+ber members, psi
+
+Frt Frt' = reference and adjusted radial tension
+
+design value perpendicular to grain for
+structural glued laminated timber, psi
+
+Fs, Fs' = reference and adjusted shear in the plane
+
+(rolling shear) design value for wood struc-
+tural panels and cross-laminated timber,
+psi
+
+Ft, Ft' = reference and adjusted tension design
+
+value parallel to grain, psi
+
+Fv, Fv' = reference and adjusted shear design
+
+value parallel to grain (horizontal shear),
+psi
+
+Fvx = reference shear design value for structural
+
+glued laminated timber members with
+loads causing bending about the x-x axis,
+psi
+
+Fvy = reference shear design value for structural
+
+glued laminated timber members with
+loads causing bending about the y-y axis,
+psi
+
+     Fyb = dowel bending yield strength of fastener,
+           psi
+     Fθ' = adjusted bearing design value at an angle
+           to grain, psi
+      G = specific gravity
+      Gv = reference modulus of rigidity for wood
+           structural panels, psi
+   GAeff = effective shear stiffness of the CLT sec-
+           tion, lbs/ft of panel width
+       I = moment of inertia, in.4
+     I eff = effective moment of inertia of a cross-
+           laminated timber section, in.4/ft of panel
+           width
+(Ib/Q)eff = effective panel cross sectional shear
+
+constant of cross-laminated timber, lbs/ft
+of panel width
+
+K, K' = reference and adjusted shear stiffness
+        coefficient for prefabricated wood I-joists
+  KD = diameter coefficient for dowel-type fas-
+        tener connections with D < 0.25 in.
+  KF = format conversion factor
+  KM = moisture content coefficient for sawn
+        lumber truss compression chords
+  KT = truss compression chord coefficient for
+        sawn lumber
+ KbE = Euler buckling coefficient for beams
+ KcE = Euler buckling coefficient for columns
+  Kcr = time dependent deformation (creep) factor
+  Ke = buckling length coefficient for compres-
+        sion members
+   Kf = column stability coefficient for bolted and
+        nailed built-up columns
+  Krs = empirical radial stress factor for double-
+
+tapered curved structural glued laminated
+timber bending members
+
+Ks = shear deformation adjustment factor for
+
+cross-laminated timber
+
+Kt = temperature coefficient
+
+Kx = spaced column fixity coefficient
+
+Kθ = angle to grain coefficient for dowel-type
+
+fastener connections with D ≥ 0.25 in.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

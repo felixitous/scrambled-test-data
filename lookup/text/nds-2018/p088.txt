@@ -1,0 +1,120 @@
+[nds-2018 | NDS-2018.pdf | pdf page 88 | printed page 76]
+
+76 DOWEL-TYPE FASTENERS
+
+12.1.7 Drift Bolts and Drift Pins
+
+12.1.7.1 Lead holes shall be drilled 0" to 1/32"
+smaller than the actual pin diameter.
+
+12.1.7.2 Additional penetration of pin into mem-
+bers shall be provided in lieu of the washer, head, and
+nut on a common bolt (see Reference 53 for additional
+information).
+
+12.1.7.3 Edge distances, end distances, and fastener
+spacings shall not be less than the requirements in Ta-
+bles 12.5.1A through 12.5.1D.
+
+12.1.8 Other Dowel-Type Fasteners
+
+Where fastener type or installation requirements
+vary from those specified in 12.1.3, 12.1.4, 12.1.5,
+12.1.6, and 12.1.7, provisions of 12.2 and 12.3 shall be
+permitted to be used in the determination of reference
+withdrawal and lateral design values, respectively, pro-
+vided allowance is made to account for such variation
+(see 11.1.1.3). Edge distances, end distances, and spac-
+ings shall be sufficient to prevent splitting of the wood.
+
+12.2 Reference Withdrawal Design Values
+
+12.2.1 Lag Screws
+
+12.2.1.1 The lag screw reference withdrawal design
+value, W, in lbs/in. of thread penetration, for a single
+lag screw inserted in the side grain of a wood member,
+with the lag screw axis perpendicular to the wood fi-
+bers, shall be determined from Table 12.2A or Equation
+12.2-1, within the range of specific gravities, G, and lag
+screw diameters, D, given in Table 12.2A. Reference
+withdrawal design values, W, shall be multiplied by all
+applicable adjustment factors (see Table 11.3.1) to ob-
+tain adjusted withdrawal design values, W'.
+
+W = 1800 G3/2D3/4
+(12.2-1)
+
+12.2.1.2 For calculation of the fastener reference
+withdrawal design value in pounds, the unit reference
+withdrawal design value in lbs/in. of thread penetration
+from 12.2.1.1 shall be multiplied by the length of thread
+penetration, pt, into a wood member, excluding the
+length of the tapered tip.
+
+12.2.1.3 Where lag screws are loaded in withdrawal
+from end grain, reference withdrawal design values, W,
+shall be multiplied by the end grain factor, Ceg = 0.75.
+
+12.2.1.4 Where lag screws are loaded in withdraw-
+al, the tensile strength of the lag screw at the net section
+(root diameter, Dr) shall not be exceeded (see 11.2.3
+and Appendix Table L2).
+
+12.2.1.5 Where lag screws are loaded in withdrawal
+from the narrow edge of cross-laminated timber, the
+reference withdrawal value, W, shall be multiplied by
+the end grain factor, Ceg=0.75, regardless of grain ori-
+entation.
+
+12.2.2 Wood Screws
+
+12.2.2.1 The wood screw reference withdrawal de-
+sign value, W, in lbs/in. of thread penetration, for a sin-
+gle wood screw (cut thread or rolled thread) inserted in
+
+the side grain of a wood member, with the wood screw
+axis perpendicular to the wood fibers, shall be deter-
+mined from Table 12.2B or Equation 12.2-2, within the
+range of specific gravities, G, and screw diameters, D,
+given in Table 12.2B. Reference withdrawal design
+values, W, shall be multiplied by all applicable adjust-
+ment factors (see Table 11.3.1) to obtain adjusted with-
+drawal design values, W'.
+
+W = 2850 G2D
+(12.2-2)
+
+12.2.2.2 For calculation of the fastener reference
+withdrawal design value in pounds, the unit reference
+withdrawal design value in lbs/in. of thread penetration
+from 12.2.2.1 shall be multiplied by the length of thread
+penetration, pt, into the wood member.
+
+12.2.2.3 Wood screws shall not be loaded in with-
+drawal from end grain of wood (Ceg=0.0).
+
+12.2.2.4 Wood screws shall not be loaded in with-
+drawal from end-grain of laminations in cross-
+laminated timber (Ceg=0.0).
+
+12.2.2.5 Where wood screws are loaded in with-
+drawal, the adjusted tensile strength of the wood screw
+at the net section (root diameter, Dr) shall not be ex-
+ceeded (see 11.2.3 and Appendix Table L3).
+
+12.2.3 Nails and Spikes
+
+12.2.3.1 Smooth shank nails or spikes
+(a) The nail or spike reference withdrawal design
+value, W, in lbs/in. of penetration, for a smooth shank
+(bright or galvanized) carbon steel nail or spike driven
+into the side grain of a wood member, with the nail or
+spike axis perpendicular to the wood fibers, shall be de-
+termined from Table 12.2C or Equation 12.2-3, within
+the range of specific gravities, G, and nail or spike diam-
+eters, D, given in Table 12.2C. Reference withdrawal
+design values, W, shall be multiplied by all applicable
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

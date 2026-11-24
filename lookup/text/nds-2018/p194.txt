@@ -1,0 +1,50 @@
+[nds-2018 | NDS-2018.pdf | pdf page 194 | printed page 182]
+
+182 APPENDIX
+
+Table L3
+Standard Wood Screws1,6
+
+                                                                         D  = diameter, in.
+                                                                         DH = head diameter5, in.
+                                                                         Dr = root diameter, in.
+                                                                         L  = screw length, in.
+       Cut Thread2                       Rolled Thread3                  T  = thread length, in.
+                                                 Wood Screw Number
+                6       7        8        9       10      12       14      16       18       20      24
+ D            0.138   0.151    0.164    0.177    0.19    0.216   0.242    0.268    0.294    0.32    0.372
+Dr4           0.113   0.122    0.131    0.142   0.152    0.171   0.196    0.209    0.232   0.255    0.298
+DH5           0.262   0.287    0.312    0.337   0.363    0.414   0.480    0.515    0.602   0.616    0.724
+
+1. Tolerances specified in ANSI/ASME B18.6.1.
+2. Thread length on cut thread wood screws is approximately 2/3 of the wood screw length, L.
+3. Single lead thread shown. Thread length is at least four times the screw diameter or 2/3 of the wood screw length, whichever is greater. Wood screws which
+are too short to accommodate the minimum thread length, have threads extending as close to the underside of the head as practicable.
+4. Taken as the average of the specified maximum and minimum limits for body diameter of rolled thread wood screws.
+5. Taken as the average of the specified maximum and minimum limits for head diameter.
+6. It is permitted to assume the length of the tapered tip is 2D.
+
+Table L4
+Standard Common, Box, and Sinker Steel Wire Nails1,2
+
+                                                                                        D = diameter, in.
+                                                                                        L = length, in.
+                                                                                        H = head diameter, in.
+           Common or Box                                       Sinker
+                                                             Pennyweight
+  Type                  6d      7d       8d     10d      12d     16d      20d     30d      40d     50d     60d
+               L        2      2-1/4   2-1/2      3     3-1/4    3-1/2     4     4-1/2      5     5-1/2      6
+Common         D      0.113    0.113   0.131    0.148   0.148    0.162   0.192   0.207    0.225   0.244    0.263
+               H      0.266    0.266   0.281    0.312   0.312    0.344   0.406   0.438    0.469    0.5     0.531
+               L        2      2-1/4   2-1/2      3     3-1/4    3-1/2     4     4-1/2      5
+  Box          D      0.099    0.099   0.113    0.128   0.128    0.135   0.148   0.148    0.162
+               H      0.266    0.266   0.297    0.312   0.312    0.344   0.375   0.375    0.406
+               L       1-7/8   2-1/8   2-3/8    2-7/8   3-1/8    3-1/4   3-3/4   4-1/4    4-3/4            5-3/4
+ Sinker        D      0.092    0.099   0.113    0.12    0.135    0.148   0.177   0.192    0.207            0.244
+               H      0.234    0.250   0.266    0.281   0.312    0.344   0.375   0.406    0.438             0.5
+
+1. Tolerances are specified in ASTM F1667. Typical shape of common, box, and sinker steel wire nails shown. See ASTM F 1667 for other nail types.
+2. It is permitted to assume the length of the tapered tip is 2D.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

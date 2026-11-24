@@ -1,0 +1,101 @@
+[nds-2018 | NDS-2018.pdf | pdf page 161 | printed page 149]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 149
+SPECIAL LOADING CONDITIONS
+15
+
+the adjusted compression design value parallel to grain,
+Fc' , for the column. Fc' for built-up columns need not be
+less than Fc' for the individual laminations designed as
+individual solid columns per section 3.7.
+
+    15.3.2.3 The slenderness ratio,  ℓe/d, for built-up
+columns shall not exceed 50, except that during con-
+struction ℓe/d shall not exceed 75.
+    15.3.2.4 The column stability factor shall be calcu-
+lated as follows:
+       ⎢⎡1 + (FcE Fc* ) ⎡1 + (FcE Fc* ) ⎤2 FcE Fc* ⎥⎤ (15.3-1)
+CP = Kf ⎢          −  ⎢           ⎥ −       ⎥
+       ⎢    2c        ⎢⎣   2c     ⎥⎦    c   ⎥
+       ⎣                                    ⎦
+where:
+      Fc* = reference compression design value parallel
+
+to grain multiplied by all applicable modifica-
+tion factors except CP (see 2.3)
+
+      0.822Emin′
+FcE =         2
+       (ℓe / d)
+ Kf = 0.6 for built-up columns where
+
+ℓe2/d2 is used
+to calculate FcE and the built-up columns are
+nailed in accordance with 15.3.3
+
+Kf = 0.75 for built-up columns where
+
+ℓe2/d2 is
+used to calculate FcE and the built-up col-
+umns are bolted in accordance with 15.3.4
+
+Kf = 1.0 for built-up columns where
+
+ℓe1/d1 is used
+to calculate FcE and the built-up columns are
+either nailed or bolted in accordance with
+15.3.3 or 15.3.4, respectively
+
+c = 0.8 for sawn lumber
+
+c = 0.9 for structural glued laminated timber or
+
+structural composite lumber
+
+15.3.2.5 For especially severe service conditions
+and/or extraordinary hazard, use of lower adjusted de-
+sign values may be necessary. See Appendix H for
+background information concerning column stability
+calculations and Appendix F for information concern-
+ing coefficient of variation in modulus of elasticity
+(COVE).
+
+Figure 15B
+Mechanically Laminated Built-
+Up Columns
+
+15.3.3 Nailed Built-Up Columns
+
+15.3.3.1 The provisions in 15.3.1 and 15.3.2 apply
+to nailed built-up columns (see Figure 15C) in which:
+
+(a) adjacent nails are driven from opposite sides of
+
+the column
+(b) all nails penetrate all laminations and at least
+
+3/4 of the thickness of the outermost lamination
+(c) 15D ≤ end distance ≤ 18D
+(d) 20D ≤ spacing between adjacent nails in a
+
+row ≤ 6tmin
+(e) 10D ≤ spacing between rows of nails ≤ 20D
+(f) 5D ≤ edge distance ≤ 20D
+(g) 2 or more longitudinal rows of nails are provid-
+
+ed where d > 3tmin
+where:
+
+D = nail diameter
+
+d = depth (face width) of individual lamination
+
+tmin = thickness of thinnest lamination
+
+Where only one longitudinal row of nails is re-
+quired, adjacent nails shall be staggered (see Figure
+15C). Where three or more longitudinal rows of nails
+are used, nails in adjacent rows shall be staggered.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

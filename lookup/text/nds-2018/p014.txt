@@ -1,0 +1,102 @@
+[nds-2018 | NDS-2018.pdf | pdf page 14 | printed page 2]
+
+2 GENERAL REQUIREMENTS FOR STRUCTURAL DESIGN
+
+1.1 Scope
+
+1.1.1 Practice Defined
+
+1.1.1.1 This Specification defines the methods to be
+followed in structural design with the following wood
+products:
+
+- visually graded lumber
+- mechanically graded lumber
+- structural glued laminated timber
+- timber piles
+- timber poles
+- prefabricated wood I-joists
+- structural composite lumber
+- wood structural panels
+- cross-laminated timber
+It also defines the practice to be followed in the design
+and fabrication of single and multiple fastener connec-
+tions using the fasteners described herein.
+
+1.1.1.2 Structural assemblies utilizing panel prod-
+ucts shall be designed in accordance with principles of
+engineering mechanics (see References 32, 33, 34, and
+53 for design provisions for commonly used panel
+products).
+
+1.1.1.3 Structural assemblies utilizing metal con-
+nector plates shall be designed in accordance with ac-
+cepted engineering practice (see Reference 9).
+
+1.1.1.4 Shear walls and diaphragms shall be de-
+signed in accordance with the Special Design Provi-
+sions for Wind and Seismic (see Reference 56).
+
+1.1.1.5 This Specification is not intended to pre-
+clude the use of materials, assemblies, structures or de-
+signs not meeting the criteria herein, where it is demon-
+strated by analysis based on recognized theory, full-
+scale or prototype loading tests, studies of model ana-
+logues or extensive experience in use that the material,
+assembly, structure or design will perform satisfactorily
+in its intended end use.
+
+1.1.2 Competent Supervision
+
+The reference design values, design value adjust-
+ments, and structural design provisions in this Specifi-
+cation are for designs made and carried out under com-
+petent supervision.
+
+1.2 General Requirements
+
+1.2.1 Conformance with Standards
+
+The quality of wood products and fasteners, and the
+design of load-supporting members and connections,
+shall conform to the standards specified herein.
+
+1.2.2 Framing and Bracing
+
+All members shall be so framed, anchored, tied, and
+braced that they have the required strength and rigidity.
+Adequate bracing and bridging to resist wind and other
+lateral forces shall be provided.
+
+1.3 Standard as a Whole
+
+The various Chapters, Sections, Subsections and
+Articles of this Specification are interdependent and,
+except as otherwise provided, the pertinent provisions
+
+of each Chapter, Section, Subsection, and Article shall
+apply to every other Chapter, Section, Subsection, and
+Article.
+
+1.4 Design Procedures
+
+This Specification provides requirements for the
+design of wood products specified herein by the follow-
+ing methods:
+
+(a) Allowable Stress Design (ASD)
+(b) Load and Resistance Factor Design (LRFD)
+Designs shall be made according to the provisions
+for Allowable Stress Design (ASD) or Load and Re-
+sistance Factor Design (LRFD).
+
+1.4.1 Loading Assumptions
+
+Wood buildings or other wood structures, and their
+structural members, shall be designed and constructed
+to safely support all anticipated loads. This Specifica-
+tion is predicated on the principle that the loading as-
+sumed in the design represents actual conditions.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

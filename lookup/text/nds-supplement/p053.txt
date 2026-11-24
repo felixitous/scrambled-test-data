@@ -1,0 +1,79 @@
+[nds-supplement | NDS_supplement.pdf | pdf page 53 | printed page 45]
+
+DESIGN VALUES FOR WOOD CONSTRUCTION – NDS SUPPLEMENT 45
+REFERENCE DESIGN VALUES
+4
+
+Table 4C Footnotes
+
+1. LUMBER DIMENSIONS. Tabulated design values are applicable to lumber that will be used under dry conditions such as in most covered structures. For 2"
+to 4" thick lumber the DRY dressed sizes shall be used (see Table 1A) regardless of the moisture content at the time of manufacture or use. In calculating design
+values, the natural gain in strength and stiffness that occurs as lumber dries has been taken into consideration as well as the reduction in size that occurs when
+unseasoned lumber shrinks. The gain in load carrying capacity due to increased strength and stiffness resulting from drying more than offsets the design effect of
+size reductions due to shrinkage.
+2. SPECIFIC GRAVITY, G, SHEAR PARALLEL TO GRAIN, FV, AND COMPRESSION PERPENDICULAR TO GRAIN, Fc⊥. Values for specific gravity,
+G, shear parallel to grain, Fv, and compression perpendicular to grain, Fc⊥, are provided below for MSR and MEL lumber. For species or species groups not shown
+below, the G, Fv, and Fc⊥ values for visually graded lumber may be used. Higher G values may be claimed when (a) specifically assigned by the rules writing agency
+or (b) when qualified by test, quality controlled for G and provided for on the grade stamp. When a different G value is provided on the grade stamp, higher Fv
+and Fc⊥ design values may be calculated in accordance with the grading rule requirements.
+
+3. MODULUS OF ELASTICITY, E, AND TENSION PARALLEL TO GRAIN, Ft. For any given bending design value, Fb, the modulus of elasticity, E, and
+tension parallel to grain, Ft, design value may vary depending upon species, timber source, or other variables. The “E” and “Ft” values included in the “Fb-E”
+grade designations in Table 4C are those usually associated with each “Fb” level. Grade stamps may show higher or lower values if machine rating indicates the
+assignment is appropriate. Where the “E” or “Ft” values shown on a grade stamp differ from Table 4C values associated with the “Fb” on the grade stamp, the
+values on the stamp shall be used in design, and the “Fc” value associated with the “Fb” value in Table 4C shall be used.
+4. COMPRESSION PARALLEL TO GRAIN, Fc. This grade requires “Fc” qualification and quality control.
+
+* 1.8E southern pine marked with a specific gravity of 0.55 on the grade stamp has a shear parallel to grain, Fv, of 175 psi and compression perpendicular to grain,
+Fc⊥, of 565 psi.
+
+                       Modulus of               Design values in pounds per square inch (psi)
+      Species           Elasticity  Specific                               Compression                   Grading Rules Agency
+                       E (x106) psi  Gravity   Shear parallel to grain perpendicular to grain
+                                       G                Fv                      Fc⊥
+                        1.0 to 1.9    0.50              180                     625           WWPA
+                          2.0         0.51              180                     670
+                          2.1         0.52              180                     690
+Douglas Fir-Larch         2.2         0.53              180                     715           WWPA
+                          2.3         0.54              185                     735
+                          2.4         0.55              185                     760
+                        1.0 to 1.9    0.50              170                     625           WCLIB
+                          2.0         0.51              170                     670
+                          2.1         0.52              170                     690
+Douglas Fir-Larch         2.2         0.53              170                     715           WCLIB
+                          2.3         0.54              170                     735
+                          2.4         0.55              170                     760
+                        1.2 to 1.9    0.49              180                     625           NLGA
+Douglas Fir-Larch (N)   2.0 to 2.2    0.53              180                     715
+                       2.3 & higher   0.57              190                     715           NLGA
+Douglas Fir-South     1.0 and higher  0.46              180                     520           WWPA
+Englemann Spruce-     1.0 and higher  0.38              135                     335           WWPA
+Lodgepole Pine        1.5 and higher  0.46              160                     555           WWPA
+                      1.0 and higher  0.43              140                     405           WCLIB
+                        1.0 to 1.5    0.43              150                     405           WWPA
+                          1.6         0.44              155                     510
+                          1.7         0.45              160                     535
+                          1.8         0.46              160                     555
+Hem-Fir                   1.9         0.47              165                     580
+                          2.0         0.48              170                     600           WCLIB, WWPA
+                          2.1         0.49              170                     625
+                          2.2         0.50              175                     645
+                          2.3         0.51              175                     670
+                          2.4         0.52              180                     690
+Hem-Fir (N)           1.0 and higher  0.46              145                     405           NLGA
+                        1.0 to 1.7    0.55              175                     565           SPIB
+Southern Pine             1.8*        0.57*            190*                     805*          SPIB
+                      1.9 and higher  0.57              190                     805           SPIB
+                        1.2 to 1.7    0.42              135                     425           NLGA
+Spruce-Pine-Fir         1.8 to 1.9    0.46              160                     525           NLGA
+                      2.0 and higher  0.50              170                     615           NLGA
+                        1.0 to 1.1    0.36              135                     335           NELMA, WCLIB, WWPA
+                        1.2 to 1.9    0.42              150                     465           NELMA
+Spruce-Pine-Fir (S)     1.2 to 1.7    0.42              150                     465           WWPA
+                        1.8 to 1.9    0.46              160                     555
+                      2.0 and higher  0.50              175                     645           NELMA, WWPA
+Western Cedars        1.0 and higher  0.36              155                     425           WCLIB, WWPA
+Western Woods         1.0 and higher  0.36              135                     335           WCLIB, WWPA
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

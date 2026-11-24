@@ -1,0 +1,47 @@
+[nds-supplement | NDS_supplement.pdf | pdf page 61 | printed page 53]
+
+DESIGN VALUES FOR WOOD CONSTRUCTION – NDS SUPPLEMENT 53
+REFERENCE DESIGN VALUES
+4
+
+Table 4E Adjustment Factors
+
+Size Factor, CF
+
+Bending design values for all species of decking except
+Redwood are based on 4" thick decking. When 2" thick
+or 3" thick decking is used, the bending design values, Fb,
+for all species except Redwood shall be multiplied by the
+following size factors:
+
+                     Size Factors, CF
+            Thickness                CF
+               2"                   1.10
+               3"                   1.04
+Repetitive Member Factor, Cr
+
+Tabulated bending design values for repetitive member
+uses, (Fb)(Cr), for decking have already been multiplied
+by the repetitive member factor, Cr.
+
+Wet Service Factor, CM
+
+When decking is used where moisture content will
+exceed 19% for an extended time period, design values
+shall be multiplied by the appropriate wet service factors
+from the following table (for surfaced dry Southern Pine
+decking use tabulated surfaced green design values for wet
+service conditions without further adjustment):
+
+                 Wet Service Factors, CM
+          Fb                 Fc⊥            E and Emin
+        0.85*               0.67               0.9
+ * when (Fb)(CF) ≤ 1,150 psi, CM = 1.0
+Flat Use Factor, Cfu
+
+Tabulated bending design values, Fb, for decking have
+already been adjusted for flatwise usage (load applied to
+wide face).
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

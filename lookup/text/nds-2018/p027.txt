@@ -1,0 +1,117 @@
+[nds-2018 | NDS-2018.pdf | pdf page 27 | printed page 15]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 15
+DESIGN PROVISIONS AND EQUATIONS
+3
+
+3.2 Bending Members – General
+
+3.2.1 Span of Bending Members
+
+For simple, continuous and cantilevered bending
+members, the span shall be taken as the distance from
+face to face of supports, plus ½ the required bearing
+length at each end.
+
+3.2.2 Lateral Distribution of Concentrated
+Load
+
+Lateral distribution of concentrated loads from a
+critically loaded bending member to adjacent parallel
+bending members by flooring or other cross members
+shall be permitted to be calculated when determining
+design bending moment and vertical shear force (see
+15.1).
+
+3.2.3 Notches
+
+3.2.3.1 Bending members shall not be notched ex-
+cept as permitted by 4.4.3, 5.4.5, 7.4.4, and 8.4.1. A
+gradual taper cut from the reduced depth of the member
+to the full depth of the member in lieu of a square-
+cornered notch reduces stress concentrations.
+
+3.2.3.2 The stiffness of a bending member, as de-
+termined from its cross section, is practically unaffected
+by a notch with the following dimensions:
+
+notch depth
+≤
+(1/6) (beam depth)
+notch length
+≤
+(1/3) (beam depth)
+3.2.3.3 See 3.4.3 for effect of notches on shear
+strength.
+
+3.3 Bending Members – Flexure
+
+3.3.1 Strength in Bending
+
+The actual bending stress or moment shall not ex-
+ceed the adjusted bending design value.
+
+3.3.2 Flexural Design Equations
+
+3.3.2.1 The actual bending stress induced by a
+bending moment, M, is calculated as follows:
+
+f = Mc  = M
+ b    I    S
+
+(3.3-1)
+
+For a rectangular bending member of breadth, b,
+and depth, d, this becomes:
+
+f = M  = 6M
+ b   S   bd2
+
+(3.3-2)
+
+3.3.2.2 For solid rectangular bending members with
+the neutral axis perpendicular to depth at center:
+
+I = bd3 = moment of inertia, in.4             (3.3-3)
+    12
+S = I = bd2 = section modulus, in.3           (3.3-4)
+    c   6
+
+3.3.3 Beam Stability Factor, CL
+
+3.3.3.1 When the depth of a bending member does
+not exceed its breadth, d ≤ b, no lateral support is re-
+quired and CL = 1.0.
+
+3.3.3.2 When rectangular sawn lumber bending
+members are laterally supported in accordance with
+4.4.1, CL = 1.0.
+3.3.3.3 When the compression edge of a bending
+member is supported throughout its length to prevent
+lateral displacement, and the ends at points of bearing
+have lateral support to prevent rotation, CL = 1.0.
+
+3.3.3.4 Where the depth of a bending member ex-
+ceeds its breadth, d > b, lateral support shall be provid-
+ed at points of bearing to prevent rotation. When such
+lateral support is provided at points of bearing, but no
+additional lateral support is provided throughout the
+length of the bending member, the unsupported length,
+
+ℓu, is the distance between such points of end bearing,
+or the length of a cantilever. When a bending member
+is provided with lateral support to prevent rotation at
+intermediate points as well as at the ends, the unsup-
+ported length,
+
+ℓu, is the distance between such points of
+intermediate lateral support.
+
+3.3.3.5 The effective span length,
+
+ℓe, for single span
+or cantilever bending members shall be determined in
+accordance with Table 3.3.3.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

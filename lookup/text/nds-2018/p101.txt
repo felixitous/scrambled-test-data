@@ -1,0 +1,78 @@
+[nds-2018 | NDS-2018.pdf | pdf page 101 | printed page 89]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 89
+DOWEL-TYPE FASTENERS
+12
+
+12.4 Combined Lateral and Withdrawal Loads
+
+12.4.1 Lag Screws and Wood Screws
+
+Where a lag screw or wood screw is subjected to
+combined lateral and withdrawal loading, as when the
+fastener is inserted perpendicular to the fiber and the
+load acts at an angle, α, to the wood surface (see Figure
+12F), the adjusted design value, Zα', shall be deter-
+mined as follows (see Appendix J):
+
+                  (W′p)Z′
+    Zα′=
+          (W′p)cos2  α+  Z′ sin2 α
+where:
+       α = angle between the wood surface and the
+           direction of applied load, degrees
+       p = length of thread penetration into the main
+           member, in.
+12.4.2 Nails and Spikes
+
+                             (W′p)Z′
+                 Zα′=                                   (12.4-2)
+                      (W′p)cos  α+ Z′ sin α
+             where:
+                    α = angle between the wood surface and the
+                        direction of applied load, degrees
+                    p = length of fastener penetration into the main
+(12.4-1)                member, in.
+             Figure 12F      Combined Lateral and
+                             Withdrawal Loading
+
+Where a nail or spike is subjected to combined lat-
+eral and withdrawal loading, as when the nail or spike
+is inserted perpendicular to the fiber and the load acts at
+an angle, α, to the wood surface, the adjusted design
+value, Zα', shall be determined as follows:
+
+12.5 Adjustment of Reference Design Values
+
+12.5.1 Geometry Factor, CΔ
+
+12.5.1.1 For dowel-type fasteners where D < 1/4",
+CΔ = 1.0.
+
+12.5.1.2 Where D ≥ 1/4" and the end distance or
+spacing provided for dowel-type fasteners is less than
+the minimum required for CΔ = 1.0 for any condition in
+(a), (b), or (c), reference lateral design values, Z, shall
+be multiplied by the smallest applicable geometry fac-
+tor, CΔ, determined in (a), (b), or (c). The smallest ge-
+ometry factor for any fastener in a group shall apply to
+all fasteners in the group. For multiple shear connec-
+tions or for asymmetric three member connections, the
+smallest geometry factor, CΔ, for any shear plane shall
+apply to all fasteners in the connection.
+
+(a) Where dowel-type fasteners are used and the
+
+actual end distance for parallel or perpendicular
+to grain loading is greater than or equal to the
+minimum end distance (see Table 12.5.1A) for
+CΔ = 0.5, but less than the minimum end dis-
+tance for CΔ = 1.0, the geometry factor, CΔ,
+shall be determined as follows:
+
+CΔ=
+actual end distance
+minimum end distance for CΔ = 1.0
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

@@ -1,0 +1,78 @@
+[nds-supplement | NDS_supplement.pdf | pdf page 66 | printed page 58]
+
+58 REFERENCE DESIGN VALUES
+
+Table 4F
+Reference Design Values for Non-North American Visually Graded Dimension
+Lumber (2" - 4" thick)1,3
+
+(Tabulated design values are for normal load duration and dry service conditions. See NDS 4.3 for a
+comprehensive description of design value adjustment factors.)
+
+                                            USE WITH TABLE 4F ADJUSTMENT FACTORS
+                                                                Design values in pounds per square inch (psi)
+   Species and                                        Tension   Shear    Compression    Compression                                   Grading
+commercial Grade      Size classification             parallel parallel  perpendicular     parallel                          Specific  Rules
+                                            Bending   to grain to grain     to grain      to grain     Modulus of Elasticity Gravity5  Agency
+                                               Fb       Ft        Fv          Fc⊥            Fc           E          Emin       G
+
+AUSTRIAN SPRUCE - Austria &
+The Czech Republic
+Select Structural                            1,500     675      175         260           1,250      1,700,000   620,000
+No. 1                                        1,000     450      175         260           1,100      1,600,000   580,000
+No. 2                     2" & wider          925      400      175         260           1,050      1,500,000   550,000
+No. 3                                         525      225      175         260            625       1,300,000   470,000
+Stud                      2" & wider          725      325      175         260            675       1,300,000   470,000    0.43    WCLIB
+Construction                                 1,050     475      175         260           1,300      1,400,000   510,000
+Standard                 2" - 4" wide         575      250      175         260           1,100      1,300,000   470,000
+Utility                                       275      125      175         260            725       1,200,000   440,000
+DOUGLAS FIR - France & Germany
+Select Structural                            1,500     675      205         540           1,250      1,900,000   690,000
+No. 1                                         975      450      205         540           1,100      1,700,000   620,000
+No. 2                     2" & wider          825      375      205         540           1,000      1,500,000   550,000
+No. 3                                         475      225      205         540            600       1,300,000   470,000
+Stud                      2" & wider          650      300      205         540            650       1,300,000   470,000    0.48    WCLIB
+Construction                                  925      425      205         540           1,250      1,400,000   510,000
+Standard                 2" - 4" wide         525      225      205         540           1,050      1,300,000   470,000
+Utility                                       250      100      205         540            675       1,200,000   440,000
+DOUGLAS FIR/EUROPEAN LARCH - Austria,
+The Czech Republic, & Bavaria2
+Select Structural                            1,900     850      195         440           1,400      1,800,000   660,000
+No. 1                                        1,400     625      195         440           1,250      1,700,000   620,000
+No. 2                     2" & wider         1,350     600      195         440           1,250      1,600,000   580,000
+No. 3                                         775      350      195         440            700       1,400,000   510,000
+Stud                      2" & wider          800      350      195         440            700       1,400,000   510,000    0.48    WCLIB
+Construction                                 1,000     450      195         440           1,250      1,500,000   550,000
+Standard                 2" - 4" wide         575      250      195         440           1,100      1,300,000   470,000
+Utility                                       275      125      195         440            700       1,300,000   470,000
+MONTANE PINE - South Africa
+Select Structural                             975      425      135         325           1,100      1,300,000   470,000
+No. 1                                         650      300      135         325            950       1,100,000   400,000
+No. 2                     2" & wider          600      275      135         325            850       1,000,000   370,000
+No. 3                                         350      150      135         325            475        900,000    330,000
+Stud                      2" & wider          475      200      135         325            525        900,000    330,000    0.45    WCLIB
+Construction                                  675      300      135         325           1,050       900,000    330,000
+Standard                 2" - 4" wide         375      175      135         325            875        800,000    290,000
+Utility                                       175      75       135         325            575        800,000    290,000
+NORWAY SPRUCE - Estonia,
+Latvia, & Lithuania
+Select Structural                            1,200     550      150         430           1,200      1,600,000   580,000
+No. 1                                         850      375      150         430           1,050      1,400,000   510,000
+No. 2                     2" & wider          800      350      150         430           1,000      1,300,000   470,000
+No. 3                                         450      200      150         430            575       1,100,000   400,000
+Stud                      2" & wider          625      275      150         430            625       1,100,000   400,000    0.42    WCLIB
+Construction                                  900      400      150         430           1,200      1,200,000   440,000
+Standard                 2" - 4" wide         500      225      150         430           1,050      1,100,000   400,000
+Utility                                       250      100      150         430            675       1,000,000   370,000
+NORWAY SPRUCE - Finland
+Select Structural                            1,350     600      125         220           1,200      1,500,000   550,000
+No. 1                                         825      375      125         220           1,000      1,400,000   510,000
+No. 2                     2" & wider          625      275      125         220            875       1,200,000   440,000
+No. 3                                         375      175      125         220            500       1,100,000   400,000
+Stud                      2" & wider          575      250      125         220            600       1,100,000   400,000    0.42    WCLIB
+Construction                                  725      325      125         220           1,100      1,100,000   400,000
+Standard                 2" - 4" wide         400      175      125         220            900       1,000,000   370,000
+Utility                                       200      75       125         220            600       1,000,000   370,000
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

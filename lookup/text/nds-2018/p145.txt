@@ -1,0 +1,47 @@
+[nds-2018 | NDS-2018.pdf | pdf page 145 | printed page 133]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 133
+14
+
+TIMBER RIVETS
+
+14.1  General                            134
+14.2  Reference Design Values            134
+14.3  Placement of Timber Rivets         136
+
+Table 14.2.3
+Metal Side Plate Factor, Cst, for
+Timber Rivet Connections.................... 135
+
+Table 14.3.2
+Minimum End and Edge Distances
+for Timber Rivet Joints......................... 136
+
+Tables 14.2.1 A-F Reference Wood Capacity Design
+
+Values Parallel to Grain, Pw, for
+Timber Rivets......................................... 137
+
+A - Rivet Length = 1-½", sp = 1", sq = 1"........ 137
+
+B - Rivet Length = 1-½", sp = 1-½", sq = 1"... 138
+
+C - Rivet Length = 2-½", sp = 1", sq = 1"....... 139
+
+D - Rivet Length = 2-½", sp = 1-½", sq = 1"... 140
+
+E - Rivet Length = 3-½", sp = 1", sq = 1"....... 141
+
+F - Rivet Length = 3-½", sp = 1-½", sq = 1"... 142
+
+Table 14.2.2A Values of qw (lbs) Perpendicular to Grain
+
+for Timber Rivets.......................................... 143
+
+Table 14.2.2B Geometry Factor, CΔ, for Timber Rivet
+
+Connections Loaded Perpendicular
+to Grain.......................................................... 143
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

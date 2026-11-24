@@ -1,0 +1,72 @@
+[nds-2018 | NDS-2018.pdf | pdf page 41 | printed page 29]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 29
+SAWN LUMBER
+4
+
+4.3.5 Beam Stability Factor, CL
+
+Reference bending design values, Fb, shall be mul-
+tiplied by the beam stability factor, CL, specified in
+3.3.3.
+
+4.3.6 Size Factor, CF
+
+4.3.6.1 Reference bending, tension, and compres-
+sion parallel to grain design values for visually graded
+dimension lumber 2" to 4" thick shall be multiplied by
+the size factors specified in Tables 4A and 4B.
+
+4.3.6.2 Where the depth of a rectangular sawn lum-
+ber bending member 5" or thicker exceeds 12", the ref-
+erence bending design values, Fb, in Table 4D shall be
+multiplied by the following size factor:
+
+CF = (12 / d)1 9 ≤ 1.0            (4.3-1)
+
+4.3.6.3 For beams of circular cross section with a
+diameter greater than 13.5", or for 12" or larger square
+beams loaded in the plane of the diagonal, the size fac-
+
+tor shall be determined in accordance with 4.3.6.2 on
+the basis of an equivalent conventionally loaded square
+beam of the same cross-sectional area.
+
+4.3.6.4 Reference bending design values for all
+species of 2" thick or 3" thick Decking, except Red-
+wood, shall be multiplied by the size factors specified
+in Table 4E.
+
+4.3.7 Flat Use Factor, Cfu
+
+4.3.7.1 When sawn lumber 2" to 4" thick is loaded
+on the wide face, multiplying the reference bending
+design value, Fb, by the flat use factors, Cfu, specified in
+Tables 4A, 4B, 4C, and 4F, shall be permitted.
+
+4.3.7.2 When members classified as Beams and
+Stringers are loaded on the wide face, the reference
+bending design value, Fb, and the reference modulus of
+elasticity, (E or Emin), shall be multiplied by the flat use
+factors, Cfu, specified in Table 4D.
+
+Table 4.3.1
+Applicability of Adjustment Factors for Sawn Lumber
+
+ASD                                            LRFD
+                 ASD and LRFD
+only                                           only
+
+                                                                      KF   φ
+Fb' = Fb     x  CD   CM   Ct   CL   CF   Cfu  Ci   Cr   -    -    -  2.54 0.85  λ
+Ft' = Ft     x  CD   CM   Ct    -   CF    -   Ci   -    -    -    -  2.70 0.80  λ
+Fv' = Fv     x  CD   CM   Ct    -    -    -   Ci   -    -    -    -  2.88 0.75  λ
+Fc' = Fc     x  CD   CM   Ct    -   CF    -   Ci   -   CP    -    -  2.40 0.90  λ
+Fc⊥' = Fc⊥   x   -   CM   Ct    -    -    -   Ci   -    -    -   Cb 1.67 0.90    -
+E' = E       x   -   CM   Ct    -    -    -   Ci   -    -    -    -    -    -    -
+Emin' = Emin x   -   CM   Ct    -    -    -   Ci   -    -   CT    -  1.76 0.85   -
+
+[text in another orientation] Load Duration Factor | Wet Service Factor | Temperature Factor | Beam Stability Factor | Size Factor | Flat Use Factor | Incising Factor | Repetitive Member Factor | Column Stability Factor | Buckling Stiffness Factor | Bearing Area Factor | Format Conversion Factor | Resistance Factor | Time Effect Factor
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

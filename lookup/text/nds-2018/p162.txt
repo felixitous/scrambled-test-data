@@ -1,0 +1,50 @@
+[nds-2018 | NDS-2018.pdf | pdf page 162 | printed page 150]
+
+150 SPECIAL LOADING CONDITIONS
+
+Figure 15C
+Typical Nailing Schedules for Built-Up Columns
+
+15.3.4 Bolted Built-Up Columns
+
+15.3.4.1 The provisions in 15.3.1 and 15.3.2 apply
+to bolted built-up columns in which:
+
+(a) a metal plate or washer is provided between the
+
+wood and the bolt head, and between the wood
+and the nut
+(b) nuts are tightened to insure that faces of adja-
+
+cent laminations are in contact
+(c) for softwoods: 7D ≤ end distance ≤ 8.4D
+for hardwoods: 5D ≤ end distance ≤ 6D
+(d) 4D ≤ spacing between adjacent bolts in a
+
+row ≤ 6tmin
+(e) 1.5D ≤ spacing between rows of bolts ≤ 10D
+(f) 1.5D ≤ edge distance ≤ 10D
+(g) 2 or more longitudinal rows of bolts are pro-
+
+vided where d > 3tmin
+where:
+
+D = bolt diameter
+
+d = depth (face width) of individual lamination
+
+tmin = thickness of thinnest lamination
+
+15.3.4.2 Figure 15D provides an example of a bolt-
+ing schedule which meets the preceding connection
+requirements.
+
+Figure 15D
+Typical Bolting Schedules for
+Built-Up Columns
+
+Four 2" x 8" laminations (softwoods)
+with two rows of ½" diameter bolts.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

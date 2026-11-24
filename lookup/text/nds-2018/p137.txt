@@ -1,0 +1,101 @@
+[nds-2018 | NDS-2018.pdf | pdf page 137 | printed page 125]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 125
+SPLIT RING AND SHEAR PLATE CONNECTORS
+13
+
+13.2.6 Split Ring and Shear Plate
+Connectors in End Grain
+
+13.2.6.1 Where split ring or shear plate connectors
+are installed in a surface that is not parallel to the general
+direction of the grain of the member, such as the end of a
+square-cut member, or the sloping surface of a member
+cut at an angle to its axis, or the surface of a structural
+glued laminated timber cut at an angle to the direction of
+the laminations, the following terminology shall apply:
+
+- “Side grain surface” means a surface parallel to the
+
+general direction of the wood fibers (α = 0°), such
+as the top, bottom, and sides of a straight beam.
+- “Sloping surface” means a surface cut at an angle,
+
+α, other than 0° or 90° to the general direction of
+the wood fibers.
+- “Square-cut surface” means a surface perpendicular
+
+to the general direction of the wood fibers (α = 90°).
+- “Axis of cut” defines the direction of a sloping sur-
+
+face relative to the general direction of the wood fi-
+bers. For a sloping cut symmetrical about one of
+the major axes of the member, as in Figures 13D,
+13G, 13H, and 13I, the axis of cut is parallel to a
+major axis. For an asymmetrical sloping surface
+(i.e., one that slopes relative to both major axes of
+the member), the axis of cut is the direction of a
+line defining the intersection of the sloping surface
+with any plane that is both normal to the sloping
+surface and also is aligned with the general direc-
+tion of the wood fibers (see Figure 13E).
+
+α = the least angle formed between a sloping
+
+surface and the general direction of the wood
+fibers (i.e., the acute angle between the axis
+of cut and the general direction of the fibers.
+Sometimes called the slope of the cut. See
+Figures 13D through 13I).
+
+ϕ = the angle between the direction of applied
+
+load and the axis of cut of a sloping surface,
+measured in the plane of the sloping surface
+(see Figure 13I).
+
+P' = adjusted design value for a split ring or shear
+
+plate connector unit in a side grain surface,
+loaded parallel to grain (α = 0°, ϕ = 0°).
+
+Q' = adjusted design value for a split ring or shear
+
+plate connector unit in a side grain surface,
+loaded perpendicular to grain (α = 0°, ϕ =
+90°).
+
+Q'90 = adjusted design value for a split ring or shear
+
+plate connector unit in a square-cut surface,
+loaded in any direction in the plane of the
+surface (α = 90°).
+
+P'α = adjusted design value for a split ring or shear
+
+plate connector unit in a sloping surface,
+loaded in a direction parallel to the axis of cut
+(0° < α < 90°, ϕ = 0°).
+
+Q'α = adjusted design value for a split ring or shear
+
+plate connector unit in a sloping surface,
+loaded in a direction perpendicular to the axis
+of cut (0° < α < 90°, ϕ = 90°).
+
+N'α = adjusted design value for a split ring or shear
+
+plate connector unit in a sloping surface,
+where direction of load is at an angle ϕ from
+the axis of cut.
+
+Figure 13D
+Axis of Cut for Symmetrical Sloping
+End Cut
+
+Figure 13E
+Axis of Cut for Asymmetrical Sloping
+End Cut
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

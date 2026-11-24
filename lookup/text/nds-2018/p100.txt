@@ -1,0 +1,89 @@
+[nds-2018 | NDS-2018.pdf | pdf page 100 | printed page 88]
+
+88 DOWEL-TYPE FASTENERS
+
+Table 12.3.3B    Dowel Bearing Strengths for
+                 Wood Structural Panels
+                                   Dowel Bearing
+                       Specific1   Strength, Fe, in
+ Wood Structural       Gravity,  pounds per square
+ Panel                    G         inch (psi) for
+                                       D≤1/4"
+ Plywood
+   Structural 1, Marine  0.50           4650
+   Other Grades1         0.42           3350
+ Oriented Strand Board
+   All Grades
+
+0.50
+4650
+1. Use G = 0.42 when species of the plies is not known. When species of
+the plies is known, specific gravity listed for the actual species and the
+corresponding dowel bearing strength may be used, or the weighted
+average may be used for mixed species.
+
+12.3.8 Asymmetric Three Member
+Connections, Double Shear
+
+Reference lateral design values, Z, for asymmetric
+three member connections shall be the minimum com-
+puted yield mode value for symmetric double shear
+connections using the smaller dowel bearing length in
+the side member as
+
+ℓs and the minimum dowel diame-
+ter, D, occurring in either of the connection shear
+planes.
+
+12.3.9 Multiple Shear Connections
+
+For a connection with four or more members (see
+Figure 12D), each shear plane shall be evaluated as a
+single shear connection. The reference lateral design
+value, Z, for the connection shall be the lowest refer-
+ence lateral design value for any single shear plane,
+multiplied by the number of shear planes.
+
+Figure 12D
+Multiple Shear Bolted
+Connections
+
+12.3.10 Load at an Angle to Fastener Axis
+
+12.3.10.1 When the applied load in a single shear
+(two member) connection is at an angle (other than 90°)
+with the fastener axis, the fastener lengths in the two
+members shall be designated
+
+ℓs and
+
+ℓm (see Figure
+12E). The component of the load acting at 90° with the
+fastener axis shall not exceed the adjusted lateral design
+value, Z', for a connection in which two members at
+90° with the fastener axis have thicknesses ts =
+
+ℓs and tm
+=
+
+ℓm. Ample bearing area shall be provided to resist the
+load component acting parallel to the fastener axis.
+
+12.3.10.2 For toe-nailed connections, the minimum
+of ts or L/3 shall be used for
+
+ℓs (see Figure 12A).
+
+12.3.11 Drift Bolts and Drift Pins
+
+Adjusted lateral design values, Z', for drift bolts and
+drift pins driven in the side grain of wood shall not exceed
+75% of the adjusted lateral design values for common
+bolts of the same diameter and length in main member.
+
+Figure 12E
+Shear Area for Bolted
+Connections
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

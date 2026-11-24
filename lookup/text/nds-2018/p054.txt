@@ -1,0 +1,40 @@
+[nds-2018 | NDS-2018.pdf | pdf page 54 | printed page 42]
+
+42 STRUCTURAL GLUED LAMINATED TIMBER
+
+5.4.5 Notches
+
+5.4.5.1 The tension side of structural glued lami-
+nated timber bending members shall not be notched,
+except at ends of members for bearing over a support,
+and notch depth shall not exceed the lesser of 1/10 the
+depth of the member or 3".
+
+5.4.5.2 The compression side of structural glued
+laminated timber bending members shall not be
+notched, except at ends of members, and the notch
+depth on the compression side shall not exceed 2/5 the
+depth of the member. Compression side end-notches
+shall not extend into the middle 1/3 of the span.
+
+Exception: A taper cut on the compres-
+sion edge at the end of a structural glued
+
+laminated timber bending member shall
+not exceed 2/3 the depth of the member
+and the length shall not exceed three
+times the depth of the member, 3d. For
+tapered beams where the taper extends
+into the middle 1/3 of the span, design
+shall be in accordance with 5.4.4.
+
+5.4.5.3 Notches shall not be permitted on both the
+tension and compression face at the same cross-
+section.
+
+5.4.5.4 See 3.1.2 and 3.4.3 for the effect of notch-
+es on strength. The shear reduction factor from 5.3.10
+shall apply for the evaluation of members at notches.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

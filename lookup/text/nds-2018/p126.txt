@@ -1,0 +1,93 @@
+[nds-2018 | NDS-2018.pdf | pdf page 126 | printed page 114]
+
+114 DOWEL-TYPE FASTENERS
+NAILS
+
+Table 12Q COMMON, BOX, SINKER, or ROOF SHEATHING RING SHANK (RSRS) STEEL WIRE NAILS:
+
+Reference Lateral Design Values, Z, for Single Shear (two member) Connections1,2,3
+
+for sawn lumber or SCL with wood structural panel side members with an effective G=0.50
+(tabulated lateral design values are calculated based on an assumed length of nail
+penetration, p, into the main member equal to 10D)
+
+1. Tabulated lateral design values, Z, shall be multiplied by all applicable adjustment factors (see Table 11.3.1).
+2. Tabulated lateral design values, Z, are for common, box, or sinker steel wire nails (see Appendix Table L4) and for roof sheathing ring shank nails (see Appendix Table L6)
+inserted in side grain with nail axis perpendicular to wood fibers; nail penetration, p, into the main member equal to 10D and nail bending yield strengths, Fyb, of 100,000 psi for
+0.099" ≤ D ≤ 0.142", 90,000 psi for 0.142" < D ≤ 0.177", 80,000 psi for 0.177" < D ≤ 0.236", and 70,000 psi for 0.236" < D ≤ 0.273".
+3. Where the nail or spike penetration, p, is less than 10D but not less than 6D, tabulated lateral design values, Z, shall be multiplied by p/10D or lateral design values shall be
+calculated using the provisions of 12.3 for the reduced penetration.
+4. Nail length is insufficient to provide 10D penetration. Tabulated lateral design values, Z, shall be adjusted per footnote 3.
+5. Tabulated lateral design values, Z, shall be permitted to apply for greater side member thickness when adjusted per footnote 3.
+
+  ts     D
+ in.     in.  Pennyweight          lbs.        lbs.        lbs.        lbs.        lbs.       lbs.        lbs.        lbs.        lbs.        lbs.
+ 3/8   0.099       6d  7d           47          45         43          43          42          40          40         38          37          37
+       0.113   6d  8d  8d   01      60          56         54          54          52          51          50         47          47          46
+       0.120           10d  02      67          62         60          60          58          56          56         52          52          51
+       0.128      10d               75          70         68          67          65          63          63         59          58          57
+       0.131   8d           03      78          73         71          70          68          66          65         61          61          60
+       0.135      16d 12d           83          78         75          74          72          70          69         65          64          63
+       0.148  10d 20d 16d           94          88         85          84          82          79          78         73          72          71
+ 7/16  0.099       6d  7d          50          47          45          45          44          43         42          40          40          39
+       0.113   6d  8d  8d   01     62          58          56          56          55          53         52          49          49          48
+       0.120           10d  02     69          65          63          62          60          59         58          55          54          53
+       0.128      10d              77          72          70          69          68          66         65          61          60          59
+       0.131   8d           03     80          75          73          72          70          68         67          63          63          62
+       0.135      16d 12d          85          80          77          76          74          72         71          67          66          65
+       0.148  10d 20d 16d          96          90          87          86          84          81         80          76          75          73
+       0.162  16d 40d              114         106         102        101          99          96         95          89          88          86
+15/32  0.099       6d  7d          51          48          47          46          45          44         44          41          41          40
+       0.113   6d  8d  8d   01     64          60          58          57          56          54         54          51          50          49
+       0.120           10d  02     70          66          64          63          62          60         59          56          55          54
+       0.128      10d              78          74          71          71          69          67         66          62          62          61
+       0.131   8d           03     82          77          74          73          72          70         69          65          64          63
+       0.135      16d 12d          86          81          78          77          76          73         72          68          67          66
+       0.148  10d 20d 16d          97          91          88          87          85          83         82          77          76          75
+       0.162  16d 40d              115         108         104        103         100          97         96          90          89          88
+19/32  0.099       6d  7d          58          55          53          53          51          50         50          47          46          46
+       0.113   6d  8d  8d   01     70          66          64          64          62          61         60          57          56          55
+       0.120           10d  02     77          73          70          70          68          66         66          62          61          60
+       0.128      10d              85          80          78          77          75          73         72          68          68          67
+       0.131   8d           03     88          83          80          80          78          76         75          71          70          69
+       0.135      16d 12d          93          87          84          84          82          79         79          74          73          72
+       0.148  10d 20d 16d          104         98          95          94          92          89         88          83          82          81
+       0.162  16d 40d              121         114         110        109         107         103         102         96          95          94
+       0.177           20d         137         128         124        123         120         116         115         108         107        105
+       0.192  20d      30d         142         133         128        127         124         120         119         112         111        109
+23/32  0.099       6d  7d          62          58          55          55          53          51         51          47          47          46
+       0.113   6d  8d  8d   01     78          74          72          71          69          67         66          62          61          60
+       0.120           10d  02     85          80          78          77          76          73         73          69          68          67
+       0.128      10d              93          88          85          85          83          80         80          75          75          74
+       0.131   8d           03     96          91          88          87          86          83         82          78          77          76
+       0.135      16d 12d          101         95          92          91          89          87         86          81          81          79
+       0.148  10d 20d 16d          113         106         103        102         100          97         96          91          90          89
+       0.162  16d 40d              130         122         118        117         115         111         110         104         103        102
+       0.177           20d         145         137         132        131         128         124         123         116         115        113
+       0.192  20d      30d         150         141         136        135         132         128         127         120         118        116
+  1    0.0995      6d  7d          62          58          55          55          53          51         51          47          47          46
+       0.1135 6d4  8d  8d   01     81          75          72          71          69          67         66          62          61          60
+       0.1205          10d  02     92          85          81          81          78          76         75          69          69          67
+       0.128      10d              104         97          93          92          89          86         85          79          78          77
+       0.131   8d           03     109         101         97          96          93          90         89          83          82          80
+       0.135      16d 12d          116         108         103        102          99          96         94          88          87          85
+       0.148  10d 20d 16d          132         123         118        116         113         109         108         100         99          97
+       0.162  16d 40d              154         146         141        139         135         131         129         120         119        116
+       0.177           20d         169         160         155        154         151         146         145         137         136        134
+       0.192  20d      30d         174         164         159        158         155         150         149         141         140        138
+1-1/8  0.1285     10d              104         97          93          92          89          86         85          79          78          77
+       0.1315  8d           03     109         101         97          96          93          90         89          83          82          80
+       0.1355     16d 12d          116         108         103        102          99          96         94          88          87          85
+       0.1485 10d 20d 16d          132         123         118        116         113         109         108         100         99          97
+       0.162  16d 40d              158         147         141        139         135         131         129         120         119        116
+       0.177           20d         181         170         163        161         157         151         149         139         137        135
+       0.192  20d      30d         186         176         170        168         163         157         155         145         143        140
+1-1/4  0.148  10d 20d 16d          132         123         118        116         113         109         108         100         99          97
+       0.162  16d 40d              158         147         141        139         135         131         129         120         119        116
+       0.177           20d         183         170         163        161         157         151         149         139         137        135
+       0.192  20d      30d         191         177         170        168         163         157         155         145         143        140
+
+[text in another orientation] Side Member Thickness | Nail Diameter | Common Wire Nail | Box Nail | Sinker Nail | RSRS (Dash No.) | G=0.67 Red Oak | G=0.55 Mixed Maple Southern Pine | G=0.5 Douglas Fir-Larch | G=0.49 Douglas Fir-Larch (N) | G=0.46 Douglas Fir(S) Hem-Fir(N) | G=0.43 Hem-Fir | G=0.42 Spruce-Pine-Fir | G=0.37 Redwood | G=0.36 Eastern Softwoods Spruce-Pine-Fir(S) Western Cedars Western Woods | G=0.35 Northern Species
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

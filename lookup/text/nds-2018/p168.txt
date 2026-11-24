@@ -1,0 +1,31 @@
+[nds-2018 | NDS-2018.pdf | pdf page 168 | printed page 156]
+
+156 FIRE DESIGN OF WOOD MEMBERS
+
+Table 16.2.2 Adjustment Factors for Fire Design1
+
+ASD
+
+Bending Strength              Fb     x        2.85    CF      CV     Cfu    CL       -
+Beam Buckling Strength        FbE    x        2.03     -      -       -      -       -
+Tensile Strength              Ft     x        2.85    CF      -       -      -       -
+Compressive Strength          Fc     x        2.58    CF      -       -      -      CP
+Column Buckling Strength      FcE    x        2.03     -      -       -      -       -
+
+1. See 4.3, 5.3, 8.3, and 10.3 for applicability of adjustment factors for specific products.
+2. Factor shall be based on initial cross-section dimensions.
+3. Factor shall be based on reduced cross-section dimensions.
+
+16.3 Wood Connections
+
+Wood connections, including connectors, fasteners,
+and portions of wood members included in the connec-
+tion design, shall be protected from fire exposure for
+the required fire resistance time. Protection shall be
+provided by wood, fire-rated gypsum board, other ap-
+proved materials, or a combination thereof.
+
+[text in another orientation] Design Stress to Member Strength Factor | Size Factor 2 | Volume Factor 2 | Flat Use Factor 2 | Beam Stability Factor 3 | Column Stability Factor 3
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

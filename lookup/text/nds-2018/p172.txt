@@ -1,0 +1,122 @@
+[nds-2018 | NDS-2018.pdf | pdf page 172 | printed page 160]
+
+160 APPENDIX
+
+Appendix B
+(Non-mandatory) Load Duration (ASD Only)
+
+B.1 Adjustment of Reference Design Values
+for Load Duration
+
+B.1.1 Normal Load Duration. The reference design
+values in this Specification are for normal load dura-
+tion. Normal load duration contemplates fully stressing
+a member to its allowable design value by the applica-
+tion of the full design load for a cumulative duration of
+approximately 10 years and/or the application of 90%
+of the full design load continuously throughout the re-
+mainder of the life of the structure, without encroaching
+on the factor of safety.
+
+B.1.2 Other Load Durations. Since tests have
+shown that wood has the property of carrying substan-
+tially greater maximum loads for short durations than
+for long durations of loading, reference design values
+for normal load duration shall be multiplied by load
+duration factors, CD, for other durations of load (see
+Figure B1). Load duration factors do not apply to refer-
+ence modulus of elasticity design values, E, nor to ref-
+erence compression design values perpendicular to
+grain, Fc⊥, based on a deformation limit.
+
+(a) When the member is fully stressed to the ad-
+
+justed design value by application of the full
+design load permanently, or for a cumulative
+total of more than 10 years, reference design
+values for normal load duration (except E and
+Fc⊥ based on a deformation limit) shall be mul-
+tiplied by the load duration factor, CD = 0.90.
+(b) Likewise, when the duration of the full design
+
+load does not exceed the following durations,
+reference design values for normal load dura-
+tion (except E and Fc⊥ based on a deformation
+limit) shall be multiplied by the following load
+duration factors:
+
+   CD        Load Duration
+   1.15      two months duration
+   1.25      seven days duration
+   1.6       ten minutes duration
+   2.0       impact
+(c) The 2 month load duration factor, CD = 1.15, is
+
+applicable to design snow loads based on
+ASCE 7. Other load duration factors shall be
+permitted to be used where such adjustments
+are referenced to the duration of the design
+snow load in the specific location being con-
+sidered.
+(d) The 10 minutes load duration factor, CD = 1.6,
+
+is applicable to design earthquake loads and
+design wind loads based on ASCE 7.
+(e) Load duration factors greater than 1.6 shall not
+
+apply to structural members pressure-treated
+with water-borne preservatives (see Reference
+30), or fire retardant chemicals. The impact
+load duration factor shall not apply to connec-
+tions.
+
+B.2 Combinations of Loads of Different
+Durations
+
+When loads of different durations are applied sim-
+ultaneously to members which have full lateral support
+to prevent buckling, the design of structural members
+and connections shall be based on the critical load
+combination determined from the following proce-
+dures:
+
+(a) Determine the magnitude of each load that will
+
+occur on a structural member and accumulate
+subtotals of combinations of these loads. De-
+sign loads established by applicable building
+codes and standards may include load combina-
+tion factors to adjust for probability of simulta-
+neous occurrence of various loads (see Appen-
+dix B.4). Such load combination factors should
+be included in the load combination subtotals.
+(b) Divide each subtotal by the load duration fac-
+
+tor, CD, for the shortest duration load in the
+combination of loads under consideration.
+Shortest Load Duration in
+the Combination of Loads
+
+                              Load Duration
+                              Factor, CD
+Permanent                           0.9
+Normal                              1.0
+Two Months                          1.15
+Seven Days                          1.25
+Ten Minutes                         1.6
+Impact                              2.0
+   (c) The largest value thus obtained indicates the
+
+critical load combination to be used in design-
+ing the structural member or connection.
+EXAMPLE: Determine the critical load combina-
+tion for a structural member subjected to the following
+loads established by applicable building code or stand-
+ard:
+
+D =
+dead load
+L = live load
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

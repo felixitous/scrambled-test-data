@@ -1,0 +1,91 @@
+[nds-2018 | NDS-2018.pdf | pdf page 7 | printed page v]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION v
+
+TABLE OF CONTENTS FOR THE NDS
+Part/Title                                     Page    Part/Title                                     Page
+1    General Requirements for Structural               7    Prefabricated Wood I-Joists................47
+     Design.....................................................1 7.1 General                          48
+       1.1  Scope                                2            7.2  Reference Design Values             48
+       1.2  General Requirements                 2            7.3  Adjustment of Reference Design
+       1.3  Standard as a Whole                  2                 Values                              48
+       1.4  Design Procedures                    2            7.4  Special Design Considerations       50
+       1.5  Specifications and Plans             3
+       1.6  Notation                             3     8    Structural Composite Lumber.............51
+                                                              8.1  General                             52
+                                                              8.2  Reference Design Values             52
+                                                              8.3  Adjustment of Reference Design
+                                                                   Values                              52
+                                                              8.4  Special Design Considerations       54
+                                                       9    Wood Structural Panels.......................55
+                                                              9.1  General                             56
+                                                              9.2  Reference Design Values             56
+                                                              9.3  Adjustment of Reference Design
+                                                                   Values                              57
+                                                              9.4  Design Considerations               58
+                                                       10   Cross- Laminated Timber.....................59
+                                                              10.1 General                             60
+                                                              10.2 Reference Design Values             60
+                                                              10.3 Adjustment of Reference Design
+                                                                   Values                              60
+                                                              10.4 Special Design Considerations       62
+                                                       11   Mechanical Connections.....................63
+                                                              11.1 General                             64
+                                                              11.2 Reference Design Values             65
+                                                              11.3 Adjustment of Reference Design
+                                                                   Values                              65
+                                                       12   Dowel-Type Fasteners..........................73
+                                                              12.1 General                             74
+                                                              12.2 Reference Withdrawal Design Values  76
+                                                              12.3 Reference Lateral Design Values     83
+                                                              12.4 Combined Lateral and Withdrawal
+                                                                   Loads                               89
+                                                              12.5 Adjustment of Reference Design
+                                                                   Values                              89
+                                                              12.6 Multiple Fasteners                  93
+                                                       13   Split Ring and Shear Plate
+                                                            Connectors.........................................119
+                                                              13.1 General                            120
+                                                              13.2 Reference Design Values            121
+                                                              13.3 Placement of Split Ring and Shear
+                                                                   Plate Connectors                   127
+
+2
+Design Values for Structural
+Members.................................................9
+
+       2.1  General                             10
+       2.2  Reference Design Values             10
+       2.3  Adjustment of Reference Design
+            Values                              10
+3    Design Provisions and Equations.......13
+       3.1  General                             14
+       3.2  Bending Members – General           15
+       3.3  Bending Members – Flexure           15
+       3.4  Bending Members – Shear             17
+       3.5  Bending Members – Deflection        19
+       3.6  Compression Members – General       20
+       3.7  Solid Columns                       21
+       3.8  Tension Members                     22
+       3.9  Combined Bending and Axial Loading  22
+       3.10 Design for Bearing                  23
+4    Sawn Lumber........................................25
+       4.1  General                             26
+       4.2  Reference Design Values             27
+       4.3  Adjustment of Reference Design
+            Values                              28
+       4.4  Special Design Considerations       31
+5    Structural Glued Laminated Timber...33
+       5.1  General                             34
+       5.2  Reference Design Values             35
+       5.3  Adjustment of Reference Design
+            Values                              36
+       5.4  Special Design Considerations       39
+6    Round Timber Poles and Piles............43
+       6.1  General                             44
+       6.2  Reference Design Values             44
+       6.3  Adjustment of Reference Design
+            Values                              44
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

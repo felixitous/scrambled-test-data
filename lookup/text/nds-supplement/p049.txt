@@ -1,0 +1,81 @@
+[nds-supplement | NDS_supplement.pdf | pdf page 49 | printed page 41]
+
+DESIGN VALUES FOR WOOD CONSTRUCTION – NDS SUPPLEMENT 41
+REFERENCE DESIGN VALUES
+4
+
+(Cont.)
+Table 4B
+Reference Design Values for Visually Graded Southern Pine Dimension Lumber
+(2" - 4" thick)1,2,3,4,5
+
+(Tabulated design values are for normal load duration and dry service conditions, unless specified
+otherwise. See NDS 4.3 for a comprehensive description of design value adjustment factors.)
+
+                                              USE WITH TABLE 4B ADJUSTMENT FACTORS
+                                                                  Design values in pounds per square inch (psi)
+                                                       Tension     Shear     Compression    Compression                                      Grading
+   Species and commercial         Size                 parallel   parallel  perpendicular      parallel                             Specific  Rules
+           grade              classification Bending   to grain   to grain     to grain        to grain      Modulus of Elasticity  Gravity6  Agency
+                                               Fb         Ft        Fv           Fc⊥             Fc             E          Emin        G
+SOUTHERN PINE                                                (Surfaced Dry - Used in dry service condtions - 19% or less moisture content)
+Dense Structural 86                           2,600     1,750       175          660            2,000       1,800,000    660,000
+Dense Structural 72            2" & wider     2,200     1,450       175          660            1,650       1,800,000    660,000      0.55     SPIB
+Dense Structural 65                           2,000     1,300       175          660            1,500       1,800,000    660,000
+Dense Structural 86                           2,100     1,400       165          440            1,300       1,600,000    580,000
+Dense Structural 72           2-1/2" & wider  1,750     1,200       165          440            1,100       1,600,000    580,000      0.55     SPIB
+Dense Structural 65           2-1/2"-4" thick 1,600     1,050       165          440            1,000       1,600,000    580,000
+MIXED SOUTHERN PINE
+Select Structural                             2,050     1,200       175          565            1,800       1,600,000    580,000
+No.1                           2" - 4" wide   1,450      875        175          565            1,650       1,500,000    550,000      0.51
+No.2                                          1,100      675        175          565            1,450       1,400,000    510,000
+No.3 and Stud                                  650       400        175          565             850        1,200,000    440,000
+Construction                                   850       500        175          565            1,600       1,300,000    470,000
+Standard                         4" wide       475       275        175          565            1,300       1,200,000    440,000      0.51
+Utility                                        225       125        175          565             850        1,100,000    400,000
+Select Structural                             1,850     1,100       175          565            1,700       1,600,000    580,000
+No.1                           5" - 6" wide   1,300      750        175          565            1,550       1,500,000    550,000      0.51
+No.2                                          1,000      600        175          565            1,400       1,400,000    510,000
+No.3 and Stud                                  575       350        175          565             775        1,200,000    440,000
+Select Structural                             1,750     1,000       175          565            1,600       1,600,000    580,000               SPIB
+No.1                             8" wide      1,200      700        175          565            1,450       1,500,000    550,000
+No.2                                           925       550        175          565            1,350       1,400,000    510,000      0.51
+No.3 and Stud                                  525       325        175          565             800        1,200,000    440,000
+Select Structural                             1,500      875        175          565            1,600       1,600,000    580,000
+No.1                            10" wide      1,050      600        175          565            1,450       1,500,000    550,000
+No.2                                           800       475        175          565            1,300       1,400,000    510,000      0.51
+No.3 and Stud                                  475       275        175          565             750        1,200,000    440,000
+Select Structural                             1,400      825        175          565            1,550       1,600,000    580,000
+No.1                            12" wide       975       575        175          565            1,400       1,500,000    550,000
+No.2                                           750       450        175          565            1,250       1,400,000    510,000      0.51
+No.3 and Stud                                  450       250        175          565             725        1,200,000    440,000
+
+SOUTHERN PINE
+(Surfaced Green - Used in any service condtion)
+
+1. LUMBER DIMENSIONS. Tabulated design values are applicable to lumber that will be used under dry conditions such as in most covered structures. For 2"
+to 4" thick lumber the DRY dressed sizes shall be used (see Table 1A) regardless of the moisture content at the time of manufacture or use. In calculating design
+values, the natural gain in strength and stiffness that occurs as lumber dries has been taken into consideration as well as the reduction in size that occurs when
+unseasoned lumber shrinks. The gain in load carrying capacity due to increased strength and stiffness resulting from drying more than offsets the design effect of
+size reductions due to shrinkage.
+2. STRESS-RATED BOARDS. Information for various grades of Southern Pine stress-rated boards of nominal 1", 1-¼", and 1-½" thickness, 2" and wider is avail-
+able from the Southern Pine Inspection Bureau (SPIB) in the Standard Grading Rules for Southern Pine Lumber.
+3. SPRUCE PINE. To obtain recommended design values for Spruce Pine graded to SPIB rules, multiply the appropriate design values for Mixed Southern Pine by
+the corresponding conversion factor shown below and round to the nearest 100,000 psi for E; to the nearest 10,000 psi for E; to the next lower multiple of 5 psi
+for Fv and Fc⊥; to the next lower multiple of 50 psi for Fb, Ft, and Fc if 1,000 psi or greater, 25 psi otherwise.
+
+                  CONVERSION FACTORS FOR DETERMINING DESIGN VALUES FOR SPRUCE PINE
+                                              Tension           Shear         Compression          Compression         Modulus
+                                              parallel         parallel       perpendicular           parallel             of
+                            Bending           to grain         to grain          to grain             to grain         Elasticity
+                                Fb               Ft                Fv                Fc⊥                  Fc          E and Emin
+          Conversion
+             Factor            0.78             0.78              0.98              0.73                 0.78             0.82
+4. SIZE FACTOR. For sizes wider than 12", use size factors for Fb, Ft, and Fc specified for the 12" width. Use 100% of the Fv, Fc⊥, E, and Emin specified for the 12"
+  width.
+5. When individual species or species groups are combined, the design values to be used for the combination shall be the lowest design values for each individual
+  species or species group for each design property.
+6. Specific gravity, G, based on weight and volume when oven-dry.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

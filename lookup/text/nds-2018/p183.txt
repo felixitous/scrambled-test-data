@@ -1,0 +1,60 @@
+[nds-2018 | NDS-2018.pdf | pdf page 183 | printed page 171]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 171
+APPENDIX
+A
+
+Appendix G (Non-mandatory) Effective Column Length
+
+G.1
+
+The effective column length of a compression
+member is the distance between two points along its
+length at which the member is assumed to buckle in the
+shape of a sine wave.
+
+G.2
+
+The effective column length is dependent on the
+values of end fixity and lateral translation (deflection)
+associated with the ends of columns and points of lat-
+eral support between the ends of column. It is recom-
+mended that the effective length of columns be deter-
+mined in accordance with good engineering practice.
+Lower values of effective length will be associated with
+more end fixity and less lateral translation while higher
+values will be associated with less end fixity and more
+lateral translation.
+
+G.3
+
+In lieu of calculating the effective column length
+from available engineering experience and methodolo-
+gy, the buckling length coefficients, Ke, given in Table
+G1 shall be permitted to be multiplied by the actual
+column length,
+
+ℓ, or by the length of column between
+lateral supports to calculate the effective column length,
+
+ℓe.
+
+G.4
+
+Where the bending stiffness of the frame itself pro-
+vides support against buckling, the buckling length co-
+efficient, Ke, for an unbraced length of column,
+
+ℓ, is
+dependent upon the amount of bending stiffness pro-
+vided by the other in-plane members entering the con-
+nection at each end of the unbraced segment. If the
+combined stiffness from these members is sufficiently
+small relative to that of the unbraced column segments,
+Ke could exceed the values given in Table G1.
+
+Table G1
+Buckling Length Coefficients, Ke
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

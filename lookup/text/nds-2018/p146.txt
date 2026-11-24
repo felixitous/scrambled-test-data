@@ -1,0 +1,112 @@
+[nds-2018 | NDS-2018.pdf | pdf page 146 | printed page 134]
+
+134 TIMBER RIVETS
+
+14.1 General
+
+14.1.1 Scope
+
+Chapter 14 applies to the engineering design of tim-
+ber rivet connections with steel side plates on Douglas
+Fir-Larch or Southern Pine structural glued laminated
+timber complying with Chapter 5 and loaded in single
+shear. Design of timber rivet connections in cross-
+laminated timber is beyond the scope of these provi-
+sions.
+
+14.1.2 Quality of Rivets and Steel Side
+Plates
+
+14.1.2.1 Design provisions and reference design
+values herein apply to timber rivets that are hot-dip
+galvanized in accordance with ASTM A 153 and manu-
+factured from AISI 1035 steel to have the following
+properties tested in accordance with ASTM A 370:
+
+Hardness
+Ultimate tensile strength, Fu
+Rockwell C32-39
+145,000 psi, minimum
+See Appendix M for rivet dimensions.
+
+14.1.2.2 Steel side plates shall conform to ASTM
+Standard A 36 with a minimum 1/8" thickness. See
+Appendix M for steel side plate dimensions.
+
+14.1.2.3 For wet service conditions, steel side
+plates shall be hot-dip galvanized in accordance with
+ASTM A 153.
+
+14.1.3 Fabrication and Assembly
+
+14.1.3.1 Each rivet shall, in all cases, be placed
+with its major cross-sectional dimension aligned paral-
+lel to the grain. Design criteria are based on rivets driv-
+en through circular holes in the side plates until the
+conical heads are firmly seated, but rivets shall not be
+driven flush. (Timber rivets at the perimeter of the
+group shall be driven first. Successive timber rivets
+shall be driven in a spiral pattern from the outside to the
+center of the group.)
+
+14.1.3.2 The maximum penetration of any rivet
+shall be 70% of the thickness of the wood member. Ex-
+cept as permitted by 14.1.3.3, for joints with rivets
+driven from opposite faces of a wood member, the rivet
+length shall be such that the points do not overlap.
+
+14.1.3.3 For joints where rivets are driven from op-
+posite faces of a wood member such that their points
+overlap, the minimum spacing requirements of 14.3.1
+shall apply to the distance between the rivets at their
+points and the maximum penetration requirement of
+14.1.3.2 shall apply. The reference lateral design value
+of the connection shall be calculated in accordance with
+14.2 considering the connection to be a one sided tim-
+ber rivet joint, with:
+
+(a) the number of rivets associated with the one
+
+plate equalling the total number of rivets at the
+joint, and
+(b) sp and sq determined as the distances between
+
+the rivets at their points.
+
+14.2 Reference Design Values
+
+14.2.1 Parallel to Grain Loading
+
+For timber rivet connections (one plate and rivets
+associated with it) where:
+
+(a) the load acts perpendicular to the axis of the
+
+timber rivets
+(b) member thicknesses, edge distances, end dis-
+
+tances, and spacing are sufficient to develop
+full adjusted design values (see 14.3)
+(c) timber rivets are installed in the side grain of
+
+wood members the reference design value per
+rivet joint parallel to grain, P, shall be calculat-
+ed as the lesser of reference rivet capacity, Pr,
+and reference wood capacity, Pw:
+
+Pr = 188 p0.32 nR nC
+(14.2-1)
+
+Pw = reference wood capacity design values paral-
+
+lel to grain (Tables 14.2.1A through 14.2.1F)
+using wood member thickness for the mem-
+ber dimension in Tables 14.2.1A through
+14.2.1F for connections with steel plates on
+opposite sides; and twice the wood member
+thickness for the member dimension in Ta-
+bles 14.2.1A through 14.2.1F for connections
+having only one plate, lbs.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

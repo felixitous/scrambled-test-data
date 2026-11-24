@@ -1,0 +1,36 @@
+[nds-2018 | NDS-2018.pdf | pdf page 104 | printed page 92]
+
+92 DOWEL-TYPE FASTENERS
+
+Table 12.5.1G   End Distance, Edge Distance
+                and Fastener Spacing
+                Requirements in Narrow Edge
+                of Cross-Laminated Timber
+                (see Figure 12I)
+                                       Minimum
+                                        Spacing
+                    Minimum  Minimum      for
+                      End      Edge    Fasteners
+ Direction of Loading Distance Distance in a Row
+ Perpendicular to Plane
+ of CLT               4D
+ Parallel to Plane of
+ CLT, Compression:    4D
+ (fastener bearing away          3D       4D
+ from member end)
+ Parallel to Plane of
+ CLT, Tension: (fas-  7D
+ tener bearing toward
+ member end)
+Figure 12H      Spacing Between Outer Rows
+                of Bolts
+
+Figure 12I
+
+End Distance, Edge Distance
+and Fastener Spacing
+Requirements in Narrow Edge
+of Cross-Laminated Timber
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

@@ -1,0 +1,77 @@
+[nds-2018 | NDS-2018.pdf | pdf page 46 | printed page 34]
+
+34 STRUCTURAL GLUED LAMINATED TIMBER
+
+5.1 General
+
+5.1.1 Scope
+
+5.1.1.1 Chapter 5 applies to engineering design
+with structural glued laminated timber. Basic require-
+ments are provided in this Specification; for additional
+detail, see Reference 52.
+
+5.1.1.2 Design procedures, reference design values
+and other information provided herein apply only to
+structural glued laminated timber conforming to all per-
+tinent provisions of the specifications referenced in the
+footnotes to Tables 5A, 5B, 5C, and 5D and produced
+in accordance with ANSI A190.1.
+
+5.1.2 Definition
+
+The term “structural glued laminated timber” refers
+to an engineered, stress rated product of a timber lami-
+nating plant, comprising assemblies of specially select-
+ed and prepared wood laminations bonded together
+with adhesives. The grain of all laminations is approx-
+imately parallel longitudinally. The separate lamina-
+tions shall not exceed 2" in net thickness and are per-
+mitted to be comprised of:
+
+• one piece
+• pieces joined end-to-end to form any length
+• pieces placed or glued edge-to-edge to make wid-
+er ones
+• pieces bent to curved form during gluing.
+
+5.1.3 Standard Sizes
+
+5.1.3.1 Normal standard finished widths of struc-
+tural glued laminated members shall be as shown in
+Table 5.1.3. This Specification is not intended to pro-
+hibit other finished widths where required to meet the
+size requirements of a design or to meet other special
+requirements.
+
+5.1.3.2 The length and net dimensions of all mem-
+bers shall be specified. Additional dimensions neces-
+sary to define non-prismatic members shall be speci-
+fied.
+
+Table 5.1.3       Net Finished Widths of
+                  Structural Glued Laminated
+                  Timbers
+  Nominal
+  Width of  3     4     6    8    10    12    14   16
+Laminations
+   (in.)
+                           Western Species
+  FinishedNet 2-½ 3-1/8 5-1/8 6-¾ 8-¾  10-¾  12-¼  14-¼
+ Width (in.)               Southern Pine
+           2-½  3-1/8 5-1/8 6-¾   8-½  10-½  12-½  14-½
+5.1.4 Service Conditions
+
+5.1.4.1 Reference design values for dry service
+conditions shall apply when the moisture content in
+service is less than 16%, as in most covered structures.
+
+5.1.4.2 Reference design values for glued laminated
+timber shall be multiplied by the wet service factors,
+CM, specified in Tables 5A, 5B, 5C, and 5D when the
+moisture content in service is 16% or greater, as may
+occur in exterior or submerged construction, or humid
+environments.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

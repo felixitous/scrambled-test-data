@@ -1,0 +1,111 @@
+[nds-2018 | NDS-2018.pdf | pdf page 30 | printed page 18]
+
+18 DESIGN PROVISIONS AND EQUATIONS
+
+(b) The largest single moving load shall be placed
+
+at a distance from the support equal to the
+depth of the bending member, keeping other
+loads in their normal relation and neglecting
+any load within a distance from a support equal
+to the depth of the bending member. This con-
+dition shall be checked at each support.
+(c) With two or more moving loads of about equal
+
+weight and in proximity, loads shall be placed
+in the position that produces the highest shear
+force, V, neglecting any load within a distance
+from a support equal to the depth of the bend-
+ing member.
+3.4.3.2 For notched bending members, shear force,
+V, shall be determined by principles of engineering me-
+chanics (except those given in 3.4.3.1).
+
+(a) For bending members with rectangular cross
+
+section and notched on the tension face (see
+3.2.3), the adjusted design shear, Vr', shall be
+calculated as follows:
+
+    V ′ = ⎡ 2 F ′bd ⎤ ⎡ dn ⎤2                  (3.4-3)
+     r   ⎢⎣ 3 v  n ⎥⎦⎣⎢ d ⎥⎦
+where:
+        d = depth of unnotched bending member, in.
+       dn = depth of member remaining at a notch
+            measured perpendicular to length of mem-
+            ber, in.
+       Fv' = adjusted shear design value parallel to grain,
+            psi
+    (b) For bending members with circular cross sec-
+
+tion and notched on the tension face (see 3.2.3),
+the adjusted design shear, Vr', shall be calculat-
+ed as follows:
+
+    V ′ = ⎡ 2 F ′A ⎤ ⎡ dn ⎤2                  (3.4-4)
+     r   ⎢⎣ 3 v n ⎥⎦⎣⎢ d ⎥⎦
+where:
+       An = cross-sectional area of notched member, in2
+
+(c) For bending members with other than rectangu-
+
+lar or circular cross section and notched on the
+tension face (see 3.2.3), the adjusted design
+shear, Vr', shall be based on conventional engi-
+neering analysis of stress concentrations at
+notches.
+(d) A gradual change in cross section compared
+
+with a square notch decreases the actual shear
+
+stress parallel to grain nearly to that computed
+for an unnotched bending member with a depth
+of dn.
+(e) When a bending member is notched on the
+
+compression face at the end as shown in Figure
+3D, the adjusted design shear, Vr', shall be cal-
+culated as follows:
+
+    V ′ = 2 F ′b ⎡⎢d − ⎛⎜ d − dn ⎞⎟ e⎤⎥        (3.4-5)
+      r   3  v  ⎣   ⎝   dn  ⎠  ⎦
+where:
+        e = the distance the notch extends from the inner
+
+edge of the support and must be less than or
+equal to the depth remaining at the notch, e
+≤ dn. If e > dn, dn shall be used to calculate fv
+using Equation 3.4-2, in.
+
+dn = depth of member remaining at a notch meet-
+
+ing the provisions of 3.2.3, measured per-
+pendicular to length of member. If the end of
+the beam is beveled, as shown by the dashed
+line in Figure 3D, dn is measured from the in-
+ner edge of the support, in.
+
+Figure 3D
+Bending Member End-Notched on
+Compression Face
+
+3.4.3.3 When connections in bending members are
+fastened with split ring connectors, shear plate connect-
+ors, bolts, or lag screws (including beams supported by
+such fasteners or other cases as shown in Figures 3E
+and 3I) the shear force, V, shall be determined by prin-
+ciples of engineering mechanics (except those given in
+3.4.3.1).
+(a) Where the connection is less than five times the
+
+depth, 5d, of the member from its end, the ad-
+justed design shear, Vr', shall be calculated as
+follows:
+
+V ′ = ⎡ 2 F ′bd  ⎤ ⎡ de ⎤2
+ r    ⎢⎣ 3 v   e ⎥⎦⎣⎢ d ⎥⎦
+
+(3.4-6)
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

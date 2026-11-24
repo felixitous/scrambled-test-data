@@ -1,0 +1,75 @@
+[nds-2018 | NDS-2018.pdf | pdf page 74 | printed page 62]
+
+62 CROSS-LAMINATED TIMBER
+
+1.6 shall not apply to structural members pressure-
+treated with water-borne preservatives.
+
+10.3.10 Format Conversion Factor, KF (LRFD
+only)
+
+For LRFD, reference design values shall be multi-
+plied by the format conversion factor, KF, specified in
+Table 10.3.1
+
+10.3.11 Resistance Factor, φ (LRFD only)
+
+For LRFD, reference design values shall be multi-
+plied by the resistance factor, φ, specified in Table
+10.3.1.
+
+10.3.12 Time Effect Factor, λ (LRFD only)
+
+For LRFD, reference design values shall be multi-
+plied by the time effect factor, λ, specified in Appendix
+N.3.3.
+
+10.4 Special Design Considerations
+
+10.4.1 Deflection
+
+10.4.1.1 Where reference design values for bending
+stiffness have not been adjusted to include the effects of
+shear deformation, the shear component of the total
+deflection of a cross-laminated timber element shall be
+determined in accordance with principles of engineer-
+ing mechanics. One method of designing for shear de-
+formation is to reduce the effective bending stiffness,
+EIeff, for the effects of shear deformation which is a
+function of loading and support conditions, beam ge-
+ometry, span and the effective shear stiffness, GAeff.
+For the cases addressed in Table 10.4.1.1, the apparent
+bending stiffness, (EI)app, adjusted for shear defor-
+mation shall be calculated as follows:
+
+     (EI)    =      EIeff                             (10.4-1)
+         app      +  KsEIeff
+                1           2
+                    GAeffL
+where:
+       EIeff = Effective bending stiffness of the CLT section, lbs-
+              in.2/ft of panel width
+        Ks = Shear deformation adjustment factor
+      GAeff = Effective shear stiffness of the CLT section, lbs/ft
+              of panel width
+         L = Span of the CLT section, in.
+
+Table 10.4.1.1      Shear Deformation
+                    Adjustment Factors, Ks
+ Loading                       End Fixity         Ks
+                               Pinned            11.5
+ Uniformly Distributed
+                               Fixed             57.6
+                               Pinned            14.4
+ Line Load at midspan
+                               Fixed             57.6
+ Line Load at quarter points   Pinned            10.5
+ Constant Moment               Pinned              0
+ Uniformly Distributed         Cantilevered       4.8
+ Line Load at free-end         Cantilevered       3.6
+                               Pinned            11.8
+ Column Buckling
+                               Fixed             47.4
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

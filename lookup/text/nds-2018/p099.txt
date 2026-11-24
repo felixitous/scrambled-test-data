@@ -1,0 +1,62 @@
+[nds-2018 | NDS-2018.pdf | pdf page 99 | printed page 87]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 87
+DOWEL-TYPE FASTENERS
+12
+
+Table 12.3.3A           Assigned Specific Gravities
+                                           Specific1                                                                                    Specific1
+ Species Combination                       Gravity, G                 Species Combinations of MSR and MEL Lumber                        Gravity, G
+ Alaska Cedar                                     0.47                Douglas Fir-Larch
+ Alaska Hemlock                                   0.46                    E=1,900,000 psi and lower grades of MSR                             0.50
+ Alaska Spruce                                    0.41                    E=2,000,000 psi grades of MSR                                       0.51
+ Alaska Yellow Cedar                              0.46                    E=2,100,000 psi grades of MSR                                       0.52
+ Aspen                                            0.39                    E=2,200,000 psi grades of MSR                                       0.53
+ Balsam Fir                                       0.36                    E=2,300,000 psi grades of MSR                                       0.54
+ Beech-Birch-Hickory                              0.71                    E=2,400,000 psi grades of MSR                                       0.55
+ Coast Sitka Spruce                               0.39                Douglas Fir-Larch (North)
+ Cottonwood                                       0.41                    E=1,900,000 psi and lower grades of MSR and MEL                     0.49
+ Douglas Fir-Larch                                0.50                    E=2,000,000 psi to 2,200,000 psi grades of MSR and MEL              0.53
+ Douglas Fir-Larch (North)                        0.49                    E=2,300,000 psi and higher grades of MSR and MEL                    0.57
+ Douglas Fir-South                                0.46                Douglas Fir-Larch (South)
+ Eastern Hemlock                                  0.41                    E=1,000,000 psi and higher grades of MSR                            0.46
+ Eastern Hemlock-Balsam Fir                       0.36                Engelmann Spruce-Lodgepole Pine
+ Eastern Hemlock-Tamarack                         0.41                    E=1,400,000 psi and lower grades of MSR                             0.38
+ Eastern Hemlock-Tamarack (North)                 0.47                    E=1,500,000 psi and higher grades of MSR                            0.46
+ Eastern Softwoods                                0.36                Hem-Fir
+ Eastern Spruce                                   0.41                    E=1,500,000 psi and lower grades of MSR                             0.43
+ Eastern White Pine                               0.36                    E=1,600,000 psi grades of MSR                                       0.44
+ Engelmann Spruce-Lodgepole Pine                  0.38                    E=1,700,000 psi grades of MSR                                       0.45
+ Hem-Fir                                          0.43                    E=1,800,000 psi grades of MSR                                       0.46
+ Hem-Fir (North)                                  0.46                    E=1,900,000 psi grades of MSR                                       0.47
+ Mixed Maple                                      0.55                    E=2,000,000 psi grades of MSR                                       0.48
+ Mixed Oak                                        0.68                    E=2,100,000 psi grades of MSR                                       0.49
+ Mixed Southern Pine                              0.51                    E=2,200,000 psi grades of MSR                                       0.50
+ Mountain Hemlock                                 0.47                    E=2,300,000 psi grades of MSR                                       0.51
+ Northern Pine                                    0.42                    E=2,400,000 psi grades of MSR                                       0.52
+ Northern Red Oak                                 0.68                Hem-Fir (North)
+ Northern Species                                 0.35                    E=1,000,000 psi and higher grades of MSR and MEL                    0.46
+ Northern White Cedar                             0.31                Southern Pine
+ Ponderosa Pine                                   0.43                    E=1,700,000 psi and lower grades of MSR and MEL                     0.55
+ Red Maple                                        0.58                    E=1,800,000 psi and higher grades of MSR and MEL                    0.57
+ Red Oak                                          0.67                Spruce-Pine-Fir
+ Red Pine                                         0.44                    E=1,700,000 psi and lower grades of MSR and MEL                     0.42
+ Redwood                                          0.37                    E=1,800,000 psi and 1,900,000 grades of MSR and MEL                 0.46
+ Sitka Spruce                                     0.43                    E=2,000,000 psi and higher grades of MSR and MEL                    0.50
+ Southern Pine                                    0.55                Spruce-Pine-Fir (South)
+ Spruce-Pine-Fir                                  0.42                    E=1,100,000 psi and lower grades of MSR                             0.36
+ Spruce-Pine-Fir (South)                          0.36                    E=1,200,000 psi to1,900,000 psi grades of MSR                       0.42
+ Western Cedars                                   0.36                    E=2,000,000 psi and higher grades of MSR                            0.50
+ Western Cedars (North)                           0.35                Western Cedars
+ Western Hemlock                                  0.47                    E=1,000,000 psi and higher grades of MSR                            0.36
+ Western Hemlock (North)                          0.46                Western Woods
+ Western White Pine                               0.40                    E=1,000,000 psi and higher grades of MSR                            0.36
+ Western Woods                                    0.36
+ White Oak                                        0.73
+ Yellow Poplar                                    0.43
+
+1. Specific gravity, G, based on weight and volume when oven-dry. Different specific gravities, G, are possible for different grades of MSR and MEL lumber
+(see Table 4C, Footnote 2).
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

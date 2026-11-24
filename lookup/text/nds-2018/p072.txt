@@ -1,0 +1,84 @@
+[nds-2018 | NDS-2018.pdf | pdf page 72 | printed page 60]
+
+60 CROSS-LAMINATED TIMBER
+
+10.1 General
+
+10.1.1 Application
+
+10.1.1.1 Chapter 10 applies to engineering design
+with performance-rated cross-laminated timber.
+
+10.1.1.2 Design procedures, reference design val-
+ues and other information provided herein apply only to
+performance-rated cross-laminated timber produced in
+accordance with ANSI/APA PRG-320.
+
+10.1.2 Definition
+
+Cross-Laminated Timber (CLT) – a prefabricated
+engineered wood product consisting of at least three
+layers of solid-sawn lumber or structural composite
+lumber where the adjacent layers are cross-oriented and
+bonded with structural adhesive to form a solid wood
+element.
+
+10.1.3 Standard Dimensions
+
+10.1.3.1 The net thickness of a lamination for all
+layers at the time of gluing shall not be less than 5/8
+inch or more than 2 inches.
+
+10.1.3.2 The thickness of cross-laminated timber
+shall not exceed 20 inches.
+
+10.1.4 Specification
+
+All required reference design values shall be speci-
+fied in accordance with Section 10.2.
+
+10.1.5 Service Conditions
+
+Reference design values reflect dry service condi-
+tions, where the moisture content in service is less than
+16%, as in most covered structures. Cross-laminated
+timber shall not be used in higher moisture service con-
+ditions unless specifically permitted by the cross-
+laminated timber manufacturer.
+
+10.2 Reference Design Values
+
+10.2.1 Reference Design Values
+
+Reference design values for cross-laminated timber
+shall be obtained from the cross-laminated timber man-
+ufacturer’s literature or code evaluation report.
+
+10.2.2 Design Section Properties
+
+Reference design values shall be used with design
+section properties provided by the cross-laminated tim-
+
+ber manufacturer based on the actual layup used in the
+manufacturing process.
+
+10.3 Adjustment of Reference Design Values
+
+10.3.1 General
+
+Reference design values: Fb(Seff), Ft(Aparallel), Fv(tv),
+Fs(Ib/Q)eff, Fc(Aparallel), Fc⊥(A), (EI)app, and (EI)app-min
+provided in 10.2 shall be multiplied by the adjustment
+factors specified in Table 10.3.1 to determine adjusted
+design values: Fb(Seff)′, Ft(Aparallel)′, Fv(tv)′, Fs(Ib/Q)eff′,
+Fc(Aparallel)′, Fc⊥(A)′, (EI)app′, and (EI)app-min′.
+
+10.3.2 Load Duration Factor, CD (ASD only)
+
+All reference design values except stiffness, (EI)app,
+(EI)app-min, rolling shear, Fs(Ib/Q)eff, and compression
+perpendicular to grain, Fc⊥(A), shall be multiplied by
+load duration factors, CD, as specified in 2.3.2.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

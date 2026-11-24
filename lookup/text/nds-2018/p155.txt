@@ -1,0 +1,58 @@
+[nds-2018 | NDS-2018.pdf | pdf page 155 | printed page 143]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 143
+TIMBER RIVETS
+14
+
+Table 14.2.2B        Geometry Factor, CD, for Timber
+                     Rivet Connections Loaded Per-
+                     pendicular to Grain
+         ep             CΔ               ep             CΔ
+      (nc -1)Sq                      (nc -1)Sq
+        0.1             5.76            3.2             0.79
+        0.2             3.19            3.6             0.77
+        0.3             2.36            4.0             0.76
+        0.4             2.00            5.0             0.72
+        0.5             1.77            6.0             0.70
+        0.6             1.61            7.0             0.68
+        0.7             1.47            8.0             0.66
+        0.8             1.36            9.0             0.64
+        0.9             1.28            10.0            0.63
+        1.0             1.20            12.0            0.61
+        1.2             1.10            14.0            0.59
+        1.4             1.02            16.0            0.57
+        1.6             0.96            18.0            0.56
+        1.8             0.92            20.0            0.55
+        2.0             0.89            25.0            0.53
+        2.4             0.85            30.0            0.51
+        2.8             0.81
+
+Table 14.2.2A       Values of qw (lbs) Perpendicular
+                    to Grain for Timber Rivets
+                           sp = 1"
+    sq    Rivets
+    in.     per                 Number of rows
+           row      2        4        6         8       10
+            2      776      809      927      1089     1255
+            3      768      806      910      1056     1202
+            4      821      870      963      1098     1232
+            5      874      923      1013     1147     1284
+            6      959      1007     1094     1228     1371
+    1       7      1048     1082     1163     1297     1436
+            8      1173     1184     1256     1391     1525
+            9      1237     1277     1345     1467     1624
+            10     1318     1397     1460     1563     1752
+            11     1420     1486     1536     1663     1850
+            12     1548     1597     1628     1786     1970
+            13     1711     1690     1741     1882     2062
+            2      905      921      1042     1211     1395
+            3      896      918      1024     1174     1337
+            4      958      990      1083     1221     1370
+            5      1020     1051     1140     1276     1428
+   1-1/2    6      1119     1146     1231     1365     1524
+            7      1223     1232     1308     1442     1597
+            8      1368     1348     1413     1547     1695
+            9      1811     1731     1772     1905     2110
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

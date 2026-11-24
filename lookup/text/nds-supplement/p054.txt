@@ -1,0 +1,46 @@
+[nds-supplement | NDS_supplement.pdf | pdf page 54 | printed page 46]
+
+46 REFERENCE DESIGN VALUES
+
+Table 4D
+Adjustment Factors
+
+Size Factor, CF
+
+When visually graded timbers are subjected to loads
+applied to the narrow face, tabulated design values shall
+be multiplied by the following size factors:
+
+                    Size Factors, CF
+Depth             Fb             Ft            Fc
+d > 12"        (12/d)1/9         1.0          1.0
+d ≤ 12"          1.0             1.0          1.0
+Flat Use Factor, Cfu
+
+When members classified as Beams and Stringers* in
+Table 4D are subjected to loads applied to the wide face,
+tabulated design values shall be multiplied by the follow-
+ing flat use factors:
+
+Wet Service Factor, CM
+
+When timbers are used where moisture content will
+exceed 19% for an extended time period, design values
+shall be multiplied by the appropriate wet service factors
+from the following table (for Southern Pine and Mixed
+Southern Pine, use tabulated design values without further
+adjustment):
+
+           Wet Service Factors, CM
+ Fb      Ft      Fv      Fc⊥      Fc   E and Emin
+1.00    1.00    1.00    0.67    0.91    1.00
+
+                   Flat Use Factor, Cfu
+Grade                Fb    E and Emin  Other Properties
+Select Structural   0.86      1.00          1.00
+No.1                0.74      0.90          1.00
+No.2                1.00      1.00          1.00
+*"Beams and Stringers" are defined in NDS 4.1.3 (also see Table 1B).
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

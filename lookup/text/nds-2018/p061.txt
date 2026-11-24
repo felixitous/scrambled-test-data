@@ -1,0 +1,65 @@
+[nds-2018 | NDS-2018.pdf | pdf page 61 | printed page 49]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 49
+PREFABRICATED WOOD I-JOISTS
+7
+
+Table 7.3.1
+Applicability of Adjustment Factors for
+Prefabricated Wood I-Joists
+
+ASD                    LRFD
+      ASD and LRFD
+only                    only
+
+                                               KF    φ
+Mr' = Mr          x    CD CM     Ct   CL   Cr  KF 0.85    λ
+Vr' = Vr          x    CD CM     Ct   -    -   KF 0.75    λ
+Rr' = Rr          x    CD CM     Ct   -    -   KF 0.75    λ
+EI' = EI          x     -   CM   Ct   -    -    -    -    -
+(EI)min' = (EI)min x    -   CM   Ct   -    -   KF 0.85    -
+K' = K            x     -   CM   Ct   -    -    -    -    -
+
+7.3.5 Beam Stability Factor, CL
+
+7.3.5.1 Lateral stability of prefabricated wood I-
+joists shall be considered.
+
+7.3.5.2 When the compression flange of a prefabri-
+cated wood I-joist is supported throughout its length to
+prevent lateral displacement, and the ends at points of
+bearing have lateral support to prevent rotation, CL=1.0.
+
+7.3.5.3 When the compression flange of a prefabri-
+cated wood I-joist is not supported throughout its length
+to prevent lateral displacement, one acceptable method
+is to design the prefabricated wood I-joist compression
+flange as a column in accordance with the procedure of
+3.7.1 using the section properties of the compression
+flange only. The compression flange shall be evaluated
+as a column continuously restrained from buckling in
+the plane of the web. CP of the compression flange shall
+be used as CL of the prefabricated wood I-joist. Prefab-
+
+ricated wood I-joists shall be provided with lateral sup-
+port at points of bearing to prevent rotation.
+
+7.3.6 Repetitive Member
+Factor, Cr
+
+For prefabricated wood I-joists with structural
+composite lumber flanges or sawn lumber flanges, ref-
+erence moment design resistances shall be multiplied
+by the repetitive member factor, Cr = 1.0.
+
+7.3.7 Pressure-Preservative Treatment
+
+Adjustments to reference design values to account
+for the effects of pressure-preservative treatment shall
+be in accordance with information provided by the pre-
+fabricated wood I-joist manufacturer.
+
+[text in another orientation] Load Duration Factor | Wet Service Factor | Temperature Factor | Beam Stability Factor | Repetitive Member Factor | Format Conversion Factor | Resistance Factor | Time Effect Factor
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

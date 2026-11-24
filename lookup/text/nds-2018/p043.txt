@@ -1,0 +1,98 @@
+[nds-2018 | NDS-2018.pdf | pdf page 43 | printed page 31]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 31
+SAWN LUMBER
+4
+
+4.4 Special Design Considerations
+
+4.4.1 Stability of Bending Members
+
+4.4.1.1 Sawn lumber bending members shall be de-
+signed in accordance with the lateral stability calcula-
+tions in 3.3.3 or shall meet the lateral support require-
+ments in 4.4.1.2 and 4.4.1.3.
+
+4.4.1.2 As an alternative to 4.4.1.1, rectangular
+sawn lumber beams, rafters, joists, or other bending
+members, shall be designed in accordance with the fol-
+lowing provisions to provide restraint against rotation
+or lateral displacement. If the depth to breadth, d/b,
+based on nominal dimensions is:
+
+(a) d/b ≤ 2; no lateral support shall be required.
+(b) 2 < d/b ≤ 4; the ends shall be held in position,
+
+as by full depth solid blocking, bridging, hang-
+ers, nailing, or bolting to other framing mem-
+bers, or other acceptable means.
+(c) 4 < d/b ≤ 5; the compression edge of the mem-
+
+ber shall be held in line for its entire length to
+prevent lateral displacement, as by adequate
+sheathing or subflooring, and ends at point of
+bearing shall be held in position to prevent ro-
+tation and/or lateral displacement.
+(d) 5 < d/b ≤ 6; bridging, full depth solid blocking
+
+or diagonal cross bracing shall be installed at
+intervals not exceeding 8 feet, the compression
+edge of the member shall be held in line as by
+adequate sheathing or subflooring, and the ends
+at points of bearing shall be held in position to
+prevent rotation and/or lateral displacement.
+(e) 6 < d/b ≤ 7; both edges of the member shall be
+
+held in line for their entire length and ends at
+points of bearing shall be held in position to
+prevent rotation and/or lateral displacement.
+4.4.1.3 If a bending member is subjected to both
+flexure and axial compression, the depth to breadth ra-
+tio shall be no more than 5 to 1 if one edge is firmly
+held in line. If under all combinations of load, the un-
+braced edge of the member is in tension, the depth to
+breadth ratio shall be no more than 6 to 1.
+
+4.4.2 Wood Trusses
+
+4.4.2.1 Increased chord stiffness relative to axial
+loads where a 2" x 4" or smaller sawn lumber truss
+compression chord is subjected to combined flexure
+and axial compression under dry service condition and
+has 3/8" or thicker wood structural panel sheathing
+nailed to the narrow face of the chord in accordance
+with code required roof sheathing fastener schedules
+(see References 32, 33, and 34), shall be permitted to
+be accounted for by multiplying the reference modulus
+of elasticity design value for beam and column stabil-
+ity, Emin, by the buckling stiffness factor, CT, in column
+stability calculations (see 3.7 and Appendix H). When
+
+ℓe < 96", CT shall be calculated as follows:
+    CT = 1 + KMℓe                               (4.4-1)
+             KTE
+where:
+       ℓe = effective column length of truss compression
+            chord (see 3.7), in.
+      KM = 2300 for wood seasoned to 19% moisture
+
+content or less at the time of wood structural
+panel sheathing attachment.
+
+= 1200 for unseasoned or partially seasoned
+
+wood at the time of wood structural panel
+sheathing attachment.
+
+      KT = 1 – 1.645(COVE)
+         = 0.59 for visually graded lumber
+         = 0.75 for machine evaluated lumber (MEL)
+         = 0.82 for products with COVE ≤ 0.11 (see
+           Appendix F.2)
+    When  ℓe > 96", CT shall be calculated based on ℓe =
+96".
+    4.4.2.2 For additional information concerning metal
+plate connected wood trusses see Reference 9.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

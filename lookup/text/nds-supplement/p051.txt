@@ -1,0 +1,72 @@
+[nds-supplement | NDS_supplement.pdf | pdf page 51 | printed page 43]
+
+DESIGN VALUES FOR WOOD CONSTRUCTION – NDS SUPPLEMENT 43
+REFERENCE DESIGN VALUES
+4
+
+Table 4C
+Reference Design Values for Mechanically Graded Dimension Lumber1,2,3
+
+(Tabulated design values are for normal load duration and dry service conditions, unless specified
+otherwise. See NDS 4.3 for a comprehensive description of design value adjustment factors.)
+
+                                            USE WITH TABLE 4C ADJUSTMENT FACTORS
+                                             Design values in pounds per square inch (psi)
+                                                Tension   Compression
+  Commercial grade         Size                  parallel    parallel                                         Grading Rules Agency
+                       classification Bending   to grain     to grain      Modulus of Elasticity
+                                         Fb        Ft           Fc            E          Emin
+MACHINE STRESS RATED (MSR)
+LUMBER
+750f-1.4E                               750       425          925        1,400,000     710,000   SPIB
+850f-1.4E                               850       475          975        1,400,000     710,000   SPIB
+900f-1.0E                               900       350         1,050       1,000,000     510,000   WCLIB, WWPA, NELMA
+975f-1.6E                               975       550         1,450       1,600,000     810,000   SPIB
+1050f-1.2E                             1,050      450         1,225       1,200,000     610,000   SPIB
+1050f-1.6E                             1,050      575         1,500       1,600,000     810,000   SPIB
+1200f-1.2E                             1,200      600         1,400       1,200,000     610,000   NLGA, WCLIB, WWPA, NELMA
+1200f-1.3E                             1,200      600         1,400       1,300,000     660,000   SPIB
+1200f-1.6E                             1,200      650         1,550       1,600,000     810,000   SPIB
+1250f-1.4E                             1,250      800         1,475       1,400,000     710,000   WCLIB
+1250f-1.6E                             1,250      725         1,600       1,600,000     810,000   SPIB
+1350f-1.3E                             1,350      750         1,600       1,300,000     660,000   NLGA, WCLIB, WWPA, NELMA
+1350f-1.4E                             1,350      750         1,600       1,400,000     710,000   SPIB
+1400f-1.2E                             1,400      800         1,600       1,200,000     610,000   NLGA
+1450f-1.3E                             1,450      800         1,625       1,300,000     660,000   NLGA, WCLIB, WWPA, NELMA
+1450f-1.3E                             1,450      825         1,600       1,300,000     660,000   SPIB
+1450f-1.5E                             1,450      875         1,625       1,500,000     760,000   WCLIB
+1500f-1.4E                             1,500      900         1,650       1,400,000     710,000   NLGA, WCLIB, WWPA, NELMA
+1500f-1.5E                             1,500      900         1,650       1,500,000     760,000   SPIB
+1500f-1.6E                             1,500      900         1,650       1,600,000     810,000   SPIB
+1500f-1.7E                             1,500      900         1,650       1,700,000     860,000   SPIB
+1600f-1.4E              2" and less    1,600      950         1,675       1,400,000     710,000   NLGA
+1650f-1.3E              in thickness   1,650      1,020       1,700       1,300,000     660,000   NLGA
+1650f-1.5E                             1,650      1,020       1,700       1,500,000     760,000   NLGA, SPIB, WCLIB, WWPA, NELMA
+1650f-1.6E              2" and wider   1,650      1,175       1,700       1,600,000     810,000   WCLIB
+1650f-1.7E                             1,650      1,020       1,750       1,700,000     860,000   SPIB
+1700f-1.6E                              1700      1,175       1,725       1,600,000     810,000   WCLIB
+1800f-1.5E                             1,800      1,300       1,750       1,500,000     760,000   NLGA
+1800f-1.6E                             1,800      1,175       1,750       1,600,000     810,000   NLGA, SPIB, WCLIB, WWPA, NELMA
+1800f-1.8E                             1,800      1,200       1,750       1,800,000     910,000   WCLIB
+1800f-2.0E                             1,800      1,175       1,750       2,000,000    1,020,000  WCLIB
+1850f-1.7E                             1,850      1,175       1,850       1,700,000     860,000   SPIB
+1950f-1.5E                             1,950      1,375       1,800       1,500,000     760,000   SPIB
+1950f-1.7E                             1,950      1,375       1,800       1,700,000     860,000   NLGA, SPIB, WCLIB, WWPA, NELMA
+2000f-1.6E                             2,000      1,300       1,825       1,600,000     810,000   NLGA
+2100f-1.8E                             2,100      1,575       1,875       1,800,000     910,000   NLGA, SPIB, WCLIB, WWPA, NELMA
+2250f-1.7E                             2,250      1,750       1,925       1,700,000     860,000   NLGA
+2250f-1.8E                             2,250      1,750       1,925       1,800,000     910,000   NLGA, WCLIB
+2250f-1.9E                             2,250      1,750       1,925       1,900,000     970,000   NLGA, SPIB, WCLIB, WWPA, NELMA
+2400f-1.8E                             2,400      1,925       1,975       1,800,000     910,000   NLGA
+2400f-2.0E                             2,400      1,925       1,975       2,000,000    1,020,000  NLGA, SPIB, WCLIB, WWPA, NELMA
+2500f-2.2E                             2,500      1,750       2,000       2,200,000    1,120,000  WCLIB
+2550f-1.8E                             2,550      1,400       2,000       1,800,000     910,000   SPIB
+2550f-2.1E                             2,550      2,050       2,025       2,100,000    1,070,000  NLGA, SPIB, WCLIB, WWPA, NELMA
+2700f-2.0E                             2,700      1,800       2,100       2,000,000    1,020,000  WCLIB
+2700f-2.2E                             2,700      2,150       2,100       2,200,000    1,120,000  NLGA, SPIB, WCLIB, WWPA, NELMA
+2850f-1.8E                             2,850      1,600       2,100       1,800,000     910,000   SPIB
+2850f-2.3E                             2,850      2,300       2,150       2,300,000    1,170,000  NLGA, SPIB, WCLIB, WWPA, NELMA
+3000f-2.4E                             3,000      2,400       2,200       2,400,000    1,220,000  NLGA, SPIB
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

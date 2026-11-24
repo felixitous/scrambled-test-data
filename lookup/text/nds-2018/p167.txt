@@ -1,0 +1,86 @@
+[nds-2018 | NDS-2018.pdf | pdf page 167 | printed page 155]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 155
+FIRE DESIGN OF WOOD MEMBERS
+16
+
+Table 16.2.1A     Char Depth and Effective Char
+                  Depth (for βn = 1.5 in./hr.)
+                       Char         Effective Char
+  Required Fire       Depth,            Depth,
+    Resistance         achar              aeff
+       (hr.)           (in.)              (in.)
+      1-Hour            1.5               1.8
+     1½-Hour            2.1               2.5
+      2-Hour            2.6               3.2
+    For cross-laminated timber manufactured with lam-
+inations of equal thickness and assuming a nominal char
+rate, βn, of 1.5 in./hr., the effective char depth, aeff, for
+each exposed surface is shown in Table 16.2.1B.
+Table 16.2.1B     Effective Char Depths (for CLT
+                  with βn = 1.5in./hr.)
+ Required              Effective Char Depths, aeff
+   Fire                        (in.)
+ Resistance          lamination thicknesses, hlam (in.)
+   (hr.)    5/8 3/4  7/8   1  1-1/4 1-3/8 1-1/2 1-3/4 2
+  1-Hour    2.2  2.2 2.1  2.0 2.0   1.9  1.8  1.8  1.8
+  1½-Hour   3.4  3.2 3.1  3.0 2.9   2.8  2.8  2.8  2.6
+  2-Hour    4.4  4.3 4.1  4.0 3.9   3.8  3.6  3.6  3.6
+    16.2.1.5 For cross-laminated timber, reduced sec-
+tion properties shall be calculated using equations pro-
+vided  by   the cross-laminated   timber  manufacturer
+based on the actual layup used in the manufacturing
+process.
+16.2.2 Member Strength
+
+For sawn lumber, structural glued laminated soft-
+wood timber, laminated veneer lumber, parallel strand
+lumber, laminated strand lumber, and cross-laminated
+timber, the average member strength can be approxi-
+mated by multiplying reference design values (Fb, Ft,
+Fc, FbE, FcE) by the adjustment factors specified in Table
+16.2.2.
+
+The Fb, Ft, Fc, FbE, and FcE values and cross-
+sectional properties shall be adjusted prior to use of
+Equations 3.3-6, 3.7-1, 3.9-1, 3.9-2, 3.9-3, 3.9-4, 15.2-
+1, 15.3-1, 15.4-1, 15.4-2, 15.4-3, or 15.4-4.
+
+16.2.3 Design of Members
+
+The induced stress calculated using reduced section
+properties determined in 16.2.1 shall not exceed the
+member strength determined in 16.2.2.
+
+16.2.4 Special Provisions for Structural
+Glued Laminated Softwood Timber Beams
+
+For structural glued laminated softwood timber
+bending members given in Table 5A and rated for 1-
+hour fire resistance, an outer tension lamination shall be
+substituted for a core lamination on the tension side for
+unbalanced beams and on both sides for balanced
+beams. For structural glued laminated softwood timber
+bending members given in Table 5A and rated for 1½-
+or 2-hour fire resistance, 2 outer tension laminations
+shall be substituted for 2 core laminations on the ten-
+sion side for unbalanced beams and on both sides for
+balanced beams.
+
+16.2.5 Provisions for Timber Decks
+
+Timber decks consist of planks that are at least 2"
+(actual) thick. The planks shall span the distance be-
+tween supporting beams. Single and double tongue-
+and-groove (T&G) decking shall be designed as an as-
+sembly of wood beams fully exposed on one face. Butt-
+jointed decking shall be designed as an assembly of
+wood beams partially exposed on the sides and fully
+exposed on one face. To compute the effects of partial
+exposure of the decking on its sides, the char rate for
+this limited exposure shall be reduced to 33% of the
+effective char rate. These calculation procedures do not
+address thermal separation.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

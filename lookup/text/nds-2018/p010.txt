@@ -1,0 +1,128 @@
+[nds-2018 | NDS-2018.pdf | pdf page 10 | printed page viii]
+
+viii
+
+13.2B
+Shear Plate Connector Unit Reference
+Design Values............................................ 123
+
+13.2.3
+Penetration Depth Factors, Cd, for Split
+Ring and Shear Plate Connectors Used
+with Lag Screws........................................ 124
+
+13.2.4
+Metal Side Plate Factors, Cst, for 4” Shear
+Plate Connectors Loaded Parallel to
+Grain.......................................................... 124
+
+13.3.2.2
+Factors for Determining Minimum
+Spacing Along Connector Axis for
+CΔ = 1.0..................................................... 128
+
+13.3.3.1-1 Factors for Determining Minimum
+Spacing Along Axis of Cut of Sloping
+Surfaces..................................................... 129
+
+13.3.3.1-2 Factors for Determining Minimum Loaded
+Edge Distance for Connectors in End
+Grain.......................................................... 129
+
+13.3.3.1-3 Factors for Determining Minimum
+Unloaded Edge Distance Parallel to
+Axis of Cut................................................ 130
+
+13.3.3.1-4 Factors for Determining Minimum End
+Distance Parallel to Axis of Cut................ 130
+
+13.3
+Geometry Factors, CΔ, for Split Ring and
+Shear Plate Connectors ............................ 131
+
+14.2.3
+Metal Side Plate Factor, Cst, for Timber
+Rivet Connections..................................... 135
+
+14.3.2
+Minimum End and Edge Distances
+for Timber Rivet Joints............................. 136
+
+14.2.1 A Reference Wood Capacity Design Values
+Parallel to Grain, Pw, for Timber Rivets
+Rivet Length = 1-½”, sp = 1”, sq = 1”......... 137
+
+14.2.1 B Reference Wood Capacity Design Values
+Parallel to Grain, Pw, for Timber Rivets
+Rivet Length = 1-½”, sp = 1-½”, sq = 1”... 138
+
+14.2.1 C Reference Wood Capacity Design Values
+Parallel to Grain, Pw, for Timber Rivets
+Rivet Length = 2-½”, sp = 1”, sq = 1”....... 139
+
+14.2.1 D Reference Wood Capacity Design Values
+Parallel to Grain, Pw, for Timber Rivets
+Rivet Length = 2-½”, sp = 1-½”, sq = 1”... 140
+
+14.2.1 E Reference Wood Capacity Design Values
+Parallel to Grain, Pw, for Timber Rivets
+Rivet Length = 3-½”, sp = 1”, sq = 1”....... 141
+
+14.2.1 E Reference Wood Capacity Design Values
+Parallel to Grain, Pw, for Timber Rivets
+Rivet Length = 3-½”, sp = 1-½”, sq = 1”... 142
+
+14.2.2A
+Values of qw (lbs) Perpendicular to Grain
+for Timber Rivets...................................... 143
+
+14.2.2B
+Geometry Factor, CΔ, for Timber Rivet
+Connections Loaded Perpendicular
+to Grain..................................................... 143
+
+15.1.1
+Lateral Distribution Factors for Moment.. 146
+
+15.1.2
+Lateral Distribution in Terms of
+Proportion of Total Load........................... 146
+
+16.2.1A
+Char Depth and Effective Char Depth
+(for βn = 1.5 in./hr.)................................... 155
+
+16.2.1B
+Effective Char Depths (for CLT with
+βn = 1.5 in./hr.).......................................... 155
+
+16.2.2
+Adjustment Factors for Fire Design.......... 156
+
+F1
+Coefficients of Variation in Modulus of
+Elasticity (COVE) for Lumber and
+Structural Glued Laminated Timber......... 169
+
+G1
+Buckling Length Coefficients, Ke ............ 171
+
+I1
+Fastener Bending Yield Strengths, Fyb ..... 175
+
+L1 to L7 Typical Dimensions for Dowel-Type
+
+Fasteners and Washers.............................. 180
+
+N1
+Format Conversion Factor, KF
+(LRFD Only)............................................. 187
+
+N2
+Resistance Factor, φ (LRFD Only)............ 187
+
+N3
+Time Effect Factor, λ (LRFD Only).......... 187
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

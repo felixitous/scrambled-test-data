@@ -1,0 +1,100 @@
+[nds-2018 | NDS-2018.pdf | pdf page 96 | printed page 84]
+
+84 DOWEL-TYPE FASTENERS
+
+Table 12.3.1B
+Reduction Term, Rd
+
+                                             Reduction
+ Fastener Size          Yield Mode           Term, Rd
+0.25" ≤ D ≤ 1"      Im, Is                     4 Kθ
+                    II                         3.6 Kθ
+                    IIIm, IIIs, IV             3.2 Kθ
+D < 0.25"           Im, Is, II, IIIm, IIIs, IV  KD1
+Notes:
+ Kθ  =  1 + 0.25(θ/90)
+ θ   =   maximum angle between the direction of load
+         and the direction of grain (0°≤ θ ≤ 90°) for any
+         member in a connection
+ D   =  diameter, in. (see 12.3.7)
+ KD  =  2.2              for D ≤ 0.17"
+ KD  =  10D + 0.5        for 0.17" < D < 0.25"
+
+1. For threaded fasteners where nominal diameter (see Appendix L) is greater
+than or equal to 0.25" and root diameter is less than 0.25", Rd = KD Kθ.
+
+12.3.3 Dowel Bearing Strength
+
+12.3.3.1 Dowel bearing strengths, Fe, for wood
+members other than wood structural panels and struc-
+tural composite lumber shall be determined from Ta-
+ble 12.3.3.
+
+12.3.3.2 Dowel bearing strengths, Fe, for dowel-
+type fasteners with D ≤ 1/4" in wood structural panels
+shall be determined from Table 12.3.3B.
+
+12.3.3.3 Dowel bearing strengths, Fe, for structural
+composite lumber shall be determined from the manu-
+facturer’s literature or code evaluation report.
+
+12.3.3.4 Where dowel-type fasteners with D ≥
+1/4" are inserted into the end grain of the main mem-
+ber, with the fastener axis parallel to the wood fibers,
+Fe⊥ shall be used in the determination of the dowel
+bearing strength of the main member, Fem.
+
+12.3.3.5 Dowel bearing strengths, Fe, for dowel-
+type fasteners installed into the panel face of cross-
+laminated timber shall be based on the direction of
+loading with respect to the grain orientation of the
+cross-laminated timber ply at the shear plane.
+
+12.3.3.6 Where dowel-type fasteners are installed
+in the narrow edge of cross-laminated timber panels,
+the dowel bearing strength shall be Fe⊥ for D≥1/4" and
+Fe for D<1/4".
+
+12.3.4 Dowel Bearing Strength at an Angle
+to Grain
+
+Where a member in a connection is loaded at an an-
+gle to grain, the dowel bearing strength, Feθ, for the
+member shall be determined as follows (see Appendix J):
+
+    F   =          F e∥Fe⊥
+     eθ   F   sin2 θ+ F   cos2  θ            (12.3-11)
+           e∥          e⊥
+where:
+        θ = angle between the direction of load and the
+            direction of grain (longitudinal axis of mem-
+            ber)
+12.3.5 Dowel Bearing Length
+
+12.3.5.1 Dowel bearing length in the side member(s)
+and main member,
+
+ℓs and
+
+ℓm, shall be determined based
+on the length of dowel bearing perpendicular to the ap-
+plication of load.
+
+12.3.5.2 For cross-laminated timber where the di-
+rection of loading relative to the grain orientation at
+the shear plane is parallel to grain, the dowel bearing
+length in the perpendicular plies shall be reduced by
+multiplying the bearing length of those plies by the
+ratio of dowel bearing strength perpendicular to grain
+to dowel bearing strength parallel to grain (Fe⊥ / Fe∥).
+
+Figure 12B
+Single Shear Bolted
+Connections
+
+Figure 12C
+Double Shear Bolted
+Connections
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

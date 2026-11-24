@@ -1,0 +1,33 @@
+[nds-2018 | NDS-2018.pdf | pdf page 105 | printed page 93]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 93
+DOWEL-TYPE FASTENERS
+12
+
+12.6 Multiple Fasteners
+
+12.6.1 Symmetrically Staggered Fasteners
+
+Where a connection contains multiple fasteners,
+fasteners shall be staggered symmetrically in members
+loaded perpendicular to grain whenever possible (see
+11.3.6.2 for special design provisions where bolts, lag
+screws, or drift pins are staggered).
+
+12.6.2 Fasteners Loaded at an Angle to
+Grain
+
+When a multiple fastener connection is loaded at
+an angle to grain, the gravity axis of each member
+shall pass through the center of resistance of the group
+of fasteners to insure uniform stress in the main mem-
+ber and a uniform distribution of load to all fasteners.
+
+12.6.3 Local Stresses in Connections
+
+Local stresses in connections using multiple fas-
+teners shall be evaluated in accordance with principles
+of engineering mechanics (see 11.1.2).
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

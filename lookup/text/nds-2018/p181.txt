@@ -1,0 +1,111 @@
+[nds-2018 | NDS-2018.pdf | pdf page 181 | printed page 169]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 169
+APPENDIX
+A
+
+Appendix F
+(Non-mandatory) Design for Creep and Critical
+Deflection Applications
+
+F.1 Creep
+
+F.1.1 Reference modulus of elasticity design val-
+ues, E, in this Specification are intended for the calcula-
+tion of immediate deformation under load. Under sus-
+tained loading, wood members exhibit additional time
+dependent deformation (creep) which usually develops
+at a slow but persistent rate over long periods of time.
+Creep rates are greater for members drying under load
+or exposed to varying temperature and relative humidi-
+ty conditions than for members in a stable environment
+and at constant moisture content.
+
+F.1.2 In certain bending applications, it may be
+necessary to limit deflection under long-term loading to
+specified levels. This can be done by applying an in-
+crease factor to the deflection due to long-term load.
+Total deflection is thus calculated as the immediate de-
+flection due to the long-term component of the design
+load times the appropriate increase factor, plus the de-
+flection due to the short-term or normal component of
+the design load.
+
+F.2 Variation in Modulus of Elasticity
+
+F.2.1 The reference modulus of elasticity design
+values, E, listed in Tables 4A, 4B, 4C, 4D, 4E, 4F, 5A,
+5B, 5C, and 5D (published in the Supplement to this
+Specification) are average values and individual pieces
+having values both higher and lower than the averages
+will occur in all grades. The use of average modulus of
+elasticity values is customary practice for the design of
+normal wood structural members and assemblies. Field
+experience and tests have demonstrated that average
+values provide an adequate measure of the immediate
+deflection or deformation of these wood elements.
+
+F.2.2 In certain applications where deflection may
+be critical, such as may occur in closely engineered,
+innovative structural components or systems, use of a
+reduced modulus of elasticity value may be deemed
+appropriate by the designer. The coefficient of variation
+in Table F1 shall be permitted to be used as a basis for
+modifying reference modulus of elasticity values listed
+in Tables 4A, 4B, 4C, 4D, 4E, 4F, 5A, 5B, 5C, and 5D
+to meet particular end use conditions.
+
+F.2.3 Reducing reference average modulus of elas-
+ticity design values in this Specification by the product
+of the average value and 1.0 and 1.65 times the appli-
+cable coefficients of variation in Table F1 gives esti-
+
+mates of the level of modulus of elasticity exceeded by
+84% and 95%, respectively, of the individual pieces, as
+specified in the following formulas:
+
+    E0.16 = E (1 −1.0COVE )                (F-1)
+    E0.05 = E (1 −1.645COVE )              (F-2)
+Table F1    Coefficients of Variation in
+            Modulus of Elasticity (COVE) for
+            Lumber and Structural Glued
+            Laminated Timber
+                                       COVE
+ Visually graded sawn lumber            0.25
+    (Tables 4A, 4B, 4D, 4E, and 4F)
+ Machine Evaluated Lumber (MEL)         0.15
+    (Table 4C)
+ Machine Stress Rated (MSR) lumber      0.11
+    (Table 4C)
+ Structural glued laminated timber      0.10
+    (Tables 5A, 5B, 5C, and 5D)
+
+F.3 Shear Deflection
+
+F.3.1 Reference modulus of elasticity design val-
+ues, E, listed in Tables 4A, 4B, 4C, 4D, 4E, 4F, 5A, 5B,
+5C, and 5D are apparent modulus of elasticity values
+and include a shear deflection component. For sawn
+lumber, the ratio of shear-free E to reference E is 1.03.
+For structural glued laminated timber, the ratio of
+shear-free E to reference E is 1.05.
+
+F.3.2 In certain applications use of an adjusted
+modulus of elasticity to more accurately account for the
+shear component of the total deflection may be deemed
+appropriate by the designer. Standard methods for ad-
+justing modulus of elasticity to other load and span-
+depth conditions are available (see Reference 54).
+When reference modulus of elasticity values have not
+been adjusted to include the effects of shear defor-
+mation, such as for prefabricated wood I-joists, consid-
+eration for the shear component of the total deflection
+is required.
+
+F.3.3 The shear component of the total deflection
+of a beam is a function of beam geometry, modulus of
+elasticity, shear modulus, applied load and support
+conditions. The ratio of shear-free E to apparent E is
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

@@ -1,0 +1,82 @@
+[nds-2018 | NDS-2018.pdf | pdf page 179 | printed page 167]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 167
+APPENDIX
+A
+
+E.8 Sample Solution of Row of Split Rings
+
+Calculate the net section area tension and row tear-out
+adjusted ASD design capacities for the single-shear single-
+row split ring connection represented in Figure E3.
+Main and Side Members:
+#2 grade Southern Pine 2x4 lumber. See NDS Supple-
+ment Table 4B – Visually Graded Southern Pine Di-
+mension Lumber for reference design values. Adjust-
+ment factors CD, CT, CM, and Ci are assumed to equal
+1.0 in this example for calculation of adjusted design
+values.
+
+Ft′ = 825 psi
+
+Fv′ = 175 psi
+Main member thickness, tm: 1.5 in.
+Side member thickness, ts: 1.5 in.
+Main and side member width, w: 3.5 in.
+Connection Details:
+Split ring diameter, D: 2.5 in. (see Appendix K for con-
+nector dimensions)
+Adjusted ASD split ring design value, P′: 2,730 lbs (see
+Table 13.2A. For this trial design, the group action fac-
+tor, Cg, is taken as 1.0).
+
+Adjusted ASD Connection Capacity, nP′:
+      nP′ = (2 split rings)(2,730 lbs) = 5,460 lbs
+Adjusted  ASD    Net Section  Area  Tension   Capacity,
+ZNT′:
+    Z  ′ = F ′A
+     NT     t  net
+    ZNT′ = Ft′ [A2x4 – Abolt-hole – Asplit ring projected area]
+    ZNT′ = (825 psi)[5.25 in.2 – 1.5" (0.5625") – 1.1 in.2]
+         = 2,728 lbs
+Figure E3       Single Row of Split Ring
+                Connectors
+
+Adjusted ASD Row Tear-Out Capacity, ZRT′:
+   Z  ′=  n Fv′Acritical
+    RTi    i   2
+   ZRT1′ = [(2 connectors)(175 psi)/2](21.735 in.2)
+       = 3,804 lbs
+where:
+  Acritical = 21.735 in.2 (See Figures E4 and E5)
+
+In this sample calculation, the adjusted ASD con-
+nection capacity is limited to 2,728 pounds by net sec-
+tion area tension capacity, ZNT′.
+
+Figure E4
+Acritical for Split Ring Connection
+(based on distance from end of
+member)
+
+Aedge plane = (2 shear lines) (groove depth)(scritical)
+
+= (2 shear lines) (0.375")(5.5") = 4.125 in.2
+
+Abottom plane net = (Abottom plane) – (Asplit ring groove) –
+
+(Abolt hole)
+
+= [(5.5")(2.92") + (π)(2.92")2/8] –
+
+(π/4)[(2.92")2 – (2.92" – 0.18" – 0.18")2] –
+(π/4)(0.5625")2
+
+= 17.61 in.2
+
+Acriticial = Aedge plane + Abottom plane net
+
+= 21.735 in.2
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

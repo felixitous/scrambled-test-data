@@ -1,0 +1,88 @@
+[nds-2018 | NDS-2018.pdf | pdf page 23 | printed page 11]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 11
+DESIGN VALUES FOR STRUCTURAL MEMBERS
+2
+
+Table 2.3.2     Frequently Used Load Duration
+                Factors, CD1
+ Load Duration       CD    Typical Design Loads
+ Permanent           0.9
+ Ten years           1.0
+ Two months          1.15
+ Seven days          1.25
+ Ten minutes         1.6
+ Impact2             2.0
+
+Dead Load
+Occupancy Live Load
+Snow Load
+Construction Load
+Wind/Earthquake Load
+Impact Load
+1. Load duration factors shall not apply to reference modulus of elastici-
+ty, E, reference modulus of elasticity for beam and column stability,
+Emin, nor to reference compression perpendicular to grain design val-
+ues, Fc⊥, based on a deformation limit.
+2. Load duration factors greater than 1.6 shall not be used in the design of
+structural members pressure-treated with water-borne preservatives
+(see Reference 30), or fire retardant chemicals. Load duration factors
+greater than 1.6 shall not be used in the design of connections or wood
+structural panels.
+
+2.3.3 Temperature Factor, Ct
+
+Reference design values shall be multiplied by the
+temperature factors, Ct, in Table 2.3.3 for structural
+members that will experience sustained exposure to ele-
+vated temperatures up to 150°F (see Appendix C).
+
+2.3.4 Fire Retardant Treatment
+
+The effects of fire retardant chemical treatment on
+strength shall be accounted for in the design. Adjusted
+design values, including adjusted connection design
+values, for lumber and structural glued laminated timber
+pressure-treated with fire retardant chemicals shall be
+obtained from the company providing the treatment and
+redrying service. Load duration factors greater than 1.6
+shall not apply to structural members pressure-treated
+with fire retardant chemicals (see Table 2.3.2).
+
+2.3.5 Format Conversion Factor, KF (LRFD
+Only)
+
+For LRFD, reference design values shall be multi-
+plied by the format conversion factor, KF, specified in
+Table 2.3.5. The format conversion factor, KF, shall not
+apply for designs in accordance with ASD methods
+specified herein.
+
+2.3.6 Resistance Factor, φ (LRFD Only)
+
+For LRFD, reference design values shall be multi-
+plied by the resistance factor, φ, specified in Table 2.3.6.
+The resistance factor, φ, shall not apply for designs in
+accordance with ASD methods specified herein.
+
+2.3.7 Time Effect Factor, λ (LRFD Only)
+
+For LRFD, reference design values shall be multi-
+plied by the time effect factor, λ, specified in Appendix
+N.3.3. The time effect factor, λ, shall not apply for de-
+signs in accordance with ASD methods specified herein.
+
+Table 2.3.3          Temperature Factor, Ct
+ Reference Design         In-Service                                    Ct
+ Values                    Moisture
+                         Conditions1           T≤100°F          100°F<T≤125°F         125°F<T≤150°F
+ Ft, E, Emin              Wet or Dry              1.0                  0.9                   0.9
+ Fb, Fv, Fc, and Fc⊥          Dry                 1.0                  0.8                   0.7
+                              Wet                 1.0                  0.7                   0.5
+ 1. Wet and dry service conditions for sawn lumber, structural glued laminated timber, prefabricated wood I-joists, structural
+    composite lumber, wood structural panels and cross-laminated timber are specified in 4.1.4, 5.1.4, 7.1.4, 8.1.4, 9.3.3, and
+    10.1.5 respectively.
+ .
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

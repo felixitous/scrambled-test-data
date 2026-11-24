@@ -1,0 +1,74 @@
+[nds-2018 | NDS-2018.pdf | pdf page 198 | printed page 186]
+
+186 APPENDIX
+
+Appendix N
+(Mandatory) Load and Resistance Factor Design
+(LRFD)
+
+N.1 General
+
+N.1.1 Application
+
+LRFD designs shall be made in accordance with
+Appendix N and all applicable provisions of this Speci-
+fication. Applicable loads and load combinations, and
+adjustment of design values unique to LRFD are speci-
+fied herein.
+
+N.1.2 Loads and Load Combinations
+
+Nominal loads and load combinations shall be
+those required by the applicable building code. In the
+absence of a governing building code, the nominal
+loads and associated load combinations shall be those
+specified in ASCE 7.
+
+N.2 Design Values
+
+N.2.1 Design Values
+
+Adjusted LRFD design values for members and
+connections shall be determined in accordance with
+ASTM Specification D 5457 and design provisions in
+this Specification or in accordance with N.2.2 and
+N.2.3. Where LRFD design values are determined by
+the reliability normalization factor method in ASTM
+D 5457, the format conversion factor shall not apply
+(see N.3.1).
+
+N.2.2 Member Design Values
+
+Reference member design values in this Specifica-
+tion shall be adjusted in accordance with 4.3, 5.3, 6.3,
+
+7.3, 8.3, 9.3, and 10.3 for sawn lumber, structural glued
+laminated timber, poles and piles, prefabricated wood I-
+joists, structural composite lumber, panel products, and
+cross-laminated timber, respectively, to determine the
+adjusted LRFD design value.
+
+N.2.3 Connection Design Values
+
+Reference connection design values in this Specifi-
+cation shall be adjusted in accordance with Table 11.3.1
+to determine the adjusted LRFD design value.
+
+N.3 Adjustment of Reference Design Values
+
+N.3.1 Format Conversion Factor, KF (LRFD
+Only)
+
+Reference design values shall be multiplied by the
+format conversion factor, KF, as specified in Table N1.
+Format conversion factors in Table N1 adjust reference
+ASD design values (based on normal duration) to the
+
+LRFD reference resistances (see Reference 55). Format
+conversion factors shall not apply where LRFD refer-
+ence resistances are determined in accordance with
+the reliability normalization factor method in ASTM
+D 5457.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

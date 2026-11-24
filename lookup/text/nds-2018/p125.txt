@@ -1,0 +1,82 @@
+[nds-2018 | NDS-2018.pdf | pdf page 125 | printed page 113]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 113
+NAILS DOWEL-TYPE FASTENERS
+12
+
+1. Tabulated lateral design values, Z, shall be multiplied by all applicable adjustment factors (see Table 11.3.1).
+2. Tabulated lateral design values, Z, are for common, box, or sinker steel wire nails (see Appendix Table L4) inserted in side grain with nail axis perpendicular to wood
+fibers; nail penetration, p, into the main member equal to 10D; dowel bearing strength, Fe, of 61,850 psi for ASTM A653, Grade 33 steel and nail bending yield
+strengths, Fyb, of 100,000 psi for 0.099" ≤ D ≤ 0.142", 90,000 psi for 0.142" < D ≤ 0.177", 80,000 psi for 0.177" < D ≤ 0.236", 70,000 psi for 0.236" < D ≤ 0.273".
+3. Where the nail or spike penetration, p, is less than 10D but not less than 6D, tabulated lateral design values, Z, shall be multiplied by p/10D or lateral design values
+shall be calculated using the provisions of 12.3 for the reduced penetration.
+
+   ts      D
+   in.     in.  Pennyweight      lbs.        lbs.         lbs.        lbs.        lbs.        lbs.        lbs.        lbs.        lbs.         lbs.
+  0.120   0.099      6d  7d       90          78          72          71          68          64           63          57          56          53
+(11 gage) 0.113  6d  8d  8d      110          95          89          87          83          79           77          70          68          66
+          0.120          10d     121         105          97          96          91          86           85          76          75          73
+          0.128     10d          134         116         108          106         101         96           94          85          83          81
+          0.131  8d              140         121         112          110         105         99           97          88          86          84
+          0.135     16d 12d      147         127         118          116         110         104         102          92          91          88
+          0.148 10d 20d 16d      165         143         133          130         124         117         115         104         102          99
+          0.162 16d 40d          193         166         154          152         145         137         134         121         119         115
+          0.177          20d     218         188         174          171         163         154         151         136         134         130
+          0.192 20d      30d     226         195         181          177         169         159         156         141         138         135
+          0.207 30d      40d     244         210         194          191         182         172         168         151         149         145
+          0.225 40d              265         228         211          207         198         186         183         164         161         157
+          0.244 50d      60d     272         234         217          213         203         191         187         169         166         161
+  0.134   0.099      6d  7d       95          82          76          74          71          66           65          58          56          54
+(10 gage) 0.113  6d  8d  8d      116         100          93          92          88          83           81          73          72          69
+          0.120          10d     127         110         102          100         96          91           89          80          79          76
+          0.128     10d          140         122         113          111         106         100          98          89          87          85
+          0.131 8d               146         126         117          115         110         104         102          92          90          88
+          0.135     16d 12d      153         132         123          121         115         109         107          96          95          92
+          0.148 10d 20d 16d      172         148         138          135         129         122         120         108         106         104
+          0.162 16d 40d          199         172         160          157         150         142         139         125         123         120
+          0.177          20d     224         194         180          176         169         159         156         141         138         135
+          0.192 20d      30d     232         200         186          182         174         164         161         145         143         139
+          0.207 30d      40d     249         215         199          196         187         176         173         156         153          149
+          0.225 40d              270         233         216          212         202         191         187         168         165          161
+          0.244 50d      60d     277         239         221          217         207         195         192         173         170         165
+  0.179   0.099      6d  7d       97          82          76          74          71          66           65          58          56          54
+ (7 gage) 0.113 6d   8d  8d      126         107          99          97          92          86           84          76          74          70
+          0.120          10d     142         121         111          109         104         97           95          85          83          79
+          0.128     10d          161         137         126          124         118         111         108          97          94          90
+          0.131 8d               168         144         132          130         123         116         114         102          99          94
+          0.135     16d 12d      175         152         141          138         131         123         121         108         105         100
+          0.148 10d 20d 16d      195         170         158          155         148         140         137         123         121         117
+          0.162 16d 40d          224         194         180          177         169         160         157         142         140         136
+          0.177          20d     249         215         200          197         188         178         174         157         155          151
+          0.192 20d      30d     256         222         206          203         194         183         179         162         159         155
+          0.207 30d      40d     272         236         219          215         205         194         190         172         169         164
+          0.225 40d              292         252         234          230         220         207         203         184         180         176
+          0.244 50d      60d     299         258         240          235         225         212         208         188         185         180
+  0.239   0.099      6d  7d       97          82          76          74          71          66           65          58          56          54
+(3 gage)  0.113 6d   8d  8d      126         107          99          97          92          86           84          76          74          70
+          0.120          10d     142         121         111          109         104         97           95          85          83          79
+          0.128     10d          161         137         126          124         118         111         108          97          94          90
+          0.131 8d               169         144         132          130         123         116         114         102          99          94
+          0.135     16d 12d      180         153         141          138         131         123         121         108         105          100
+          0.148 10d 20d 16d      205         174         160          157         149         140         137         123         121          117
+          0.162 16d 40d          245         209         192          188         179         168         165         147         145         140
+          0.177          20d     284         241         222          218         207         195         191         170         167         162
+          0.192 20d      30d     295         251         231          227         216         202         198         177         174         169
+          0.207 30d      40d     310         270         251          246         236         222         217         194         191         185
+          0.225 40d              328         285         265          260         249         235         231         209         205         200
+          0.244 50d      60d     336         291         271          266         254         240         236         213         210          204
+
+Table 12P
+COMMON, BOX, or SINKER STEEL WIRE NAILS: Reference Lateral Design
+Values, Z, for Single Shear (two member) Connections1,2,3
+
+for sawn lumber or SCL with ASTM 653, Grade 33 steel side plate
+(tabulated lateral design values are calculated based on an assumed length of nail
+penetration, p, into the main member equal to 10D)
+
+(Cont.)
+
+[text in another orientation] Side Member Thickness | Nail Diameter | Common Wire Nail | Box Nail | Sinker Nail | G=0.67 Red Oak | G=0.55 Mixed Maple Southern Pine | G=0.5 Douglas Fir-Larch | G=0.49 Douglas Fir-Larch (N) | G=0.46 Douglas Fir(S) Hem-Fir(N) | G=0.43 Hem-Fir | G=0.42 Spruce-Pine-Fir | G=0.37 Redwood | G=0.36 Eastern Softwoods Spruce-Pine-Fir(S) Western Cedars Western Woods | G=0.35 Northern Species
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

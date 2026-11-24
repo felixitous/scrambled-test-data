@@ -1,0 +1,100 @@
+[nds-2018 | NDS-2018.pdf | pdf page 22 | printed page 10]
+
+10 DESIGN VALUES FOR STRUCTURAL MEMBERS
+
+2.1 General
+
+2.1.1 General Requirement
+
+Each wood structural member or connection shall
+be of sufficient size and capacity to carry the applied
+loads without exceeding the adjusted design values
+specified herein.
+
+2.1.1.1 For ASD, calculation of adjusted design val-
+ues shall be determined using applicable ASD adjust-
+ment factors specified herein.
+
+2.1.1.2 For LRFD, calculation of adjusted design
+values shall be determined using applicable LRFD ad-
+justment factors specified herein.
+
+2.1.2 Responsibility of Designer to Adjust
+for Conditions of Use
+
+Adjusted design values for wood members and con-
+nections in particular end uses, shall be appropriate for
+the conditions under which the wood products are used,
+taking into account conditions such as the differences in
+wood strength properties with different moisture con-
+tents, load durations, and types of treatment. Common
+end use conditions are addressed in this Specification. It
+shall be the final responsibility of the designer to relate
+design assumptions with design values, and to make
+design value adjustments appropriate to the end use
+conditions.
+
+2.2 Reference Design Values
+
+Reference design values and design value adjust-
+ments for wood products in 1.1.1.1 are based on meth-
+ods specified in each of the wood product chapters.
+Chapters 4 through 10 contain design provisions for
+sawn lumber, glued laminated timber, poles and piles,
+prefabricated wood I-joists, structural composite lum-
+
+ber, wood structural panels, and cross-laminated timber,
+respectively. Chapters 11 through 14 contain design
+provisions for connections. Reference design values are
+for normal load duration under the moisture service
+conditions specified.
+
+2.3 Adjustment of Reference Design Values
+
+2.3.1 Applicability of Adjustment Factors
+
+Reference design values shall be multiplied by all
+applicable adjustment factors to determine adjusted de-
+sign values. The applicability of adjustment factors to
+sawn lumber, structural glued laminated timber, poles
+and piles, prefabricated wood I-joists, structural compo-
+site lumber, wood structural panels, cross-laminated
+timber, and connection design values is defined in 4.3,
+5.3, 6.3, 7.3, 8.3, 9.3, 10.3, and 11.3, respectively.
+
+2.3.2 Load Duration Factor, CD (ASD Only)
+
+2.3.2.1 Wood has the property of carrying substan-
+tially greater maximum loads for short durations than
+for long durations of loading. Reference design values
+apply to normal load duration. Normal load duration
+represents a load that fully stresses a member to its al-
+lowable design value by the application of the full de-
+sign load for a cumulative duration of approximately ten
+years. When the cumulative duration of the full maxi-
+mum load does not exceed the specified time period, all
+
+reference design values except modulus of elasticity, E,
+modulus of elasticity for beam and column stability,
+Emin, and compression perpendicular to grain, Fc⊥, based
+on a deformation limit (see 4.2.6) shall be multiplied by
+the appropriate load duration factor, CD, from Table
+2.3.2 or Figure B1 (see Appendix B) to take into ac-
+count the change in strength of wood with changes in
+load duration.
+
+2.3.2.2 The load duration factor, CD, for the shortest
+duration load in a combination of loads shall apply for
+that load combination. All applicable load combinations
+shall be evaluated to determine the critical load combi-
+nation. Design of structural members and connections
+shall be based on the critical load combination (see Ap-
+pendix B.2).
+
+2.3.2.3 The load duration factors, CD, in Table 2.3.2
+and Appendix B are independent of load combination
+factors, and both shall be permitted to be used in design
+calculations (see 1.4.4 and Appendix B.4).
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

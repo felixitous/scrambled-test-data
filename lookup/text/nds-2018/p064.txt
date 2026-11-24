@@ -1,0 +1,89 @@
+[nds-2018 | NDS-2018.pdf | pdf page 64 | printed page 52]
+
+52 STRUCTURAL COMPOSITE LUMBER
+
+8.1 General
+
+8.1.1 Scope
+
+Chapter 8 applies to engineering design with struc-
+tural composite lumber. Basic requirements are provid-
+ed in this Specification. Design procedures and other
+information provided herein apply only to structural
+composite lumber conforming to all pertinent provi-
+sions of ASTM D5456.
+
+8.1.2 Definitions
+
+8.1.2.1 The term “laminated veneer lumber” refers
+to a composite of wood veneer sheet elements with
+wood fiber primarily oriented along the length of the
+member. Veneer thickness shall not exceed 0.25".
+
+8.1.2.2 The term “parallel strand lumber” refers to a
+composite of wood strand elements with wood fibers
+primarily oriented along the length of the member. The
+least dimension of the strands shall not exceed 0.25"
+and the average length shall be a minimum of 150 times
+the least dimension.
+
+8.1.2.3 The term “laminated strand lumber”, refers
+to a composite of wood strand elements with wood fi-
+bers primarily oriented along the length of the member.
+The least dimension of the strands shall not exceed
+0.10" and the average length shall be a minimum of 150
+times the least dimension.
+
+8.1.2.4 The term “oriented strand lumber”, refers to
+a composite of wood strand elements with wood fibers
+primarily oriented along the length of the member. The
+least dimension of the strands shall not exceed 0.10"
+and the average length shall be a minimum of 75 times
+the least dimension.
+
+8.1.2.5 The term “structural composite lumber” re-
+fers to either laminated veneer lumber, parallel strand
+lumber, laminated strand lumber, or oriented strand
+lumber. These materials are structural members bonded
+with an exterior adhesive.
+
+8.1.3 Identification
+
+When the design procedures and other information
+provided herein are used, the structural composite lum-
+ber shall be identified with the manufacturer’s name
+and the quality assurance agency’s name.
+
+8.1.4 Service Conditions
+
+Reference design values reflect dry service condi-
+tions, where the moisture content of sawn lumber in
+service is less than 16%, as in most covered structures.
+Structural composite lumber shall not be used in higher
+moisture service conditions unless specifically permit-
+ted by the structural composite lumber manufacturer.
+
+8.2 Reference Design Values
+
+Reference design values for structural composite
+lumber shall be obtained from the structural composite
+lumber manufacturer’s literature or code evaluation
+report. In special applications where deflection is a crit-
+ical factor, or where deformation under long-term load-
+
+ing must be limited, the need for use of a reduced mod-
+ulus of elasticity shall be determined. See Appendix F
+for provisions on adjusted values for special end use
+requirements.
+
+8.3 Adjustment of Reference Design Values
+
+8.3.1 General
+
+Reference design values (Fb, Ft, Fv, Fc⊥, Fc, E, Emin)
+shall be multiplied by the adjustment factors specified
+in Table 8.3.1 to determine adjusted design values (Fb',
+Ft', Fv', Fc⊥', Fc', E', Emin').
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

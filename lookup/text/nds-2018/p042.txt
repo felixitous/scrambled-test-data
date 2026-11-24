@@ -1,0 +1,91 @@
+[nds-2018 | NDS-2018.pdf | pdf page 42 | printed page 30]
+
+30 SAWN LUMBER
+
+4.3.8 Incising Factor, Ci
+
+Reference design values for dimension lumber shall
+be multiplied by the incising factor, Ci, in Table 4.3.8
+when dimension lumber is incised parallel to grain a
+maximum depth of 0.4", a maximum length of 3/8",
+and a density of incisions up to 1100/ft2. As an alterna-
+tive, incising factors for specific incising patterns and
+lumber sizes shall be obtained from the company
+providing the incising.
+
+Table 4.3.8    Incising Factors, Ci
+ Design Value            Ci
+ E, Emin                 0.95
+ Fb, Ft, Fc, Fv          0.80
+ Fc⊥                     1.00
+
+4.3.9 Repetitive Member Factor, Cr
+
+Reference bending design values, Fb, in Tables 4A,
+4B, 4C, and 4F for dimension lumber 2" to 4" thick
+shall be multiplied by the repetitive member factor, Cr
+= 1.15, where such members are used as joists, truss
+chords, rafters, studs, planks, decking, or similar mem-
+bers which are in contact or spaced not more than 24"
+on center, are not less than three in number and are
+joined by floor, roof or other load distributing elements
+adequate to support the design load. (A load distrib-
+uting element is any adequate system that is designed
+or has been proven by experience to transmit the design
+load to adjacent members, spaced as described above,
+without displaying structural weakness or unacceptable
+deflection. Subflooring, flooring, sheathing, or other
+covering elements and nail gluing or tongue-and-
+groove joints, and through nailing generally meet these
+criteria.) Reference bending design values in Table 4E
+for visually graded Decking have already been multi-
+plied by Cr = 1.15.
+
+4.3.10 Column Stability Factor, CP
+
+Reference compression design values parallel to
+grain, Fc, shall be multiplied by the column stability
+factor, CP, specified in 3.7.
+
+4.3.11 Buckling Stiffness Factor, CT
+
+Reference modulus of elasticity for beam and col-
+umn stability, Emin, shall be permitted to be multiplied
+by the buckling stiffness factor, CT, as specified in
+4.4.2.
+
+4.3.12 Bearing Area Factor, Cb
+
+Reference compression design values perpendicular
+to grain, Fc⊥, shall be permitted to be multiplied by the
+bearing area factor, Cb, as specified in 3.10.4.
+
+4.3.13 Pressure-Preservative Treatment
+
+Reference design values apply to sawn lumber
+pressure-treated by an approved process and preserva-
+tive (see Reference 30). Load duration factors greater
+than 1.6 shall not apply to structural members pressure-
+treated with water-borne preservatives.
+
+4.3.14 Format Conversion Factor, KF (LRFD
+Only)
+
+For LRFD, reference design values shall be multi-
+plied by the format conversion factor, KF, specified in
+Table 4.3.1.
+
+4.3.15 Resistance Factor, φ (LRFD Only)
+
+For LRFD, reference design values shall be multi-
+plied by the resistance factor, φ, specified in Table
+4.3.1.
+
+4.3.16 Time Effect Factor, λ (LRFD Only)
+
+For LRFD, reference design values shall be multi-
+plied by the time effect factor, λ, specified in Appendix
+N.3.3.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

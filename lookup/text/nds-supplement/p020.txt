@@ -1,0 +1,118 @@
+[nds-supplement | NDS_supplement.pdf | pdf page 20 | printed page 12]
+
+12 SECTION PROPERTIES
+
+3.1 Section Properties of Sawn Lumber and Structural Glued
+Laminated Timber
+
+3.1.1
+Standard Sizes of Sawn Lumber
+
+Details regarding the dressed sizes of various spe-
+cies of lumber in the grading rules of the agencies which
+formulate and maintain such rules. The dressed sizes in
+Table 1A conform to the sizes set forth in U.S. Depart-
+ment of Commerce Voluntary Product Standard PS 20-10
+(American Softwood Lumber Standard). While these sizes
+are generally available on a commercial basis, it is good
+practice to consult the local lumber dealer to determine
+what sizes are on hand or can be readily secured.
+
+Dry lumber is defined as lumber which has been sea-
+soned to a moisture content of 19% or less. Green lumber
+is defined as lumber having a moisture content in excess
+of 19%.
+
+3.1.2
+Properties of Standard Dressed
+Sizes
+
+Certain mathematical expressions of the properties
+or elements of sections are used in design calculations
+for various member shapes and loading conditions. The
+section properties for selected standard sizes of boards,
+dimension lumber, and timbers are given in Table 1B.
+Section properties for selected standard sizes of structural
+glued laminated timber are given in Tables 1C and 1D.
+
+3.1.3
+Definitions
+
+NEUTRAL AXIS, in the cross section of a beam, is
+the line on which there is neither tension nor compression
+stress.
+
+MOMENT OF INERTIA, I, of the cross section of a
+beam is the sum of the products of each of its elementary
+areas multiplied by the square of their distance from the
+neutral axis of the section.
+
+SECTION MODULUS, S, is the moment of inertia
+divided by the distance from the neutral axis to the extreme
+fiber of the section.
+
+CROSS SECTION is a section taken through the
+member perpendicular to its longitudinal axis.
+
+The following symbols and formulas apply to rectan-
+gular beam cross sections:
+
+X-X = neutral axis for edgewise bending (load
+      applied to narrow face)
+Y-Y = neutral axis for flatwise bending (load
+      applied to wide face)
+  b = breadth (thickness) of rectangular bending
+      member, in.
+  d = depth (width) of rectangular bending member, in.
+  A = bd = area of cross section, in.2
+  c = distance from neutral axis to extreme fiber of
+      cross section, in.
+  Ix = bd3/12 = moment of inertia about the X-X axis,
+      in.4
+  Iy = db3/12 = moment of inertia about the Y-Y axis,
+      in.4
+  rx = Ix /A = d/ 12 = radius of gyration about the
+      X-X axis, in.
+  ry = Iy /A = b/ 12 = radius of gyration about
+      the Y-Y axis, in.
+ Sx  = Ix/c = bd2/6 = section modulus about the X-X
+      axis, in.3
+ Sy = Iy/c = db2/6 = section modulus about the Y-Y
+      axis, in.3
+
+The following formula shall be used to determine the
+density in lbs/ft3 of wood:
+
+density = 62.4⎡⎢      G         ⎤⎥⎡1 + m.c.⎤
+              ⎣1 + G(0.009)(m.c.) ⎦⎣⎢ 100 ⎦⎥
+
+where:
+
+G = specific gravity of wood
+
+m.c. = moisture content of wood, %
+
+Figure 1A
+Dimensions for Rectangular
+Cross Section
+
+X
+
+Y
+
+Y
+
+Y
+
+Y
+
+X
+X
+
+X
+
+Structural Glued Laminated Timber
+Sawn Lumber
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

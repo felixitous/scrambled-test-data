@@ -1,0 +1,151 @@
+[nds-2018 | NDS-2018.pdf | pdf page 11 | printed page ix]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION ix
+
+LIST OF FIGURES FOR THE NDS
+
+3A Spacing of Staggered Fasteners.......................... 14
+
+3B
+Net Cross Section at a Split Ring or Shear
+Plate Connection................................................. 14
+
+3C
+Shear at Supports................................................ 17
+
+3D
+Bending Member End-Notched on
+Compression Face............................................... 18
+
+3E
+Effective Depth, de, of Members at
+Connections........................................................ 19
+
+3F
+Simple Solid Column.......................................... 20
+
+3G
+Combined Bending and Axial Tension............... 22
+
+3H
+Combined Bending and Axial Compression....... 23
+
+3I
+Bearing at an Angle to Grain ............................. 24
+
+4A
+Notch Limitations for Sawn Lumber Beams ..... 32
+
+5A
+Axis Orientations................................................ 35
+
+5B
+Depth, dy, for Flat Use Factor............................. 38
+
+5C
+Double-Tapered Curved Bending Member........ 40
+
+5D
+Tudor Arch.......................................................... 41
+
+5E
+Tapered Straight Bending Members................... 41
+
+11A  Eccentric Connections ....................................... 64
+11B  Group Action for Staggered Fasteners................ 69
+12A  Toe-Nail Connection........................................... 75
+12B  Single Shear Bolted Connections....................... 84
+12C  Double Shear Bolted Connections...................... 84
+12D  Multiple Shear Bolted Connections.................... 88
+12E  Shear Area for Bolted Connections ................... 88
+12F  Combined Lateral and Withdrawal Loading....... 89
+12G  Bolted Connection Geometry............................. 90
+12H  Spacing Between Outer Rows of Bolts ............. 92
+
+12I
+End Distance, Edge Distance and Fastener
+Spacing Requirements in Narrow Edge of
+Cross-Laminated Timber ................................... 92
+
+13A Split Ring Connector........................................ 120
+
+13B Pressed Steel Shear Plate Connector................ 120
+
+13C Malleable Iron Shear Plate Connector.............. 120
+
+13D Axis of Cut for Symmetrical Sloping
+End Cut............................................................. 125
+
+13E Axis of Cut for Asymmetrical Sloping
+End Cut............................................................. 125
+
+13F Square End Cut................................................. 126
+
+13G Sloping End Cut with Load Parallel to
+Axis of Cut (ϕ = 0°).......................................... 126
+
+13H Sloping End Cut with Load Perpendicular
+to Axis of Cut (ϕ = 90°).................................... 126
+
+13I
+Sloping End Cut with Load at an Angle ϕ
+to Axis of Cut.................................................... 126
+
+13J
+Connection Geometry for Split Rings and
+Shear Plates....................................................... 127
+
+13K End Distance for Members with Sloping
+End Cut............................................................. 127
+
+13L Connector Axis and Load Angle....................... 127
+
+14A End and Edge Distance Requirements for
+Timber Rivet Joints .......................................... 136
+
+15A Spaced Column Joined by Split Ring or
+Shear Plate Connectors..................................... 147
+
+15B Mechanically Laminated Built-Up
+Columns............................................................ 149
+
+15C Typical Nailing Schedules for Built-Up
+Columns............................................................ 150
+
+15D Typical Bolting Schedules for Built-Up
+Columns............................................................ 150
+
+15E Eccentrically Loaded Column ......................... 152
+
+B1
+Load Duration Factors, CD, for Various
+Load Durations ................................................ 161
+
+E1
+Staggered Rows of Bolts ................................. 165
+
+E2
+Single Row of Bolts.......................................... 166
+
+E3
+Single Row of Split Ring Connectors............... 167
+
+E4
+Acritical for Split Ring Connection (based on
+distance from end of member).......................... 167
+
+E5
+Acritical for Split Ring Connection (based on
+distance between first and second split ring).... 168
+
+I1
+(Non-mandatory) Connection Yield Modes .... 174
+
+J1
+Solution of Hankinson Formula........................ 178
+
+J2
+Connection Loaded at an Angle to Grain......... 178
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

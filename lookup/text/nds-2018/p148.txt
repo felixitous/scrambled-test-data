@@ -1,0 +1,39 @@
+[nds-2018 | NDS-2018.pdf | pdf page 148 | printed page 136]
+
+136 TIMBER RIVETS
+
+14.3 Placement of Timber Rivets
+
+14.3.1 Spacing Between Rivets
+
+Minimum spacing of rivets shall be 1/2" perpen-
+dicular to grain, sq, and 1" parallel to grain, sp. The
+maximum distance perpendicular to grain between
+outermost rows of rivets shall be 12".
+
+14.3.2 End and Edge Distance
+
+Minimum values for end distance (ap, aq) and edge
+distance (ep, eq) as shown and noted in Figure 14A, are
+listed in Table 14.3.2.
+
+Table 14.3.2
+Minimum End and Edge Distances for Timber Rivet Joints
+
+                                      Minimum end distance,                            Minimum edge distance,
+                                               a, in.                                            e, in.
+       Number of                  Load                     Load
+       rivet rows,               Parallel              perpendicular            Unloaded Edge             Loaded edge
+           nR                  to grain, aP             to grain, aq                  eP                       eq
+          1, 2                      3                        2                        1                        2
+         3 to 8                     3                        3                        1                        2
+         9, 10                      4                      3-1/8                      1                        2
+         11, 12                     5                        4                        1                        2
+         13, 14                     6                      4-3/4                      1                        2
+         15, 16                     7                      5-1/2                      1                        2
+     17 and greater                 8                      6-1/4                      1                        2
+ Note: End and edge distance requirements are shown in Figure 14A.
+Figure 14A             End and Edge Distance Requirements for Timber Rivet Joints
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

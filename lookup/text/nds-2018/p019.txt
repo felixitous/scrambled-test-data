@@ -1,0 +1,129 @@
+[nds-2018 | NDS-2018.pdf | pdf page 19 | printed page 7]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 7
+GENERAL REQUIREMENTS FOR STRUCTURAL DESIGN
+1
+
+ap = minimum end distance load parallel to
+     grain for timber rivet joints, in.
+aq = minimum end distance load perpendicular
+     to grain for timber rivet joints, in.
+ b = breadth (thickness) of rectangular bending
+     member, in.
+ c = distance from neutral axis to extreme
+     fiber, in.
+ d = depth (width) of bending member, in.
+ d = least dimension of rectangular compres-
+     sion member, in.
+ d = pennyweight of nail or spike
+ d = representative dimension for tapered
+     column, in.
+dc = depth at peaked section of double-tapered
+
+curved structural glued laminated timber
+bending member, in.
+
+de = effective depth of member at a connec-
+
+tion, in.
+
+de = depth of double-tapered curved structural
+
+glued laminated timber bending member
+at ends, in.
+
+de = depth at the small end of a tapered
+
+straight structural glued laminated timber
+bending member, in.
+
+dequiv = depth of an equivalent prismatic structural
+        glued laminated timber member, in.
+ dmax = the maximum dimension for that face of a
+        tapered column, in.
+ dmin = the minimum dimension for that face of a
+        tapered column, in.
+   dn = depth of member remaining at a notch
+        measured perpendicular to the length of
+        the member, in.
+   dy = depth of structural glued laminated timber
+
+parallel to the wide face of the laminations
+when loaded in bending about the y-y axis,
+in.
+
+d1, d2 = cross-sectional dimensions of rectangular
+
+compression member in planes of lateral
+support, in.
+
+e = eccentricity, in.
+
+e = the distance the notch extends from the
+
+inner edge of the support, in.
+
+ep = minimum edge distance unloaded edge
+
+for timber rivet joints, in.
+
+eq = minimum edge distance loaded edge for
+      timber rivet joints, in.
+ fb = actual bending stress, psi
+fb1 = actual edgewise bending stress, psi
+fb2 = actual flatwise bending stress, psi
+ fc = actual compression stress parallel to
+      grain, psi
+ fc' = concrete compressive strength, psi
+fc⊥ = actual compression stress perpendicular
+      to grain, psi
+ fr = actual radial stress in curved bending
+      member, psi
+ ft = actual tension stress parallel to grain, psi
+ fv = actual shear stress parallel to grain, psi
+ g = gauge of screw
+ h = vertical distance from the end of the
+
+double-tapered curved structural glued
+laminated timber beam to mid-span, in.
+
+ha = vertical distance from the top of the
+
+double-tapered curved structural glued
+laminated timber supports to the beam
+apex, in.
+
+hlam = lamination thickness (in.) for cross-
+
+laminated timber
+
+ℓ = span length of bending member, in.
+
+ℓ = distance between points of lateral support
+
+of compression member, in.
+
+ℓb = bearing length, in.
+
+ℓc = clear span, in.
+
+ℓc = length between tangent points for double-
+
+tapered curved structural glued laminated
+timber members, in.
+
+     ℓe = effective span length of bending member,
+          in.
+     ℓe = effective length of compression member,
+          in.
+ℓe1, ℓe2 = effective length of compression member
+          in planes of lateral support, in.
+   ℓe/d = slenderness ratio of compression member
+    ℓm = length of dowel bearing in main member,
+          in.
+     ℓn = length of notch, in.
+     ℓs = length of dowel bearing in side member,
+          in.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

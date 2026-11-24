@@ -1,0 +1,61 @@
+[nds-2018 | NDS-2018.pdf | pdf page 189 | printed page 177]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 177
+APPENDIX
+A
+
+For wood-to-wood connections with the main member
+loaded parallel to grain,
+
+Zll′ = adjusted lateral design value for a single bolt
+
+or lag screw connection with the main and
+side wood members loaded parallel to grain,
+Zll
+
+Z⊥′ = adjusted lateral design value for a single bolt
+
+or lag screw connection with the main
+member loaded parallel to grain and side
+member(s) loaded perpendicular to grain, Zs⊥
+
+For wood-to-metal connections,
+
+Zll′ = adjusted lateral design value for a single bolt
+
+or lag screw connection with the wood
+member loaded parallel to grain, Zll
+
+Z⊥′ = adjusted lateral design value for a single bolt
+
+or lag screw connection with the wood
+member loaded perpendicular to grain, Z⊥
+
+When determining adjusted design values for split
+ring or shear plate connectors or timber rivets, the
+Hankinson formula takes the following form:
+
+                 P′′Q
+    N′=′                                         (J-4)
+         P sin2 θ+  Q′ cos2 θ
+where:
+      P ′ = adjusted lateral design value parallel to grain
+
+for a single split ring connector unit or shear
+plate connector unit
+
+Q ′ = adjusted lateral design value perpendicular
+
+to grain for a single split ring connector unit
+or shear plate connector unit
+
+N ′ = adjusted lateral design value at an angle to
+
+grain for a single split ring connector unit or
+shear plate connector unit
+
+The nomographs presented in Figure J1 provide a
+graphical solution of the Hankinson formula.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

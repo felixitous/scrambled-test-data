@@ -1,0 +1,85 @@
+[nds-2018 | NDS-2018.pdf | pdf page 95 | printed page 83]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 83
+DOWEL-TYPE FASTENERS
+12
+
+12.3 Reference Lateral Design Values
+
+12.3.1 Yield Limit Equations
+
+Reference lateral design values, Z, for single shear
+and symmetric double shear connections using dowel-
+type fasteners shall be the minimum computed yield
+mode value using equations in Tables 12.3.1A and
+12.3.1B (see Figures 12B, 12C, and Appendix I) where:
+(a) the faces of the connected members are in contact;
+(b) the load acts perpendicular to the axis of the dowel;
+(c) edge distances, end distances, and spacing are not
+
+less than the requirements in 12.5; and
+(d) for lag screws, wood screws, and nails and spikes,
+
+the length of fastener penetration, p, into the main
+member of a single shear connection or the side
+member of a double shear connection is greater
+than or equal to pmin (see 12.1).
+
+12.3.2 Common Connection Conditions
+
+Reference lateral design values, Z, for connections
+with bolts (see Tables 12A through 12I), lag screws
+(see Tables 12J and 12K), wood screws (see Tables
+12L and 12M), nails and spikes (see Tables 12N
+through 12R), and post-frame ring shank nails (see Ta-
+bles 12S and 12T), are calculated for common connec-
+tion conditions in accordance with yield mode equa-
+tions in Tables 12.3.1A and 12.3.1B. Tabulated refer-
+ence lateral design values, Z, shall be multiplied by ap-
+plicable Table footnotes to determine an adjusted lat-
+eral design value, Z'.
+
+Table 12.3.1A     Yield Limit Equations
+Yield Mode      Single Shear                                         Double Shear
+                Z = D  ℓm Fem               (12.3-1)                 Z = D ℓm Fem                 (12.3-7)
+       Im               Rd                                                  Rd
+                Z = D  ℓs Fes               (12.3-2)                 Z = 2 D ℓs  Fes              (12.3-8)
+       Is              Rd                                                    Rd
+                Z =  k1 D ℓs Fes            (12.3-3)
+       II                R
+                          d
+                Z =  k2 D ℓm Fem            (12.3-4)
+      IIIm           (1 + 2Re )Rd
+                Z = k3 D ℓs Fem             (12.3-5)                 Z = 2k3  D ℓs Fem            (12.3-9)
+      IIIs           (2 + Re )Rd                                          (2 + Re ) Rd
+                Z = D2   2Fem  Fyb          (12.3-6)                 Z = 2D2    2Fem  Fyb         (12.3-10)
+       IV           Rd   3 (1 + Re )                                      Rd    3 (1 + Re )
+ Notes:
+       Re + 2Re2 (1 + Rt + Rt2 ) + Rt2Re3 − Re (1 + Rt )
+ k1 =
+                      (1 + Re )
+                     2Fyb (1 + 2Re )D2                         ℓm/ℓs
+ k2 =−1 +  2(1 + Re ) +       2
+                       3Femℓm
+           2(1 + Re ) 2Fyb (2 + Re )D2
+ k3 =−1 +         +         2
+             Re       3Femℓs
+
+D = diameter, in. (see 12.3.7)
+Fyb = dowel bending yield strength, psi
+Rd = reduction term (see Table 12.3.1B)
+Re = Fem/Fes
+Rt =
+
+ℓm = main member dowel bearing length, in.
+
+ℓs = side member dowel bearing length, in.
+Fem = main member dowel bearing strength, psi (see Table
+
+12.3.3)
+Fes = side member dowel bearing strength, psi (see Table
+
+12.3.3)
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

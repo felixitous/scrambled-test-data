@@ -1,0 +1,56 @@
+[nds-2018 | NDS-2018.pdf | pdf page 69 | printed page 57]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 57
+WOOD STRUCTURAL PANELS
+9
+
+9.3 Adjustment of Reference Design Values
+
+9.3.1 General
+
+Reference design values shall be multiplied by the
+adjustment factors specified in Table 9.3.1 to determine
+adjusted design values.
+
+9.3.2 Load Duration Factor, CD (ASD Only)
+
+All reference strength design values (FbS, FtA, Fvtv,
+Fs(Ib/Q), FcA) shall be multiplied by load duration fac-
+tors, CD, as specified in 2.3.2.
+
+9.3.3 Wet Service Factor, CM, and
+Temperature Factor, Ct
+
+Reference design values for wood structural panels
+are applicable to dry service conditions as specified in
+9.1.4 where CM = 1.0 and Ct = 1.0. When the service
+conditions differ from the specified conditions, adjust-
+ments for high moisture and/or high temperature shall
+be based on information from an approved source.
+
+Table 9.3.1
+Applicability of Adjustment Factors for Wood
+Structural Panels
+
+ASD
+
+only ASD and LRFD
+LRFD
+
+only
+
+                                                 KF    φ
+FbS' = FbS             x   CD   CM    Ct    Cs  2.54  0.85   λ
+FtA' = FtA             x   CD   CM    Ct    Cs  2.70  0.80   λ
+Fvtv' = Fvtv           x   CD   CM    Ct    -   2.88  0.75   λ
+Fs(Ib/Q)' = Fs(Ib/Q)   x   CD   CM    Ct    -   2.88  0.75   λ
+FcA' = FcA            x    CD   CM    Ct    -   2.40  0.90   λ
+ Fc⊥' = Fc⊥           x     -   CM    Ct    -   1.67  0.90   -
+EI' = EI              x     -   CM    Ct    -     -     -    -
+EA' = EA              x     -   CM    Ct    -     -     -    -
+Gvtv' = Gvtv          x     -   CM    Ct    -     -     -    -
+
+[text in another orientation] Load Duration Factor | Wet Service Factor | Temperature Factor | Panel Size Factor | Format Conversion Factor | Resistance Factor | Time Effect Factor
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

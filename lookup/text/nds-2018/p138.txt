@@ -1,0 +1,49 @@
+[nds-2018 | NDS-2018.pdf | pdf page 138 | printed page 126]
+
+126 SPLIT RING AND SHEAR PLATE CONNECTORS
+
+13.2.6.2 Where split ring or shear plate connectors
+are installed in square-cut end grain or sloping surfaces,
+adjusted design values shall be determined as follows
+(see 11.2.2):
+
+(a) Square-cut surface; loaded in any direction
+
+(α = 90°, see Figure 13F).
+
+Q90 ′ = 0.60Q ′
+(13.2-2)
+
+Figure 13F
+Square End Cut
+
+(b) Sloping surface; loaded parallel to axis of cut
+    (0° < α < 90°, ϕ = 0°, see Figure 13G).
+               P′Q90′
+P′=′α P sin2  α+  Q  ′ cos2 α              (13.2-3)
+                   90
+
+Figure 13G
+Sloping End Cut with Load
+Parallel to Axis of Cut (ϕ = 0°)
+
+    (c) Sloping surface; loaded perpendicular to axis of
+       cut (0° < α < 90°, ϕ = 90°, see Figure 13H).
+    Q′=          Q′Q90′                   (13.2-4)
+      α   Q′ sin2 α+ Q90′ cos2 α
+Figure 13H  Sloping End Cut with Load
+            Perpendicular to Axis of Cut
+            (ϕ = 90°)
+
+(d) Sloping surface; loaded at angle ϕ to axis of cut
+    (0° < α < 90°, 0° < ϕ < 90°, see Figure 13I).
+N′=            Pα′Qα′                      (13.2-5)
+  α   Pα′ sin2 ϕ+ Qα′ cos2  ϕ
+
+Figure 13I
+
+Sloping End Cut with Load at an
+Angle ϕ to Axis of Cut
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

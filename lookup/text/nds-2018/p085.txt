@@ -1,0 +1,87 @@
+[nds-2018 | NDS-2018.pdf | pdf page 85 | printed page 73]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 73
+12
+
+DOWEL-TYPE
+FASTENERS
+
+12.1 General
+74
+12.2 Reference Withdrawal Design Values
+76
+12.3 Reference Lateral Design Values
+83
+12.4 Combined Lateral and Withdrawal
+Loads
+89
+12.5 Adjustment of Reference Design Values 89
+12.6 Multiple Fasteners
+93
+
+(BOLTS, LAG SCREWS, WOOD
+SCREWS, NAILS/SPIKES,
+DRIFT BOLTS, AND DRIFT PINS)
+
+Table 12.2A
+Lag Screw Reference Withdrawal Design Values.............................77
+
+Table 12.2B
+Wood Screw Reference Withdrawal Design Values...........................78
+
+Table 12.2C-E Nail and Spike Reference Withdrawal Design Values.......................79
+
+Table 12.2F
+Head Pull Through, WH.......................................................................82
+
+Table 12.3.1A
+Yield Limit Equations..........................................................................83
+
+Table 12.3.1B
+Reduction Term, Rd ..............................................................................84
+
+Table 12.3.3
+Dowel Bearing Strengths, Fe, for Dowel-Type Fasteners in
+Wood Members.....................................................................................86
+
+Table 12.3.3A
+Assigned Specific Gravities..................................................................87
+
+Table 12.3.3B
+Dowel Bearing Strengths for Wood Structural Panels......................88
+
+Table 12.5.1A
+End Distance Requirements................................................................90
+
+Table 12.5.1B
+Spacing Requirements for Fasteners in a Row..................................90
+
+Table 12.5.1C
+Edge Distance Requirements...............................................................91
+
+Table 12.5.1D
+Spacing Requirements Between Rows................................................91
+
+Table 12.5.1E
+Edge and End Distance and Spacing Requirements.........................91
+
+Table 12.5.1F
+Perpendicular to Grain Distance Requirements................................91
+
+Table 12.5.1G
+End Distance, Edge Distance, and Fastener Spacing........................92
+
+Tables 12A-I
+BOLTS: Reference Lateral Design Values.........................................94
+
+Tables 12J-K
+LAG SCREWS: Reference Lateral Design Values .........................106
+
+Tables 12L-M
+WOOD SCREWS: Reference Lateral Design Values ....................109
+
+Tables 12N-T
+NAILS: Reference Lateral Values ....................................................111
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

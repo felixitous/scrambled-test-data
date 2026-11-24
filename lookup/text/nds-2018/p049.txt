@@ -1,0 +1,73 @@
+[nds-2018 | NDS-2018.pdf | pdf page 49 | printed page 37]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 37
+STRUCTURAL GLUED LAMINATED TIMBER
+5
+
+5.3.4 Temperature Factor, Ct
+
+When structural members will experience sus-
+tained exposure to elevated temperatures up to 150°F
+(see Appendix C), reference design values shall be
+multiplied by the temperature factors, Ct, specified in
+2.3.3.
+
+5.3.5 Beam Stability Factor, CL
+
+Reference bending design values, Fb, shall be mul-
+tiplied by the beam stability factor, CL, specified in
+3.3.3. The beam stability factor, CL, shall not apply
+simultaneously with the volume factor, CV, for struc-
+tural glued laminated timber bending members (see
+5.3.6). Therefore, the lesser of these adjustment factors
+shall apply.
+
+5.3.6 Volume Factor, CV
+
+When structural glued laminated timber members
+are loaded in bending about the x-x axis, the reference
+bending design values, Fbx
+
+                           +, and Fbx-, shall be multi-
+plied by the following volume factor:
+         ⎛ 21 ⎞1/x ⎛ 12 ⎞1/x ⎛ 5.125 ⎞1/x ≤     (5.3-1)
+    CV = ⎜⎝ L ⎟⎠ ⎜⎝ d ⎟⎠ ⎜⎝ b ⎟⎠  1.0
+where:
+        L = length of bending member between points
+            of zero moment, ft
+        d = depth of bending member, in.
+        b = width (breadth) of bending member.
+
+For multiple piece width layups, b = width of
+widest piece used in the layup.
+Thus, b ≤ 10.75".
+
+x = 20 for Southern Pine
+
+x = 10 for all other species
+
+Table 5.3.1   Applicability of Adjustment Factors for Structural Glued
+              Laminated Timber
+      ASD                  ASD and LRFD                      LRFD
+      only                                                    only
+
+                                                                         KF   φ
+ Fb' = Fb x    CD   CM    Ct   CL   CV    Cfu  Cc   CI    -    -    -   2.54 0.85  λ
+ Ft' = Ft x    CD   CM    Ct    -    -     -    -    -    -    -    -   2.70 0.80  λ
+ Fv' = Fv x    CD   CM    Ct    -    -     -    -    -   Cvr   -    -   2.88 0.75  λ
+ Frt' = Frt x  CD   CM2   Ct2   -    -     -    -    -    -    -    -   2.88 0.75  λ
+ Fc' = Fc x    CD   CM    Ct    -    -     -    -    -    -   CP    -   2.40 0.90  λ
+ Fc⊥' = Fc⊥ x   -   CM    Ct    -    -     -    -    -    -    -   Cb   1.67 0.90  -
+ E' = E   x     -   CM    Ct    -    -     -    -    -    -    -    -    -    -    -
+Emin' = Emin x  -   CM    Ct    -    -     -    -    -    -    -    -   1.76 0.85  -
+
+1.
+The beam stability factor, CL, shall not apply simultaneously with the volume factor, CV, for structural glued laminated timber bend-
+ing members (see 5.3.6). Therefore, the lesser of these adjustment factors shall apply.
+2.
+For radial tension, Frt, the same adjustment factors (CM and Ct) for shear parallel to grain, Fv, shall be used.
+
+[text in another orientation] Load Duration Factor | Wet Service Factor | Temperature Factor | Beam Stability Factor 1 | Volume Factor 1 | Flat Use Factor | Curvature Factor | Stress Interaction Factor | Shear Reduction Factor | Column Stability Factor | Bearing Area Factor | Format Conversion Factor | Resistance Factor | Time Effect Factor
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

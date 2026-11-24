@@ -1,0 +1,82 @@
+[nds-supplement | NDS_supplement.pdf | pdf page 68 | printed page 60]
+
+60 REFERENCE DESIGN VALUES
+
+(Cont.)
+Table 4F
+Reference Design Values for Non-North American Visually Graded Dimension
+Lumber (2" - 4" thick)1,3
+
+(Tabulated design values are for normal load duration and dry service conditions. See NDS 4.3 for a
+comprehensive description of design value adjustment factors.)
+
+                                           USE WITH TABLE 4F ADJUSTMENT FACTORS
+                                                               Design values in pounds per square inch (psi)
+   Species and                                       Tension   Shear    Compression    Compression                                  Grading
+                      Size classification            parallel  parallel perpendicular    parallel                          Specific  Rules
+ commercial Grade                           Bending  to grain  to grain    to grain      to grain     Modulus of Elasticity Gravity5 Agency
+                                              Fb        Ft       Fv          Fc⊥            Fc           E         Emin       G
+SCOTS PINE - Finland
+Select Structural                            1,300     600      150          210          1,200      1,500,000    550,000
+No. 1                                         950      425      150          210          1,100      1,400,000    510,000
+No. 2                     2" & wider          925      425      150          210          1,100      1,300,000    470,000
+No. 3                                         525      250      150          210           625       1,200,000    440,000
+Stud                      2" & wider          725      325      150          210           675       1,200,000    440,000    0.48    WCLIB
+Construction                                 1,050     475      150          210          1,300      1,200,000    440,000
+Standard                 2" - 4" wide         600      275      150          210          1,100      1,100,000    400,000
+Utility                                       275      125      150          210           725       1,000,000    370,000
+SCOTS PINE - Germany4
+Select Structural                            1,200     550      160          395          1,200      1,600,000    580,000
+No. 1                                         800      375      160          395          1,050      1,400,000    510,000
+No. 2                     2" & wider          700      325      160          395           950       1,100,000    400,000
+No. 3                                         400      175      160          395           550       1,000,000    370,000
+Stud                      2" & wider          550      250      160          395           600       1,000,000    370,000    0.53    WCLIB
+Construction                                  800      375      160          395          1,150      1,100,000    400,000
+Standard                 2" - 4" wide         450      200      160          395           975       1,000,000    370,000
+Utility                                       225      100      160          395           625        900,000     330,000
+SCOTS PINE - Sweden
+Select Structural                            1,350     600      120          410          1,200      1,700,000    620,000
+No. 1                                         825      375      120          410          1,000      1,500,000    550,000
+No. 2                     2" & wider          575      250      120          410           825       1,200,000    440,000
+No. 3                                         325      150      120          410           475       1,100,000    400,000
+Stud                      2" & wider          450      200      120          410           525       1,100,000    400,000    0.47    WCLIB
+Construction                                  650      300      120          410          1,050      1,200,000    440,000
+Standard                 2" - 4" wide         375      175      120          410           850       1,100,000    400,000
+Utility                                       175       75      120          410           550       1,000,000    370,000
+
+ Select Structural                               1,700      775      210           710           1,250       1,500,000    550,000
+ No. 1                                           1,150      525      210           710           1,150       1,500,000    550,000
+ No. 2                      2" & wider           1,000      450      210           710           1,100       1,500,000    550,000
+ No. 3                                            575       250      210           710            650        1,400,000    510,000
+ Stud                       2" & wider            800       350      210           710            700        1,400,000    510,000     0.54     SPIB
+ Construction                                    1,150      525      210           710           1,350       1,400,000    510,000
+ Standard                   2" - 4" wide          650       300      210           710           1,150       1,300,000    470,000
+ Utility                                          300       125      210           710            750        1,200,000    440,000
+See footnotes.
+
+Select Structural                             950      425      125          400          1,100      1,500,000    550,000
+No. 1                                         725      325      125          400           975       1,400,000    510,000
+No. 2                     2" & wider          725      325      125          400           950       1,300,000    470,000
+No. 3                                         425      200      125          400           550       1,100,000    400,000
+Stud                      2" & wider          575      250      125          400           600       1,100,000    400,000    0.43    WCLIB
+Construction                                  825      375      125          400          1,150      1,200,000    440,000
+Standard                 2" - 4" wide         475      200      125          400           975       1,100,000    400,000
+Utility                                       225      100      125          400           650       1,000,000    370,000
+SOUTHERN PINE - Misiones Argentina
+Select Structural                            1,100     500      150          440          1,150      1,200,000    440,000
+No. 1                                         775      350      150          440          1,000      1,100,000    400,000
+No. 2                     2" & wider          725      325      150          440           950       1,100,000    400,000
+No. 3                                         425      200      150          440           550        900,000     330,000
+Stud                      2" & wider          575      250      150          440           600        900,000     330,000    0.45     SPIB
+Construction                                  825      375      150          440          1,150      1,000,000    370,000
+Standard                 2" - 4" wide         475      200      150          440           975        900,000     330,000
+Utility                                       225      100      150          440           650        800,000     290,000
+
+SILVER FIR (Abies alba) - Germany. NE France, &
+Switzerland
+
+SOUTHERN PINE - Misiones Argentina, Free of
+Heart Center and Medium Grain Density
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

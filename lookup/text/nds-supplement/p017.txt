@@ -1,0 +1,54 @@
+[nds-supplement | NDS_supplement.pdf | pdf page 17 | printed page 9]
+
+DESIGN VALUES FOR WOOD CONSTRUCTION – NDS SUPPLEMENT 9
+SPECIES COMBINATIONS
+2
+6
+
+2.3     List of Structural Glued Laminated Timber Species Combinations
+    Species or                 Symbol                 Species That May Be              Design Values
+  Species Group                                        Included in Group             Provided in Tables
+Alaska Cedar                       AC                 Alaska Cedar                          5A, 5B
+Douglas Fir-Larch                  DF                 Douglas Fir, Western Larch            5A, 5B
+Eastern Spruce                     ES                 Black Spruce                          5A
+                                                      Red Spruce
+                                                      White Spruce
+Hem-Fir                            HF                 California Red Fir                    5A, 5B
+                                                      Grand Fir
+                                                      Noble Fir
+                                                      Pacific Silver Fir
+                                                      Western Hemlock
+                                                      White Fir
+Softwood Species                   SW                 Alpine Fir                            5A, 5B
+                                                      Balsam Fir
+                                                      Black Spruce
+                                                      Douglas Fir
+                                                      Douglas Fir South
+                                                      Engelmann Spruce
+                                                      Idaho White Pine
+                                                      Jack Pine
+                                                      Lodgepole Pine
+                                                      Mountain Hemlock
+                                                      Ponderosa Pine
+                                                      Red Spruce
+                                                      Sugar Pine
+                                                      Western Larch
+                                                      Western Red Cedar
+                                                      White Spruce
+Southern Pine                      SP                 Loblolly Pine                         5A, 5B
+                                                      Longleaf Pine
+                                                      Shortleaf Pine
+                                                      Slash Pine
+Spruce-Pine-Fir                    SPF                Alpine Fir                            5A
+                                                      Balsam Fir
+                                                      Black Spruce
+                                                      Engelmann Spruce
+                                                      Jack Pine
+                                                      Lodgepole Pine
+                                                      Norway Pine
+                                                      Red Spruce
+                                                      Sitka Spruce
+                                                      White Spruce
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

@@ -1,0 +1,44 @@
+[nds-2018 | NDS-2018.pdf | pdf page 164 | printed page 152]
+
+152 SPECIAL LOADING CONDITIONS
+
+15.4.2 Columns with Side Brackets
+
+15.4.2.1 The formulas in 15.4.1 assume that the
+eccentric load is applied at the end of the column. One
+design method that allows calculation of the actual
+bending stress, fb, if the eccentric load is applied by a
+bracket within the upper quarter of the length of the
+column is as follows.
+
+15.4.2.2 Assume that a bracket load, P, at a dis-
+tance, a, from the center of the column (Figure 15E), is
+replaced by the same load, P, centrally applied at the
+top of the column, plus a side load, Ps, applied at mid-
+height. Calculate Ps from the following formula:
+
+    P =  3P a ℓp                              (15.4-5)
+      s    ℓ2
+where:
+        P = actual load on bracket, lbs.
+       Ps = assumed horizontal side load placed at
+            center of height of column, lbs.
+        a = horizontal distance from load on bracket to
+            center of column, in.
+        ℓ = total length of column, in.
+        ℓP = distance measured vertically from point of
+
+application of load on bracket to farther end
+of column, in.
+
+The assumed centrally applied load, P, shall be
+added to other concentric column loads, and the calcu-
+lated side load, Ps, shall be used to determine the actu-
+al bending stress, fb, for use in the formula for concen-
+tric end and side loading.
+
+Figure 15E
+Eccentrically Loaded Column
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

@@ -1,0 +1,71 @@
+[nds-supplement | NDS_supplement.pdf | pdf page 82 | printed page 74]
+
+74 REFERENCE DESIGN VALUES
+
+Tables 6A and 6B Adjustment Factors
+
+Condition Treatment Factor, Cct
+
+Reference design values are based on air dried condi-
+tioning. If kiln-drying, steam-conditioning, or boultonizing
+is used prior to treatment then the reference design values
+shall be multiplied by the condition treatment factors, Cct.
+
+          Condition Treatment Factor, Cct
+   Air      Kiln    Boulton   Steaming   Steaming
+  Dried    Dried     Drying   (Normal)   (Marine)
+   1.0      0.90      0.95      0.80       0.74
+Critical Section Factor, Ccs
+
+Reference compression design values parallel to
+grain, Fc, for round timber piles and poles are based on
+the strength at the tip of the pile. Reference compression
+design values parallel to grain, Fc, in Table 6A and Table
+6B shall be permitted to be multiplied by the critical section
+factor. The critical section factor, Ccs, shall be determined
+as follows:
+
+Ccs = 1.0 + 0.004Lc
+
+where:
+
+Lc = length from tip of pile to critical section, ft
+
+The increase for location of critical section shall not
+exceed 10% for any pile or pole (Ccs ≤ 1.10). The critical
+section factors, Ccs, are independent of tapered column
+provisions in NDS 3.7.2 and both shall be permitted to be
+used in design calculations.
+
+Load Sharing Factor (Pile Group Factor), Cls
+
+For piles, reference design values are based on single
+piles. If multiple piles are connected by concrete caps or
+equivalent force distributing elements so that the pile group
+deforms as a single element when subjected to the load
+effects imposed on the element, reference bending design
+values, Fb, and reference compression design values paral-
+lel to the grain, Fc, shall be permitted to be multiplied by
+the load sharing factors, Cls.
+
+             Load Sharing Factor, Cls
+ Reference         Number of          Cls
+ Design Value    Piles in Group
+                       2             1.06
+ Fc                    3             1.09
+                   4 or more         1.11
+                       2             1.05
+ Fb                    3             1.07
+                   4 or more         1.08
+Size Factor, CF
+
+For poles and piles with a diameter greater than 13.5",
+reference bending design values shall be multiplied by
+the following size factor determined on the basis of an
+equivalent conventionally loaded square beam of the same
+cross-sectional area:
+
+CF = (12/d)1/9
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

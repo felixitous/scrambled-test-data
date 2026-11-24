@@ -1,0 +1,103 @@
+[nds-2018 | NDS-2018.pdf | pdf page 185 | printed page 173]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 173
+APPENDIX
+A
+
+Appendix I
+
+(Non-mandatory) Yield Limit Equations for
+Connections
+
+I.1 Yield Modes
+
+The yield limit equations specified in 12.3.1 for
+dowel-type fasteners such as bolts, lag screws, wood
+screws, nails, and spikes represent four primary con-
+nection yield modes (see Figure I1). Modes Im and Is
+represent bearing-dominated yield of the wood fibers in
+contact with the fastener in either the main or side
+member(s), respectively. Mode II represents pivoting of
+the fastener at the shear plane of a single shear connec-
+tion with localized crushing of wood fibers near the
+faces of the wood member(s). Modes IIIm and IIIs rep-
+resent fastener yield in bending at one plastic hinge
+point per shear plane, and bearing-dominated yield of
+wood fibers in contact with the fastener in either the
+main or side member(s), respectively. Mode IV repre-
+sents fastener yield in bending at two plastic hinge
+points per shear plane, with limited localized crushing
+of wood fibers near the shear plane(s).
+
+I.2 Dowel Bearing Strength for Steel
+Members
+
+Dowel bearing strength, Fe, for steel members shall
+be based on accepted steel design practices (see Refer-
+ences 39, 40 and 41). Design values in Tables 12B,
+12D, 12G, 12I, 12K, 12M, 12P, and 12T are for 1/4"
+ASTM A 36 steel plate or 3 gage and thinner ASTM A
+653, Grade 33 steel plate with dowel bearing strength
+proportional to ultimate tensile strength. Bearing
+strengths used to calculate connection yield load repre-
+sent nominal bearing strengths of 2.4 Fu and 2.2 Fu, re-
+spectively (based on design provisions in References
+39, 40, and 41 for bearing strength of steel members at
+connections). To allow proper application of the load
+duration factor for these connections, the bearing
+strengths have been divided by 1.6.
+
+I.3 Dowel Bearing Strength for Wood
+Members
+
+Dowel bearing strength, Fe, for wood members may
+be determined in accordance with ASTM D 5764.
+
+I.4 Fastener Bending Yield Strength, Fyb
+
+In the absence of published standards which specify
+fastener strength properties, the designer should contact
+fastener manufacturers to determine fastener bending
+yield strength for connection design. ASTM F 1575
+provides a standard method for testing bending yield
+strength of nails.
+
+Fastener bending yield strength (Fyb) shall be de-
+termined by the 5% diameter (0.05D) offset method of
+analyzing load-displacement curves developed from
+fastener bending tests. However, for short, large diame-
+ter fasteners for which direct bending tests are imprac-
+tical, test data from tension tests such as those specified
+in ASTM F 606 shall be evaluated to estimate Fyb.
+
+Research indicates that Fyb for bolts is approximate-
+ly equivalent to the average of bolt tensile yield
+strength and bolt tensile ultimate strength, Fyb = Fy/2 +
+Fu/2. Based on this approximation, 48,000 psi ≤ Fyb ≤
+140,000 psi for various grades of SAE J429 bolts. Thus,
+the aforementioned research indicates that Fyb = 45,000
+psi is reasonable for many commonly available bolts.
+Tests of limited samples of lag screws indicate that Fyb
+= 45,000 psi is also reasonable for many commonly
+available lag screws with D ≥ 3/8".
+
+Tests of a limited sample of box nails and common
+wire nails from twelve U.S. nail manufacturers indicate
+that Fyb increases with decreasing nail diameter, and
+may exceed 100,000 psi for very small diameter nails.
+These tests indicate that the Fyb values used in Tables
+12N through 12R are reasonable for many commonly
+available box nails and small diameter common wire
+nails (D < 0.2"). Design values for large diameter
+common wire nails (D > 0.2") are based on extrapolat-
+ed estimates of Fyb from the aforementioned limited
+study. For hardened-steel nails, Fyb is assumed to be
+approximately 30% higher than for the same diameter
+common wire nails. Design values in Tables 12J
+through 12M for wood screws and small diameter lag
+screws (D < 3/8") are based on estimates of Fyb for
+common wire nails of the same diameter. Table I1 pro-
+vides values of Fyb based on fastener type and diameter.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

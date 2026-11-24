@@ -1,0 +1,97 @@
+[nds-2018 | NDS-2018.pdf | pdf page 136 | printed page 124]
+
+124 SPLIT RING AND SHEAR PLATE CONNECTORS
+
+13.2.2 Thickness of Wood Members
+
+13.2.2.1 Reference design values shall not be used
+for split ring or shear plate connectors installed in any
+piece of wood of a net thickness less than the minimum
+specified in Tables 13.2A and 13.2B.
+
+13.2.2.2 Reference design values for split ring or
+shear plate connectors installed in any piece of wood of
+net thickness intermediate between the minimum thick-
+ness and that required for maximum reference design
+value, as specified in Tables 13.2A and 13.2B, shall be
+obtained by linear interpolation.
+
+13.2.3 Penetration Depth Factor, Cd
+
+Where lag screws instead of bolts are used with split
+ring or shear plate connectors, reference design values
+shall be multiplied by the appropriate penetration depth
+factor, Cd, specified in Table 13.2.3. Lag screw penetra-
+tion into the member receiving the point shall not be less
+than the minimum penetration specified in Table 13.2.3.
+Where the actual lag screw penetration into the member
+receiving the point is greater than the minimum penetra-
+tion, but less than the minimum penetration for Cd = 1.0,
+the penetration depth factor, Cd, shall be determined by
+linear interpolation. The penetration depth factor shall
+not exceed unity, Cd ≤ 1.0.
+
+13.2.4 Metal Side Plate Factor, Cst
+
+Where metal side members are used in place of
+wood side members, the reference design values paral-
+lel to grain, P, for 4" shear plate connectors shall be
+multiplied by the appropriate metal side plate factor
+specified in Table 13.2.4.
+
+Table 13.2.4 Metal Side Plate Factors, Cst, for
+             4" Shear Plate Connectors
+             Loaded Parallel to Grain
+      Species Group               Cst
+           A                     1.18
+           B                     1.11
+           C                     1.05
+           D                     1.00
+
+The adjusted design values parallel to grain, P',
+shall not exceed the limiting reference design values
+given in Footnote 2 of Table 13.2B (see 13.2.1.2).
+
+13.2.5 Load at Angle to Grain
+
+13.2.5.1 Where a load acts in the plane of the wood
+surface at an angle to grain other than 0° or 90°, the
+adjusted design value, N', for a split ring or shear plate
+connector unit shall be determined as follows (see Ap-
+pendix J):
+
+                 P′′Q
+    N′=′                                      (13.2-1)
+         P sin2  θ+ Q′ cos2 θ
+where:
+        θ = angle between direction of load and direction
+            of grain (longitudinal axis of member), de-
+            grees
+
+13.2.5.2 Adjusted design values at an angle to
+grain, N', for shear plate connectors shall not exceed the
+limiting reference design values specified in Footnote 2
+of Table 13.2.B (see 13.2.1.2).
+
+Table 13.2.3
+Penetration Depth Factors, Cd, for Split Ring and Shear Plate Connectors Used
+with Lag Screws
+
+                      Side                           Species Group (see Table 13A)             Depth
+                    Member      Penetration    Group A    Group B    Group C     Group D     Factor, Cd
+2-1/2" Split Ring    Wood      MinimumCd = 1.0for 7           8          10         11           1.0
+  4" Split Ring        or      Minimum for
+  4" Shear Plate     Metal       Cd = 0.75        3         3-1/2        4        4-1/2         0.75
+                               Minimum for        4           5          7          8            1.0
+                     Wood         Cd = 1.0
+2-5/8" Shear Plate             Minimum for        3         3-1/2        4        4-1/2         0.75
+                                 Cd = 0.75
+                     Metal     Minimum for        3         3-1/2        4        4-1/2          1.0
+                                  Cd = 1.0
+
+Penetration of Lag Screw into Main
+Member (number of shank diameters)
+Penetration
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

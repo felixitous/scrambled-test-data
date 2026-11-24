@@ -1,0 +1,91 @@
+[nds-2018 | NDS-2018.pdf | pdf page 132 | printed page 120]
+
+120 SPLIT RING AND SHEAR PLATE CONNECTORS
+
+13.1 General
+
+13.1.1 Scope
+
+Chapter 13 applies to the engineering design of
+connections using split ring connectors or shear plate
+connectors in sawn lumber, structural glued laminated
+timber, and structural composite lumber. Design of split
+ring and shear plate connections in cross-laminated
+timber is beyond the scope of these provisions.
+
+13.1.2 Terminology
+
+A connector unit shall be defined as one of the fol-
+lowing:
+
+(a) One split ring with its bolt or lag screw in sin-
+
+gle shear (see Figure 13A).
+(b) Two shear plates used back to back in the con-
+
+tact faces of a wood-to-wood connection with
+their bolt or lag screw in single shear (see Fig-
+ures 13B and 13C).
+(c) One shear plate with its bolt or lag screw in sin-
+
+gle shear used in conjunction with a steel strap
+or shape in a wood-to-metal connection (see
+Figures 13B and 13C).
+
+Figure 13A
+Split Ring Connector
+
+Figure 13B
+Pressed Steel Shear Plate
+Connector
+
+Figure 13C
+Malleable Iron Shear Plate
+Connector
+
+13.1.3 Quality of Split Ring and Shear Plate
+Connectors
+
+13.1.3.1 Design provisions and reference design
+values herein apply to split ring and shear plate con-
+nectors of the following quality:
+
+(a) Split rings manufactured from SAE 1010 hot
+
+rolled carbon steel (Reference 37). Each ring
+shall form a closed true circle with the principal
+axis of the cross section of the ring metal paral-
+lel to the geometric axis of the ring. The ring
+shall fit snugly in the precut groove. This shall
+be accomplished with a ring, the metal section
+of which is beveled from the central portion
+toward the edges to a thickness less than at
+midsection, or by any other method which will
+accomplish equivalent performance. It shall be
+cut through in one place in its circumference to
+form a tongue and slot (see Figure 13A).
+(b) Shear plate connectors:
+
+(1) 2-5/8" Pressed Steel Type—Pressed steel
+
+shear plates manufactured from SAE 1010
+(Reference 37) hot rolled carbon steel.
+Each plate shall be a true circle with a
+flange around the edge, extending at right
+angles to the face of the plate and extend-
+ing from one face only, the plate portion
+having a central bolt hole, with an integral
+hub concentric to the hole or without an in-
+tegral hub, and two small perforations on
+opposite sides of the hole and midway from
+the center and circumference (see Figure
+13B).
+(2) 4" Malleable Iron Type—Malleable iron
+
+shear plates manufactured according to
+Grade 32510 of ASTM Standard A47 (Ref-
+erence 11). Each casting shall consist of a
+perforated round plate with a flange around
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

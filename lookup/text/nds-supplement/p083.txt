@@ -1,0 +1,57 @@
+[nds-supplement | NDS_supplement.pdf | pdf page 83 | printed page 75]
+
+DESIGN VALUES FOR WOOD CONSTRUCTION – NDS SUPPLEMENT 75
+REFERENCE DESIGN VALUES
+4
+
+Table 6A
+Reference Design Values for Treated Round Timber Piles Graded per ASTM D25
+
+(Tabulated design values are for normal load duration and wet service conditions. See NDS 6.3 for a
+comprehensive description of design value adjustment factors.)
+
+Table 6B
+Reference Design Values for Round Timber Construction Poles Graded per ASTM
+D3200
+
+(Tabulated design values are for normal load duration and wet service conditions. See NDS 6.3 for a
+comprehensive description of design value adjustment factors.)
+
+                                         Design values in pounds per square inch (psi)
+                                       Shear   Compression    Compression
+                                      parallel perpendicular   parallel to                         Specific
+                            Bending   to grain    to grain        grain      Modulus of elasticity Gravity4
+          Species              Fb        Fv         Fc⊥            Fc           E          Emin       G
+Pacific Coast Douglas Fir1    2,050     160         490          1,300      1,700,000    690,000     0.50
+Red Pine2                     1,350     125         270           850       1,300,000    520,000     0.42
+Southern Pine (Grouped)3      1,950     160         440          1,250      1,500,000    600,000     0.55
+
+3. Southern Pine reference design values apply to Loblolly, Longleaf, Shortleaf, and Slash Pines.
+
+4. Specific gravity, G, based on weight and volume when oven-dry.
+
+1. Pacific Coast Douglas Fir reference design values apply to this species as defined in ASTM Standard D 1760.
+2. Red Pine reference design values apply to Red Pine grown in the United States.
+
+                                        Design values in pounds per square inch (psi)
+                                      Shear   Compression   Compression
+                                     parallel perpendicular   parallel to                        Specific
+                            Bending  to grain    to grain       grain      Modulus of elasticity Gravity4
+         Species              Fb        Fv         Fc⊥            Fc          E          Emin       G
+Pacific Coast Douglas Fir1   2,050     160         490          1,300      1,700,000   690,000     0.50
+Lodgepole Pine               1,275     125         265           825       1,100,000   430,000     0.42
+Ponderosa Pine               1,200     175         295           775       1,000,000   400,000     0.43
+Red Pine2                    1,350     125         270           850       1,300,000   520,000     0.42
+Southern Pine (Grouped)3     1,950     160         440          1,250      1,500,000   600,000     0.55
+Western Hemlock              1,550     165         275          1,050      1,300,000   560,000     0.47
+Western Larch                1,900     170         405          1,250      1,500,000   660,000     0.49
+Western Red Cedar            1,250     140         260           875       1,000,000   360,000     0.34
+
+4. Specific gravity, G, based on weight and volume when oven-dry.
+
+1. Pacific Coast Douglas Fir reference design values apply to this species as defined in ASTM Standard D 1760.
+2. Red Pine reference design values apply to Red Pine grown in the United States.
+3. Southern Pine reference design values apply to Loblolly, Longleaf, Shortleaf, and Slash Pines.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

@@ -1,0 +1,89 @@
+[nds-2018 | NDS-2018.pdf | pdf page 79 | printed page 67]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 67
+MECHANICAL CONNECTIONS
+11
+
+Table 11.3.3 Wet Service Factors, CM, for Connections
+
+                                   Moisture Content
+Fastener Type
+                     At Time of Fabrication      In-Service               CM
+                                     Lateral Loads
+                            ≤ 19%                  ≤ 19%
+                            > 19%                  ≤ 19%
+                             any                   > 19%
+Dowel-type Fasteners        ≤ 19%                  ≤ 19%
+(e.g. bolts, lag screws,    > 19%                  ≤ 19%
+wood screws, nails, spikes,  any                   > 19%
+drift bolts, & drift pins)
+Timber Rivets               ≤ 19%                  ≤ 19%
+                            ≤ 19%                  > 19%
+                                   Withdrawal Loads
+                             any                   ≤ 19%
+                             any                   > 19%
+                            ≤ 19%                  ≤ 19%
+                            > 19%                  ≤ 19%
+                            ≤ 19%                  > 19%
+                            > 19%                  > 19%
+                                  Pull-Through Loads
+                             any                   ≤ 19%                 1.0
+                             any                   > 19%                 0.7
+
+Split Ring and Shear
+Plate Connectors1
+
+1.0
+0.8
+0.7
+1.0
+0.42
+0.7
+1.0
+0.8
+
+Lag Screws & Wood
+Screws
+
+1.0
+0.7
+1.0
+0.253
+0.253
+1.0
+
+Nails & Spikes3
+
+Fasteners with Round
+Heads
+
+1. For split ring or shear plate connectors, moisture content limitations apply to a depth of 3/4" below the surface of the wood.
+2. CM = 0.7 for dowel-type fasteners with diameter, D, less than 1/4".
+CM = 1.0 for dowel-type fastener connections with:
+
+1) one fastener only, or
+2) two or more fasteners placed in a single row parallel to grain, or
+3) fasteners placed in two or more rows parallel to grain with separate splice plates for each row.
+3. For Roof Sheathing Ring Shank (RSRS) and Post-Frame Ring Shank (PF) nails, CM=1.0.
+
+Table 11.3.4        Temperature Factors, Ct, for
+                    Connections
+ In-Service                        Ct
+  Moisture
+Conditions1   T≤100°F   100°F<T≤125°F     125°F<T≤150°F
+     Dry         1.0           0.8               0.7
+    Wet          1.0           0.7               0.5
+ 1. Wet and dry service conditions for connections are specified in 11.3.3.
+
+11.3.5 Fire Retardant Treatment
+
+Adjusted design values for connections in lumber
+and structural glued laminated timber pressure-treated
+with fire retardant chemicals shall be obtained from the
+company providing the treatment and redrying service
+(see 2.3.4). The impact load duration factor shall not
+apply to connections in wood pressure-treated with fire
+retardant chemicals (see Table 2.3.2).
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

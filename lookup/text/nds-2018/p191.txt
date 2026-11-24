@@ -1,0 +1,53 @@
+[nds-2018 | NDS-2018.pdf | pdf page 191 | printed page 179]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 179
+APPENDIX
+A
+
+Appendix K              (Non-mandatory) Typical Dimensions for Split Ring
+                        and Shear Plate Connectors
+ SPLIT RINGS1                                              2-1/2"                          4"
+ Split Ring
+   Inside diameter at center when closed                   2.500"                        4.000"
+   Thickness of metal at center                            0.163"                        0.193"
+   Depth of metal (width of ring)                          0.750"                        1.000"
+ Groove
+   Inside diameter                                         2.56"                          4.08"
+   Width                                                   0.18"                          0.21"
+   Depth                                                   0.375"                         0.50"
+ Bolt hole diameter in timber members                      9/16"                         13/16"
+ Washers, standard
+   Round, cast or malleable iron, diameter                 2-1/8"                          3"
+   Round, wrought iron (minimum)
+    Diameter                                               1-3/8"                          2"
+    Thickness                                              3/32"                          5/32"
+   Square plate
+    Length of side                                           2"                            3"
+    Thickness                                               1/8"                          3/16"
+ Projected area: portion of one split ring within         1.10 in.2                      2.24 in.2
+ member
+1. Courtesy of Cleveland Steel Specialty Co.
+
+SHEAR PLATES                                                  2-5/8"      2-5/8"         4"          4"
+Shear plate1                                                 Pressed     Malleable   Malleable    Malleable
+  Material                                                     steel     cast iron    cast iron   cast iron
+  Plate diameter                                              2.62"        2.62"        4.02"       4.02"
+  Bolt hole diameter                                          0.81"        0.81"        0.81"       0.93"
+  Plate thickness                                             0.172"      0.172"        0.20"       0.20"
+  Plate depth                                                 0.42"        0.42"        0.62"       0.62"
+Bolt hole diameter in timber members and metal side plates2   13/16"      13/16"       13/16"      15/16"
+Washers, standard
+  Round, cast or malleable iron, diameter                       3"          3"           3"        3-1/2"
+  Round, wrought iron (minimum)
+   Diameter                                                     2"          2"           2"        2-1/4"
+   Thickness                                                  5/32"        5/32"        5/32"      11/64"
+  Square plate
+   Length of side                                               3"          3"           3"          3"
+   Thickness                                                   1/4"        1/4"         1/4"        1/4"
+Projected area: portion of one shear plate within member     1.18 in.2    1.00 in.2   2.58 in.2    2.58 in.2
+
+1. ASTM D 5933.
+2. Steel straps or shapes used as metal side plates shall be designed in accordance with accepted metal practices (see 11.2.3).
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

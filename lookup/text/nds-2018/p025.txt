@@ -1,0 +1,27 @@
+[nds-2018 | NDS-2018.pdf | pdf page 25 | printed page 13]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 13
+3
+
+DESIGN
+PROVISIONS
+AND EQUATIONS
+
+3.1   General                             14
+3.2   Bending Members – General           15
+3.3   Bending Members – Flexure           15
+3.4   Bending Members – Shear             17
+3.5   Bending Members – Deflection        19
+3.6   Compression Members – General       20
+3.7   Solid Columns                       21
+3.8   Tension Members                     22
+3.9   Combined Bending and Axial Loading  22
+3.10  Design for Bearing                  23
+
+Table 3.3.3
+Effective Length, ℓe, for Bending Members.... 16
+
+Table 3.10.4 Bearing Area Factors, Cb ................................. 24
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

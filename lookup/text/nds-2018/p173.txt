@@ -1,0 +1,53 @@
+[nds-2018 | NDS-2018.pdf | pdf page 173 | printed page 161]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 161
+APPENDIX
+A
+
+S
+=
+snow load
+W =
+wind load
+The actual stress due to any combination of the above
+loads shall be less than or equal to the adjusted design
+value modified by the load duration factor, CD, for the
+shortest duration load in that combination of loads:
+
+ Actual stress due to      (CD)      x (Design value)
+ D                         ≤ (0.9)   x (design value)
+ D+L                       ≤ (1.0)   x (design value)
+ D+W                       ≤ (1.6)   x (design value)
+ D+L+S                     ≤ (1.15)  x (design value)
+ D+L+W                     ≤ (1.6)   x (design value)
+ D+S+W                     ≤ (1.6)   x (design value)
+ D+L+S+W                   ≤ (1.6)   x (design value)
+The equations above may be specified by the applicable
+building code and shall be checked as required. Load
+combination factors specified by the applicable build-
+
+ing code or standard should be included in the above
+equations, as specified in B.2(a).
+
+B.3 Mechanical Connections
+
+Load duration factors, CD ≤ 1.6, apply to reference
+design values for connections, except when connection
+capacity is based on design of metal parts (see 11.2.3).
+
+B.4 Load Combination Reduction Factors
+
+Reductions in total design load for certain combina-
+tions of loads account for the reduced probability of
+simultaneous occurrence of the various design loads.
+Load duration factors, CD, account for the relationship
+between wood strength and time under load. Load dura-
+tion factors, CD, are independent of load combination
+reduction factors, and both may be used in design cal-
+culations (see 1.4.4).
+
+Figure B1
+Load Duration Factors, CD, for Various Load Durations
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

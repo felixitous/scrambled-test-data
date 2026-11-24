@@ -1,0 +1,51 @@
+[nds-supplement | NDS_supplement.pdf | pdf page 50 | printed page 42]
+
+42 REFERENCE DESIGN VALUES
+
+Repetitive Member Factor, Cr
+
+Bending design values, Fb, for dimension lumber 2"
+to 4" thick shall be multiplied by the repetitive member
+factor, Cr = 1.15, when such members are used as joists,
+truss chords, rafters, studs, planks, decking, or similar
+members which are in contact or spaced not more than 24"
+on center, are not less than 3 in number and are joined by
+floor, roof, or other load distributing elements adequate to
+support the design load.
+
+Wet Service Factor, CM
+
+When dimension lumber is used where moisture con-
+tent will exceed 19% for an extended time period, design
+values shall be multiplied by the appropriate wet service
+factors from the following table:
+
+             Wet Service Factors, CM
+  Fb      Ft        Fv        Fc⊥      Fc    E and Emin
+0.85*    1.0      0.97       0.67      0.8**    0.9
+
+* when Fb ≤ 1,150 psi, CM = 1.0
+** when Fc ≤ 750 psi, CM = 1.0
+
+Table 4C Adjustment Factors
+
+Flat Use Factor, Cfu
+
+Bending design values are based on edgewise use
+(load applied to narrow face). When dimension lumber
+is used flatwise (load applied to wide face), the bending
+design value, Fb, shall be permitted to be multiplied by the
+following flat use factors:
+
+             Flat Use Factors, Cfu
+   Width                Thickness (breadth)
+  (depth)                      2"
+  2" & 3"                      1.0
+     4"                        1.1
+     5"                        1.1
+     6"                        1.15
+     8"                        1.15
+10" & wider                    1.2
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

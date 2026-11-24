@@ -1,0 +1,91 @@
+[nds-2018 | NDS-2018.pdf | pdf page 166 | printed page 154]
+
+154 FIRE DESIGN OF WOOD MEMBERS
+
+16.1 General
+
+Chapter 16 establishes general fire design provi-
+sions that apply to all wood structural members and
+connections covered under this Specification, unless
+otherwise noted. Each wood member or connection
+shall be of sufficient size and capacity to carry the ap-
+plied loads without exceeding the design provisions
+
+specified herein. Reference design values and specific
+design provisions applicable to particular wood prod-
+ucts or connections to be used with the provisions of
+this Chapter are given in other Chapters of this Specifi-
+cation.
+
+16.2 Design Procedures for Exposed Wood Members
+
+The induced stress shall not exceed the resisting
+strength which has been adjusted for fire exposure.
+Wood member design provisions herein are limited to
+fire resistance calculations not exceeding 2 hours.
+
+16.2.1 Char Rate
+
+16.2.1.1 The non-linear char rate to be used in this
+procedure can be estimated from published nominal 1-
+hour char rate data using the following equation:
+
+     β=βt   n at one hour                         (16.2-1)
+where:
+        βt = non-linear char rate (in./hr.0.813), adjusted for ex-
+             posure time, t
+        βn = nominal char rate (in./hr.), linear char rate based
+             on 1-hour exposure
+         t = exposure time (hr.)
+
+A nominal char rate, βn, of 1.5 in./hr. is commonly
+assumed for sawn lumber, structural glued laminated
+softwood timber, laminated veneer lumber, parallel
+strand lumber, laminated strand lumber, and cross-
+laminated timber.
+
+16.2.1.2 For sawn lumber, structural glued laminat-
+ed softwood timber, laminated veneer lumber, parallel
+strand lumber, and laminated strand lumber, the char
+depth, achar, for each exposed surface shall be calculated
+as:
+
+achar  =βtt0.813                                     (16.2-2)
+
+16.2.1.3 For cross-laminated timber manufactured
+with laminations of equal thickness, the char depth,
+achar, shall be calculated as follows:
+
+achar =  nlam hlam +βt   ( t − (nlam tgi ))0.813            (16.2-3)
+
+          ⎛ h    ⎞1.23
+     tgi =⎜   lam ⎟
+          ⎝  βt  ⎠
+where:
+        tgi = time for char front to reach glued interface (hr.)
+       hlam = lamination thickness (in.)
+and
+             t
+     nlam =
+            t gi
+       nlam = number of laminations charred (rounded to lowest
+             integer)
+         t = exposure time (hr.)
+
+16.2.1.4 For structural calculations, section proper-
+ties shall be calculated using standard equations for ar-
+ea, section modulus, and moment of inertia using the
+reduced cross-sectional dimensions. The dimensions are
+reduced by the effective char depth, aeff, for each sur-
+face exposed to fire, where:
+
+aeff = 1.2achar                                       (16.2-4)
+
+For sawn lumber, structural glued laminated soft-
+wood timber, laminated veneer lumber, parallel strand
+lumber, and laminated strand lumber, assuming a nomi-
+nal char rate, βn = 1.5 in./hr., the char depth, achar, and
+effective char depth, aeff, are shown in Table 16.2.1A.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

@@ -1,0 +1,130 @@
+[nds-2018 | NDS-2018.pdf | pdf page 16 | printed page 4]
+
+4 GENERAL REQUIREMENTS FOR STRUCTURAL DESIGN
+
+Ceg = end grain factor for connections
+
+Cfu = flat use factor
+
+Cg = group action factor for connections
+
+Ci = incising factor for dimension lumber
+
+Cls = load sharing factor for timber piles
+
+Cr = repetitive member factor for dimension
+
+lumber, prefabricated wood I-joists, and
+structural composite lumber
+
+Crs = empirical load-shape radial stress reduc-
+
+tion factor for double-tapered curved
+structural glued laminated timber bending
+members
+
+       Cs = wood structural panel size factor
+      Cst = metal side plate factor for 4" shear plate
+            connections
+       Ct = temperature factor
+      Ctn = toe-nail factor for nailed connections
+      Cvr = shear reduction factor for structural glued
+            laminated timber
+       Cy = tapered structural glued laminated timber
+            beam deflection factor
+       CΔ = geometry factor for connections
+    COVE = coefficient of variation for modulus of
+            elasticity
+       D = dowel-type fastener diameter, in.
+      DH = fastener head diameter, in.
+       Dr = dowel-type fastener root diameter, in.
+        E = length of tapered tip of a driven fastener,
+            in.
+     E, E' = reference and adjusted modulus of
+            elasticity, psi
+     Eaxial = modulus of elasticity of structural glued
+            laminated timber for extensional defor-
+            mations, psi
+Emin, Emin' = reference and adjusted modulus of
+
+elasticity for beam stability and column
+stability calculations, psi
+
+(EI)min, (EI)min' = reference and adjusted EI for beam
+
+stability and column stability calculations,
+psi
+
+(EI)app, (EI)app' = reference and adjusted apparent bending
+
+stiffness of cross-laminated timber includ-
+ing shear deflection, lbs-in.2/ft of panel
+width
+
+(EI)app-min, (EI)app-min' = reference and adjusted apparent bending
+
+stiffness of cross-laminated timber for
+panel buckling stability calculations, lbs-
+in.2/ft of panel width
+
+EIeff = effective bending stiffness of the CLT
+
+section, lbs-in.2/ft of panel width
+
+Em = modulus of elasticity of main member, psi
+
+Es = modulus of elasticity of side member, psi
+
+Ex = modulus of elasticity of structural glued
+
+laminated timber for deflections due to
+bending about the x-x axis, psi
+
+Ex min = modulus of elasticity of structural glued
+
+laminated timber for beam and column
+stability calculations for buckling about
+the x-x axis, psi
+
+Ey = modulus of elasticity of structural glued
+
+laminated timber for deflections due to
+bending about the y-y axis, psi
+
+Ey min = modulus of elasticity of structural glued
+
+laminated timber for beam and column
+stability calculations for buckling about
+the y-y axis, psi
+
+Fb, Fb' = reference and adjusted bending design
+         value, psi
+  Fb* = reference bending design value multiplied
+         by all applicable adjustment factors ex-
+         cept CL, psi
+ Fb** = reference bending design value multiplied
+         by all applicable adjustment factors ex-
+         cept CV, psi
+  Fb1' = adjusted edgewise bending design value,
+         psi
+  Fb2' = adjusted flatwise bending design value,
+         psi
+   FbE = critical buckling design value for bending
+         members, psi
+  Fbx+ = reference bending design value for posi-
+         tive bending of structural glued laminated
+         timbers, psi
+  Fbx- = reference bending design value for nega-
+         tive bending of structural glued laminated
+         timbers, psi
+   Fby = reference bending design value of struc-
+
+tural glued laminated timbers bent about
+the y-y axis, psi
+
+Fc, Fc' = reference and adjusted compression
+
+design value parallel to grain, psi
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

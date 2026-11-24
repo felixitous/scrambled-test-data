@@ -1,0 +1,116 @@
+[nds-2018 | NDS-2018.pdf | pdf page 170 | printed page 158]
+
+158 APPENDIX
+
+Appendix A
+(Non-mandatory) Construction and Design Practices
+
+A.1 Care of Material
+
+Lumber shall be so handled and covered as to pre-
+vent marring and moisture absorption from snow or
+rain.
+
+A.2 Foundations
+
+A.2.1 Foundations shall be adequate to support the
+building or structure and any required loads, without
+excessive or unequal settlement or uplift.
+
+A.2.2 Good construction practices generally elimi-
+nate decay or termite damage. Such practices are de-
+signed to prevent conditions which would be conducive
+to decay and insect attack. The building site shall be
+graded to provide drainage away from the structure. All
+roots and scraps of lumber shall be removed from the
+immediate vicinity of the building before backfilling.
+
+A.3 Structural Design
+
+Consideration shall be given in design to the possi-
+ble effect of cross-grain dimensional changes which may
+occur in lumber fabricated or erected in a green condi-
+tion (i.e., provisions shall be made in the design so that if
+dimensional changes caused by seasoning to moisture
+equilibrium occur, the structure will move as a whole,
+and the differential movement of similar parts and mem-
+bers meeting at connections will be a minimum).
+
+A.4 Drainage
+
+In exterior structures, the design shall be such as to
+minimize pockets in which moisture can accumulate, or
+adequate caps, drainage, and drips shall be provided.
+
+A.5 Camber
+
+Adequate camber in trusses to give proper appear-
+ance and to counteract any deflection from loading
+should be provided. For timber connector construction,
+such camber shall be permitted to be estimated from the
+formula:
+
+         K1L3 + K2L2
+    Δ=                                          (A-1)
+              H
+where:
+       Δ = camber at center of truss, in.
+
+L = truss span, ft
+
+H = truss height at center, ft
+
+K1 = 0.000032 for any type of truss
+
+K2 = 0.0028 for flat and pitched trusses
+
+K2 = 0.00063 for bowstring trusses (i.e., trusses
+
+without splices in upper chord)
+
+A.6 Erection
+
+A.6.1 Provision shall be made to prevent the over-
+stressing of members or connections during erection.
+
+A.6.2 Bolted connections shall be snugly tightened,
+but not to the extent of crushing wood under washers.
+
+A.6.3 Adequate bracing shall be provided until
+permanent bracing and/or diaphragms are installed.
+
+A.7 Inspection
+
+Provision should be made for competent inspection
+of materials and workmanship.
+
+A.8 Maintenance
+
+There shall be competent inspection and tightening
+of bolts in connections of trusses and structural frames.
+
+A.9 Wood Column Bracing
+
+In buildings, for forces acting in a direction parallel
+to the truss or beam, column bracing shall be permitted
+to be provided by knee braces or, in the case of trusses,
+by extending the column to the top chord of the truss
+where the bottom and top chords are separated suffi-
+ciently to provide adequate bracing action. In a direc-
+tion perpendicular to the truss or beam, bracing shall be
+permitted to be provided by wall construction, knee
+braces, or bracing between columns. Such bracing be-
+tween columns should be installed preferably in the
+same bays as the bracing between trusses.
+
+A.10 Truss Bracing
+
+In buildings, truss bracing to resist lateral forces
+shall be permitted as follows:
+
+(a) Diagonal lateral bracing between top chords of
+
+trusses shall be permitted to be omitted when
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

@@ -1,0 +1,77 @@
+[nds-supplement | NDS_supplement.pdf | pdf page 73 | printed page 65]
+
+DESIGN VALUES FOR WOOD CONSTRUCTION – NDS SUPPLEMENT 65
+REFERENCE DESIGN VALUES
+4
+
+Table 5A             Expanded - Reference Design Values for Structural Glued Laminated Softwood Timber Combinations1
+(Cont.)
+                     5.3 for a comprehensive description of design value adjustment factors.)
+                                                                                Use with Table 5A Adjustment Factors
+                                                   Bending About X-X Axis                                                   Bending About Y-Y Axis                          Axially Loaded        Fasteners
+                                               (Loaded Perpendicular to Wide Faces                                         (Loaded Parallel to Wide Faces
+                                                          of Laminations)                                                          of Laminations)
+                                                  Compression      Shear Parallel         Modulus                     Compression Shear Parallel         Modulus           Tension  Compression   Specific Gravity
+                               Bending            Perpendicular       to Grain               of                      Perpendicular   to Grain              of             Parallel to Parallel to      for
+                                                     to Grain                             Elasticity         Bending    to Grain                        Elasticity          Grain      Grain      Fastener Design
+                                               Tension Compression                      For           For                                             For           For
+                         Bottom of beam Top of Beam Face  Face                        Deflection    Stability                                       Deflection    Stability                      Top or
+                          Stressed in Stressed in                                   Calculations(8) Calculations                                   Calculations(8) Calculations                  Bottom  Side Face
+                           tension   Tension                                                                                                                                                      Face
+                        (Positive Bending) (Negative Bending)
+  Combination  Species    Fbx+       Fbx-            Fc⊥x             Fvx (2)    Ex true   Ex app   Ex min    Fby        Fc⊥y        Fvy (3)    Ey true  Ey app   Ey min     Ft         Fc
+                                                                                                                                                                                                        G
+    Symbol   Outer/ Core   (psi)      (psi)           (psi)            (psi)     (106 psi) (106 psi) (106 psi) (psi)     (psi)        (psi)    (106 psi) (106 psi) (106 psi) (psi)     (psi)
+        24F-1.8E           2400      1450             650              265         1.9      1.8      0.95     1450       560          230         1.7      1.6     0.85     1100       1600            0.50
+ 24F-V4        DF/DF       2400      1850       650        650         265         1.9      1.8      0.95     1450       560          230         1.7      1.6     0.85     1100       1650       0.50     0.50
+ 24F-V8        DF/DF       2400      2400       650        650         265         1.9      1.8      0.95     1550       560          230         1.7      1.6     0.85     1100       1650       0.50     0.50
+ 24F-E4        DF/DF       2400      1450       650        650         265         1.9      1.8      0.95     1400       560          230         1.8      1.7     0.90     1100       1700       0.50     0.50
+ 24F-E13       DF/DF       2400      2400       650        650         265         1.9      1.8      0.95     1750       560          230         1.8      1.7     0.90     1250       1700       0.50     0.50
+ 24F-E18       DF/DF       2400      2400       650        650         265         1.9      1.8      0.95     1550       560          230         1.8      1.7     0.90      975       1700       0.50     0.50
+ 24F-V3        SP/SP       2400      2000       740        740         300         1.9      1.8      0.95     1700       650          260         1.7      1.6     0.85     1150       1650       0.55     0.55
+ 24F-V8        SP/SP       2400      2400       740        740         300         1.9      1.8      0.95     1700       650          260         1.7      1.6     0.85     1150       1650       0.55     0.55
+ 24F-E1        SP/SP       2400      1450       805        650         300         1.9      1.8      0.95     1550       650          260         1.8      1.7     0.90     1150       1600       0.55     0.55
+ 24F-E4        SP/SP       2400      2400       805        805         300         2.0      1.9      1.00     1850       650          260         1.9      1.8     0.95     1450       1750       0.55     0.55
+      26F-1.9E (5)         2600      1950             650              265         2.0      1.9      1.00     1600       560          230         1.7      1.6     0.85     1150       1600            0.50
+ 26F-V1        DF/DF       2600      1950       650        650         265         2.1      2.0      1.06     1850       560          230         1.9      1.8     0.95     1350       1850       0.50     0.50
+ 26F-V2        DF/DF       2600      2600       650        650          265        2.1      2.0      1.06     1850       560          230         1.9      1.8     0.95     1350       1850       0.50     0.50
+ 26F-V1        SP/SP       2600      2000       740        740         300         1.9      1.8      0.95     1700       650          260         1.7      1.6     0.85     1150       1600       0.55     0.55
+ 26F-V2        SP/SP       2600      2100       740        740         300         2.0      1.9      1.00     1950       740          260         1.9      1.8     0.95     1300       1850       0.55     0.55
+ 26F-V3        SP/SP       2600      2100       740        740         300         2.0      1.9      1.00     1950       650          260         1.9      1.8     0.95     1250       1800       0.55     0.55
+ 26F-V4        SP/SP       2600      2600       740        740         300         2.0      1.9      1.00     1700       650          260         1.9      1.8     0.95     1200       1600       0.55     0.55
+ 26F-V5        SP/SP       2600      2600       740        740         300         2.0      1.9      1.00     1950       650          260         1.9      1.8     0.95     1300       1850       0.55     0.55
+     28F-2.1E SP(5)        2800      2300             805              300        2.2 (7)  2.1 (7)  1.11(7)   1600       650          260         1.8      1.7     0.90     1250       1750            0.55
+ 28F-E1        SP/SP       2800      2300       805        805         300        2.2 (7)  2.1 (7)  1.11(7)   1600       650          260         1.8      1.7     0.90     1300       1850       0.55     0.55
+ 28F-E2        SP/SP       2800      2800       805        805         300        2.2 (7)  2.1 (7)  1.11(7)   2000       650          260         1.8      1.7     0.90     1300       1850       0.55     0.55
+    30F-2.1E SP(5)(6)      3000      2400             805              300        2.2 (7)  2.1 (7)  1.11(7)   1750       650          260         1.8      1.7     0.90     1250       1750            0.55
+ 30F-E1        SP/SP       3000      2400       805        805         300        2.2 (7)  2.1 (7)  1.11(7)   1750       650          260         1.8      1.7     0.90     1250       1750       0.55     0.55
+ 30F-E2        SP/SP       3000      3000       805        805         300        2.2 (7)  2.1 (7)  1.11(7)   1750       650          260         1.8      1.7     0.90     1350       1750       0.55     0.55
+
+(Members stressed primarily in bending) (Tabulated design values are for normal load duration and dry service conditions. See NDS
+
+1. The combinations in this table are applicable to members consisting of 4 or more laminations and are intended primarily for members stressed in bending due to loads applied perpendicular to the wide faces
+of the laminations. However, reference design values are tabulated for loading both perpendicular and parallel to the wide faces of the laminations. For combinations and reference design values applicable to
+
+members loaded primarily axially or parallel to the wide faces of the laminations, see Table 5B. For members of 2 or 3 laminations, see Table 5B.
+
+2. The reference design values for shear, Fvx and Fvy, shall be multiplied by the shear reduction factor, Cvr, for the conditions defined in NDS 5.3.10.
+3. Reference design values are for structural glued laminated timbers with laminations made from a single piece of lumber across the width or multiple pieces that have been edge bonded. For structural glued
+laminated timber manufactured from multiple piece laminations (across width) that are not edge-bonded, value shall be multiplied by 0.4 for members with 5, 7, or 9 laminations or by 0.5 for all other members.
+
+This reduction shall be cumulative with the adjustment in footnote 2.
+
+4. This combination may contain lumber with wane. If lumber with wane is used, the reference design value for shear parallel to grain, Fvx, shall be multiplied by 0.67 if wane is allowed on both sides. If wane is
+limited to one side, Fvx shall be multiplied by 0.83. This reduction shall be cumulative with the adjustment in footnote 2.
+
+5. 26F, 28F, and 30F beams are not produced by all manufacturers, therefore, availability may be limited. Contact supplier or manufacturer for details.
+6. 30F combinations are restricted to a maximum 6 in. nominal width unless the manufacturer has qualified for wider widths based on full-scale tests subject to approval by an accredited inspection agency.
+7. For 28F and 30F members with more than 15 laminations, Ex = 2.0 million psi and Exmin = 1.06 million psi.
+8. Notations: Ex app, Ey app = Apparent moduli of elasticity in the X-X and Y-Y directions, respectively, for use in beam deflection calculations. Ex app and Ey app correspond to reference moduli of elasticity Ex and Ey,
+respectively, as defined in NDS 5.2.7.
+
+Ex true, Ey true = Shear-free moduli of elasticity in the X-X and Y-Y directions, respectively, for use in beam deflection calculations when shear deflection is required to be considered separately from
+
+bending deflection, such as when the span-to-depth ratio of the beam is small.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

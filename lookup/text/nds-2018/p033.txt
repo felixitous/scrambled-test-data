@@ -1,0 +1,115 @@
+[nds-2018 | NDS-2018.pdf | pdf page 33 | printed page 21]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 21
+DESIGN PROVISIONS AND EQUATIONS
+3
+
+3.6.6 Column Bracing
+
+Column bracing shall be installed where necessary
+to resist wind or other lateral forces (see Appendix A).
+
+3.6.7 Lateral Support of Arches, Studs, and
+Compression Chords of Trusses
+
+Guidelines for providing lateral support and deter-
+mining
+
+ℓe/d in arches, studs, and compression chords of
+trusses are specified in Appendix A.11.
+
+3.7 Solid Columns
+
+3.7.1 Column Stability Factor, CP
+
+3.7.1.1 When a compression member is supported
+throughout its length to prevent lateral displacement in
+all directions, CP = 1.0.
+
+3.7.1.2 The effective column length,
+
+ℓe, for a solid
+column shall be determined in accordance with princi-
+ples of engineering mechanics. One method for deter-
+mining effective column length, when end-fixity condi-
+tions are known, is to multiply actual column length by
+the appropriate effective length factor specified in Ap-
+pendix G,
+
+ℓe =
+
+(Ke)(ℓ).
+3.7.1.3 For solid columns with rectangular cross
+section, the slenderness ratio,
+
+ℓe/d, shall be taken as the
+larger of the ratios
+
+ℓe1/d1 or
+
+ℓe2/d2 (see Figure 3F) where
+each ratio has been adjusted by the appropriate buck-
+ling length coefficient, Ke, from Appendix G.
+
+    3.7.1.4 The slenderness ratio for solid columns,
+     ℓe/d shall not exceed 75.
+    3.7.1.5 The column stability factor shall be calcu-
+lated as follows:
+     1 + (FcE Fc* )   ⎡1 + (FcE Fc* ) ⎤2 FcE Fc* (3.7-1)
+CP =              −   ⎢            ⎥  −
+          2c          ⎢⎣    2c     ⎥⎦      c
+where:
+      Fc* = reference compression design value parallel
+
+ℓe/d, shall not exceed 50, except that during construc-
+tion
+
+to grain multiplied by all applicable adjust-
+ment factors except CP (see 2.3), psi
+
+     0.822 Emin′
+FcE =         2
+       (ℓe /d)
+ c = 0.8 for sawn lumber
+ c = 0.85 for round timber poles and piles
+ c = 0.9 for structural glued laminated timber,
+     structural composite lumber, and cross-
+     laminated timber
+
+3.7.1.6 For especially severe service conditions
+and/or extraordinary hazard, use of lower adjusted de-
+sign values may be necessary. See Appendix H for
+background information concerning column stability
+calculations and Appendix F for information concern-
+ing coefficient of variation in modulus of elasticity
+(COVE).
+
+3.7.2 Tapered Columns
+
+For design of a column with rectangular cross sec-
+tion, tapered at one or both ends, the representative di-
+mension, d, for each face of the column shall be derived
+as follows:
+
+d = dmin + (dmax − dmin ) ⎡⎢a − 0.15 ⎛⎜1 − dmin ⎞⎟⎤⎥ (3.7-2)
+                      ⎣         ⎝    dmax ⎠⎦
+where:
+       d = representative dimension for tapered column,
+           in.
+     dmin = the minimum dimension for that face of the
+           column, in.
+     dmax = the maximum dimension for that face of the
+           column, in.
+Support Conditions
+  Large end fixed, small end unsupported    a = 0.70
+    or simply supported
+  Small end fixed, large end unsupported    a = 0.30
+    or simply supported
+  Both ends simply supported:
+    Tapered toward one end                  a = 0.50
+    Tapered toward both ends                a = 0.70
+  For all other support conditions:
+    d = dmin + (dmax − dmin)(1 /3)           (3.7-3)
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

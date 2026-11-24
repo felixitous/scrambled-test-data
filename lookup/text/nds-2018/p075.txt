@@ -1,0 +1,42 @@
+[nds-2018 | NDS-2018.pdf | pdf page 75 | printed page 63]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 63
+11
+
+MECHANICAL
+CONNECTIONS
+
+11.1  General                             64
+11.2  Reference Design Values             65
+11.3  Adjustment of Reference Design
+      Values                              65
+
+Table 11.3.1
+Applicability of Adjustment Factors for
+Connections.................................................................66
+
+Table 11.3.3
+Wet Service Factors, CM, for Connections...............67
+
+Table 11.3.4
+Temperature Factors, Ct, for Connections...............67
+
+Table 11.3.6A Group Action Factors, Cg, for Bolt or Lag Screw
+
+Connections with Wood Side Members....................70
+
+Table 11.3.6B Group Action Factors, Cg, for 4" Split Ring or
+
+Shear Plate Connectors with Wood Side
+Members......................................................................70
+
+Table 11.3.6C Group Action Factors, Cg, for Bolt or Lag Screw
+
+Connections with Steel Side Plates...........................71
+
+Table 11.3.6D Group Action Factors, Cg, for 4" Shear Plate
+
+Connectors with Steel Side Plates.............................72
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

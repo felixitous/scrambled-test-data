@@ -1,0 +1,100 @@
+[nds-2018 | NDS-2018.pdf | pdf page 184 | printed page 172]
+
+172 APPENDIX
+
+Appendix H
+(Non-mandatory) Lateral Stability of Columns
+
+H.1
+
+Solid wood columns can be classified into three
+length classes, characterized by mode of failure at ultimate
+load. For short, rectangular columns with a small ratio of
+length to least cross-sectional dimension,
+
+ℓe/d, failure is
+by crushing. When there is an intermediate
+
+ℓe/d ratio,
+failure is generally a combination of crushing and buck-
+ling. At large
+
+ℓe/d ratios, long wood columns behave
+essentially as Euler columns and fail by lateral deflec-
+tion or buckling. Design of these three length classes
+are represented by the single column Equation H-1.
+
+H.2
+
+For solid columns of rectangular cross section
+where the slenderness ratio,
+
+ℓe/d, does not exceed 50,
+adjusted compression design values parallel to grain are
+obtained by the equation:
+
+  ′   * ⎡⎢1 + (FcE Fc* ) ⎡1 + (FcE Fc* ) ⎤2 FcE Fc* ⎤⎥ (H-1)
+Fc = Fc ⎢           −   ⎢           ⎥ −       ⎥
+        ⎢    2c         ⎢⎣   2c     ⎥⎦     c  ⎥
+        ⎣                                     ⎦
+where:
+      FcE = 0.822 Emin′                         (H-2)
+              (ℓe /d)2
+      Fc* = reference compression design value parallel
+
+to grain multiplied by all applicable
+adjustment factors except CP (see 2.3)
+
+c = 0.8 for sawn lumber
+
+c = 0.85 for round timber poles and piles
+
+c = 0.9 for structural glued laminated timber,
+
+cross-laminated timber, or structural
+composite lumber
+
+Equation H-2 is derived from the standard Euler
+equation, with radius of gyration, r, converted to the
+more convenient least cross-sectional dimension, d, of a
+rectangular column.
+
+H.3
+
+The equation for adjusted compression design val-
+ue, Fc', in this Specification is for columns having rec-
+tangular cross sections. It may be used for other column
+shapes by substituting r 12 for d in the equations,
+where r is the applicable radius of gyration of the col-
+umn cross section.
+
+H.4
+
+The 0.822 factor in Equation H-2 represents the Eu-
+ler buckling coefficient for rectangular columns calcu-
+lated as π2/12. Modulus of elasticity for beam and col-
+umn stability, Emin, in Equation H-2 represents an ap-
+proximate 5% lower exclusion value on pure bending
+modulus of elasticity, plus a 1.66 factor of safety (see
+Appendix D.4).
+
+H.5
+
+Adjusted design values based on Equations H-1 and
+H-2 are customarily used for most sawn lumber column
+designs. Where unusual hazard exists, a larger reduc-
+tion factor may be appropriate. Alternatively, in less
+critical end use, the designer may elect to use a smaller
+factor of safety.
+
+H.6
+
+For products with less E variability than visually
+graded sawn lumber, higher critical buckling design
+values may be calculated. For a product having a lower
+coefficient of variation (COVE), use of Equation H-2
+will provide a 1.66 factor of safety at the 5% lower ex-
+clusion value.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

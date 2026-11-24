@@ -1,0 +1,78 @@
+[nds-2018 | NDS-2018.pdf | pdf page 80 | printed page 68]
+
+68 MECHANICAL CONNECTIONS
+
+11.3.6 Group Action Factors, Cg
+
+11.3.6.1 Reference lateral design values for split
+ring connectors, shear plate connectors, or dowel-type
+fasteners with D ≤ 1" in a row shall be multiplied by the
+following group action factor, Cg:
+
+C  = ⎡⎢       m(1 − m2n)        ⎤⎥ ⎡1 + REA ⎤  (11.3-1)
+  g  ⎣⎢n ⎣⎡(1 + REAmn ) (1 + m) −1 + m2n ⎦⎤ ⎦⎥ ⎣⎢ 1 − m ⎦⎥
+where:
+       Cg = 1.0 for dowel type fasteners with D < 1/4"
+        n = number of fasteners in a row
+      REA = the lesser of Es As or EmAm
+                         EmAm     Es As
+       Em = modulus of elasticity of main member, psi
+       Es = modulus of elasticity of side members, psi
+       Am = gross cross-sectional area of main member,
+            in.2
+       As = sum of gross cross-sectional areas of side
+            members, in.2
+       m =  u −  u2 −1
+        u = 1 +γ s ⎡⎢ 1  +  1  ⎤⎥
+                 2 ⎣EmAm  EsAs ⎦
+        s = center to center spacing between adjacent
+            fasteners in a row, in.
+        γ = load/slip modulus for a connection, lbs/in.
+          = 500,000 lbs/in. for 4" split ring or shear plate
+            connectors
+          = 400,000 lbs/in. for 2-1/2" split ring or
+            2-5/8" shear plate connectors
+          = (180,000)(D1.5) for dowel-type fasteners in
+            wood-to-wood connections
+          = (270,000)(D1.5) for dowel-type fasteners in
+            wood-to-metal connections
+        D = diameter of dowel-type fastener, in.
+
+Group action factors for various connection geome-
+tries are provided in Tables 11.3.6A, 11.3.6B, 11.3.6C,
+and 11.3.6D.
+
+11.3.6.2 For determining group action factors, a
+row of fasteners is defined as any of the following:
+
+(a) Two or more split rings or shear plate connect-
+
+or units, as defined in 13.1.1, aligned with the
+direction of load.
+(b) Two or more dowel-type fasteners of the same
+
+diameter loaded in single or multiple shear and
+aligned with the direction of load.
+Where fasteners in adjacent rows are staggered and
+the distance between adjacent rows is less than 1/4 the
+distance between the closest fasteners in adjacent rows
+measured parallel to the rows, the adjacent rows shall
+be considered as one row for purposes of determining
+group action factors. For groups of fasteners having an
+even number of rows, this principle shall apply to each
+pair of rows. For groups of fasteners having an odd
+number of rows, the most conservative interpretation
+shall apply (see Figure 11B).
+
+11.3.6.3 Gross section areas shall be used, with no
+reductions for net section, when calculating Am and As
+for determining group action factors. When a member
+is loaded perpendicular to grain its equivalent cross-
+sectional area shall be the product of the thickness of
+the member and the overall width of the fastener group
+(see Figure 11B). Where only one row of fasteners is
+used, the width of the fastener group shall be the mini-
+mum parallel to grain spacing of the fasteners.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

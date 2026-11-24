@@ -1,0 +1,14 @@
+[nds-2018 | NDS-2018.pdf | pdf page 182 | printed page 170]
+
+170 APPENDIX
+
+1.03 for the condition of a simply supported rectangular
+beam with uniform load, a span to depth ratio of 21:1,
+and elastic modulus to shear modulus ratio of 16:1. The
+ratio of shear-free E to apparent E is 1.05 for a similar
+beam with a span to depth ratio of 17:1. See Reference
+53 for information concerning calculation of beam de-
+flection for other span-depth and load conditions.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

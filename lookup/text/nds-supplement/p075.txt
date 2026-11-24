@@ -1,0 +1,77 @@
+[nds-supplement | NDS_supplement.pdf | pdf page 75 | printed page 67]
+
+DESIGN VALUES FOR WOOD CONSTRUCTION – NDS SUPPLEMENT 67
+REFERENCE DESIGN VALUES
+4
+
+Table 5B
+Reference Design Values for Structural Glued Laminated Softwood Timber
+
+(Members stressed primarily in axial tension or compression) (Tabulated design values are for normal load duration and dry service conditions. See
+
+              NDS 5.3 for a comprehensive description of design value adjustment factors.)
+                                                                    Use with Table 5B Adjustment Factors
+                                          All Loading                     Axially Loaded                 Bending about Y-Y Axis              Bending About X-X Axis       Fasteners
+                                      Modulus                                                               Loaded Parallel to Wide          Loaded Perpendicular to Wide
+                                         of                          Tension     Compression                 Faces of Laminations                Faces of Laminations
+                                     Elasticity(6)                   Parallel      Parallel                Bending             Shear Parallel  Bending     Shear Parallel
+                                For              For                 to Grain      to Grain                                    to Grain(1)(2)(3)             to Grain(3)
+                              Deflection        Stability
+                             Calculations     Calculations Compression 2 or More 4 or More 2 or 3 4 or More   3         2                      2 Lami-                   Specific Gravity
+Combination Species   Grade                            Perpendicular Lami-     Lami-     Lami-     Lami-    Lami-     Lami-                   nations to                      for
+  Symbol                                0.95             to Grain    nations   nations  nations   nations   nations  nations                 15 in. Deep(4)             Fastener Design
+                               Eaxial   Eaxial Eaxial min  Fc⊥         Ft        Fc       Fc        Fby      Fby       Fby         Fvy           Fbx           Fvx            G
+                              (106 psi) (106 psi) (106 psi) (psi)     (psi)     (psi)    (psi)     (psi)     (psi)    (psi)       (psi)          (psi)         (psi)
+Visually Graded Western Species
+1             DF       L3       1.6     1.5      0.79      560        950      1550      1250      1450      1250     1000         230          1250           265           0.50
+2             DF       L2       1.7     1.6      0.85      560        1250     1950      1600      1800      1600     1300         230          1700           265           0.50
+3             DF       L2D      2.0     1.9      1.00      650        1450     2300      1900      2100      1850     1550         230          2000           265           0.50
+4             DF      L1CL      2.0     1.9      1.00      590        1400     2100      1950      2200      2000     1650         230          2100           265           0.50
+5             DF       L1       2.1     2.0      1.06      650        1650     2400      2100      2400      2100     1800         230          2200           265           0.50
+14            HF       L3       1.4     1.3      0.69      375        800      1100      1050      1200      1050      850         190          1100           215           0.43
+15            HF       L2       1.5     1.4      0.74      375        1050     1350      1350      1500      1350     1100         190          1450           215           0.43
+16            HF       L1       1.7     1.6      0.85      375        1200     1500      1500      1750      1550     1300         190          1600           215           0.43
+17            HF       L1D      1.8     1.7      0.90      500        1400     1750      1750      2000      1850     1550         190          1900           215           0.43
+22(5)         SW       L3       1.1     1.0      0.53      315        525       850       725      800       700       575         170           725           195           0.35
+69            AC       L3       1.3     1.2      0.63      470        725      1150      1100      1100      975       775         230          1000           265           0.46
+70            AC       L2       1.4     1.3      0.69      470        975      1450      1450      1400      1250     1000         230          1350           265           0.46
+71            AC       L1D      1.7     1.6      0.85      560        1250     1900      1900      1850      1650     1400         230          1750           265           0.46
+72            AC       L1S      1.7     1.6      0.85      560        1250     1900      1900      1850      1650     1400         230          1900           265           0.46
+73            POC      L3       1.4     1.3      0.69      470        775      1500      1200      1200      1050      825         230          1050           265           0.46
+74            POC      L2       1.5     1.4      0.74      470        1050     1900      1550      1450      1300     1100         230          1400           265           0.46
+75            POC      L1D      1.8     1.7      0.90      560        1350     2300      2050      1950      1750     1500         230          1850           265           0.46
+Visually Graded Southern Pine
+47            SP     N2M12      1.5     1.4      0.74      650        1200     1900      1150      1750      1550     1300         260          1400           300           0.55
+47 1:10       SP     N2M10      1.5     1.4      0.74      650        1150     1700      1150      1750      1550     1300         260          1400           300           0.55
+47 1:8        SP      N2M       1.5     1.4      0.74      650        1000     1500      1150      1600      1550     1300         260          1400           300           0.55
+48            SP     N2D12      1.8     1.7      0.90      740        1400     2200      1350      2000      1800     1500         260          1600           300           0.55
+48 1:10       SP     N2D10      1.8     1.7      0.90      740        1350     2000      1350      2000      1800     1500         260          1600           300           0.55
+48 1:8        SP      N2D       1.8     1.7      0.90      740        1150     1750      1350      1850      1800     1500         260          1600           300           0.55
+49            SP     N1M16      1.8     1.7      0.90      650        1350     2100      1450      1950      1750     1500         260          1800           300           0.55
+49 1:14       SP     N1M14      1.8     1.7      0.90      650        1350     2000      1450      1950      1750     1500         260          1800           300           0.55
+49 1:12       SP     N1M12      1.8     1.7      0.90      650        1300     1900      1450      1950      1750     1500         260          1800           300           0.55
+49 1:10       SP      N1M       1.8     1.7      0.90      650        1150     1700      1450      1850      1750     1500         260          1800           300           0.55
+50            SP     N1D14      2.0     1.9      1.00      740        1550     2300      1700      2300      2100     1750         260          2100           300           0.55
+50 1:12       SP     N1D12      2.0     1.9      1.00      740        1500     2200      1700      2300      2100     1750         260          2100           300           0.55
+50 1:10       SP      N1D       2.0     1.9      1.00      740        1350     2000      1700      2100      2100     1750         260          2100           300           0.55
+
+1. For members with 2 or 3 laminations, the reference shear design value for transverse loads parallel to the wide faces of the laminations, Fvy, shall be reduced by multiplying by a factor of 0.84 or 0.95, respectively.
+2. The reference shear design value for transverse loads applied parallel to the wide faces of the laminations, Fvy, shall be multiplied by 0.4 for members with 5, 7, or 9 laminations manufactured from multiple piece
+laminations (across width) that are not edge bonded. The reference shear design value, Fvy, shall be multiplied by 0.5 for all other members manufactured from multiple piece laminations with unbonded edge
+
+joints. This reduction shall be cumulative with the adjustments in footnotes 1 and 3.
+
+3. The reference design values for shear, Fvx and Fvy, shall be multiplied by the shear reduction factor, Cvr, for the conditions defined in NDS 5.3.10.
+4. For members greater than 15 in. deep, the reference bending design value, Fbx, shall be reduced by multiplying by a factor of 0.88.
+5. When Western Cedars, Western Cedars (North), Western Woods, and Redwood (open grain) are used in combinations for Softwood Species (SW), the reference design value for modulus of elasticity, E, shall
+be reduced by 100,000 psi and Emin shall be reduced by 52,800 psi. When Coast Sitka Spruce, Coast Species, Western White Pine, and Eastern White Pine are used in combinations for Softwood Species (SW)
+
+reference design values for shear parallel to grain, Fvx and Fvy, shall be reduced by 10 psi, before applying any other adjustments.
+
+6. Notations: Eaxial = Axial moduli of elasticity for use in axial deformation calculation for compression and tension members as defined by NDS 5.2.7 (Eaxial is equal to Ex true and Ey true as defined in Tables 5A and
+5A Extended when layups are used as beams).
+0.95 Eaxial = Apparent moduli of elasticity in either the X-X or Y-Y direction for use in beam deflection calculations when layups are used as beams.
+Eaxial min = Minimum axial moduli of elasticity for use in column stability calculations.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

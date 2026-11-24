@@ -1,0 +1,93 @@
+[nds-2018 | NDS-2018.pdf | pdf page 66 | printed page 54]
+
+54 STRUCTURAL COMPOSITE LUMBER
+
+or code evaluation reports. When CV ≤ 1.0, the volume
+factor, CV, shall not apply simultaneously with the
+beam stability factor, CL (see 3.3.3) and therefore, the
+lesser value of these adjustment factors shall apply.
+When CV > 1.0, the volume factor, CV, shall apply sim-
+ultaneously with the beam stability factor, CL (see
+3.3.3).
+8.3.6.2 Reference tension design values, Ft, for
+structural composite lumber shall be multiplied by the
+volume factor, CV, which shall be obtained from the
+structural composite lumber manufacturer’s literature
+or code evaluation reports.
+
+8.3.7 Repetitive Member Factor, Cr
+
+Reference bending design values, Fb, shall be mul-
+tiplied by the repetitive member factor, Cr = 1.04,
+where such members are used as joists, studs, or similar
+members which are in contact or spaced not more than
+24" on center, are not less than 3 in number and are
+joined by floor, roof, or other load distributing elements
+adequate to support the design load. (A load distrib-
+uting element is any adequate system that is designed
+or has been proven by experience to transmit the design
+load to adjacent members, spaced as described above,
+without displaying structural weakness or unacceptable
+deflection. Subflooring, flooring, sheathing, or other
+covering elements and nail gluing or tongue-and-
+groove joints, and through nailing generally meet these
+criteria.)
+
+8.3.8 Column Stability Factor, CP
+
+Reference compression design values parallel to
+grain, Fc, shall be multiplied by the column stability
+factor, CP, specified in 3.7.
+
+8.3.9 Bearing Area Factor, Cb
+
+Reference compression design values perpendicular
+to grain, Fc⊥, shall be permitted to be multiplied by the
+bearing area factor, Cb, as specified in 3.10.4.
+
+8.3.10 Pressure-Preservative Treatment
+
+Adjustments to reference design values to account
+for the effects of pressure-preservative treatment shall
+be in accordance with information provided by the
+structural composite lumber manufacturer.
+
+8.3.11 Format Conversion Factor, KF (LRFD
+Only)
+
+For LRFD, reference design values shall be multi-
+plied by the format conversion factor, KF, specified in
+Table 8.3.1.
+
+8.3.12 Resistance Factor, φ (LRFD Only)
+
+For LRFD, reference design values shall be multi-
+plied by the resistance factor, φ, specified in Table
+8.3.1.
+
+8.3.13 Time Effect Factor, λ (LRFD Only)
+
+For LRFD, reference design values shall be multi-
+plied by the time effect factor, λ, specified in Appendix
+N.3.3.
+
+8.4 Special Design Considerations
+
+8.4.1 Notches
+
+8.4.1.1 The tension side of structural composite
+bending members shall not be notched, except at ends
+of members for bearing over a support, and notch depth
+shall not exceed 1/10 the depth of the member. The
+compression side of structural composite bending
+members shall not be notched, except at ends of mem-
+bers, and the notch depth on the compression side shall
+not exceed 2/5 the depth of the member. Compression
+side end-notches shall not extend into the middle third
+of the span.
+
+8.4.1.2 See 3.1.2 and 3.4.3 for effect of notches on
+strength.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

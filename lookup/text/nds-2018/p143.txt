@@ -1,0 +1,39 @@
+[nds-2018 | NDS-2018.pdf | pdf page 143 | printed page 131]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 131
+SPLIT RING AND SHEAR PLATE CONNECTORS
+13
+
+Table 13.3
+Geometry Factors, CΔ, for Split Ring and Shear Plate Connectors
+
+                                                 2-1/2" Split Ring Connectors                                       4" Split Ring Connectors
+                                                              &                                                                &
+                                                 2-5/8" Shear Plate Connectors                                     4" Shear Plate Connectors
+                                          Parallel to                  Perpendicular to                    Parallel to                  Perpendicular to
+                                         grain loading                   grain loading                   grain loading                    grain loading
+                                  Minimum        Minimum for      Minimum        Minimum for       Minimum       Minimum for       Minimum        Minimum for
+                                    Value          CΔ = 1.0         Value          CΔ = 1.0          Value          CΔ = 1.0         Value          CΔ = 1.0
+  Edge        Unloaded Edge         1-1/2"          1-3/4"          1-1/2"          1-3/4"           2-1/2"          2-3/4"          2-1/2"          2-3/4"
+Distance            CΔ               0.88            1.0             0.88             1.0            0.93             1.0             0.93             1.0
+               Loaded Edge            –               –             1-1/2"          2-3/4"             –               –             2-1/2"          3-3/4"
+                CΔ for Split          –               –              0.70             1.0              –               –              0.70             1.0
+                  Rings
+               CΔ for Shear           –               –              0.83             1.0              –               –              0.83             1.0
+                  Plates
+  End            Tension            2-3/4"          5-1/2"          2-3/4"          5-1/2"           3-1/2"            7"            3-1/2"            7"
+Distance         Member
+                    CΔ               0.63            1.0             0.63             1.0            0.63             1.0             0.63             1.0
+               Compression          2-1/2"            4"            2-3/4"          5-1/2"           3-1/4"          5-1/2"          3-1/2"            7"
+                 Member
+                    CΔ               0.63            1.0             0.63             1.0            0.63             1.0             0.63             1.0
+Spacing       Spacing parallel      3-1/2"          6-3/4"          3-1/2"          3-1/2"            5"               9"              5"              5"
+                  to grain
+                    CΔ               0.5             1.0              1.0             1.0             0.5             1.0             1.0              1.0
+                 Spacing            3-1/2"          3-1/2"          3-1/2"          4-1/4"            5"               5"              5"              6"
+             perpendicular to
+                   grain
+                    CΔ               1.0             1.0              0.5             1.0             1.0             1.0             0.5              1.0
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

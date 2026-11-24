@@ -1,0 +1,27 @@
+[nds-2018 | NDS-2018.pdf | pdf page 197 | printed page 185]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 185
+APPENDIX
+A
+
+Appendix M
+(Non-mandatory) Manufacturing Tolerances for Rivets
+and Steel Side Plates for Timber Rivet Connections
+
+Rivet dimensions are taken from ASTM F 1667.
+
+Rivet Dimensions
+
+Steel Side Plate Dimensions
+
+Notes:
+
+1. Hole diameter: 17/64 minimum to 18/64 maximum.
+2. Tolerances in location of holes: 1/8 maximum in any direction.
+3. All dimensions are prior to galvanizing in inches.
+4. sp and sq are defined in 14.3.
+5. es is the end and edge distance as defined by the steel.
+6. Orient wide face of rivets parallel to grain, regardless of plate orientation.
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL

@@ -1,0 +1,87 @@
+[nds-2018 | NDS-2018.pdf | pdf page 187 | printed page 175]
+
+NATIONAL DESIGN SPECIFICATION FOR WOOD CONSTRUCTION 175
+APPENDIX
+A
+
+I.5 Threaded Fasteners
+
+The reduced moment resistance in the threaded por-
+tion of dowel-type fasteners can be accounted for by
+use of root diameter, Dr, in calculation of reference lat-
+eral design values. Use of diameter, D, is permitted
+when the threaded portion of the fastener is sufficiently
+far away from the connection shear plane(s). For exam-
+ple, diameter, D, may be used when the length of thread
+bearing in the main member of a two member connec-
+tion does not exceed 1/4 of the total bearing length in
+the main member (member holding the threads). For a
+connection with three or more members, diameter, D,
+may be used when the length of thread bearing in the
+outermost member does not exceed 1/4 of the total
+bearing length in the outermost member (member hold-
+ing the threads).
+
+Reference lateral design values for reduced body
+diameter lag screw and rolled thread wood screw con-
+
+nections are based on root diameter, Dr to account for
+the reduced diameter of these fasteners. These values
+may also be applicable for full-body diameter lag
+screws and cut thread wood screws since the length of
+threads for these fasteners is generally not known
+and/or the thread bearing length based on typical di-
+mensions exceeds 1/4 the total bearing length in the
+member holding the threads. For bolted connections,
+reference tabulated lateral design values are based on
+diameter, D.
+
+One alternate method of accounting for the moment
+and bearing resistance of the threaded portion of the
+fastener and moment acting along the length of the fas-
+tener is provided in AWC’s Technical Report 12 - Gen-
+eral Dowel Equations for Calculating Lateral Connec-
+tion Values (see Reference 51). A general set of equa-
+tions permits use of different fastener diameters for
+bearing resistance and moment resistance in each
+member.
+
+Table
+
+I1
+Fastener Bending Yield Strengths, Fyb
+
+Fastener Type
+Fyb (psi)
+
+Bolt, lag screw (with D ≥ 3/8"), drift pin (SAE J429 Grade 1 - Fy = 36,000 psi
+and Fu = 60,000 psi)
+
+45,000
+Common, box, or sinker nail, spike, lag screw, wood
+screw (low to medium carbon steel)
+
+0.099" ≤ D ≤ 0.142"
+100,000
+0.142" < D ≤ 0.177"
+90,000
+0.177" < D ≤ 0.236"
+80,000
+0.236" < D ≤ 0.273"
+70,000
+0.273" < D ≤ 0.344"
+60,000
+0.344" < D ≤ 0.375"
+45,000
+
+Hardened steel nail (medium carbon steel) including post-frame ring shank nails
+
+0.120" ≤ D ≤ 0.142"
+130,000
+0.142" < D ≤ 0.192"
+115,000
+0.192" < D ≤ 0.207"
+100,000
+
+Copyright © American Wood Council. Downloaded/printed pursuant to License Agreement. No reproduction or transfer authorized.
+AMERICAN WOOD COUNCIL
